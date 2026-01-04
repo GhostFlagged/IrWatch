@@ -51,11 +51,13 @@ Import them into databases or analytics tools
 Analyze domain growth and newly issued certificates over time
 
 Example (Python)
+```
 import json
 
 with open("ir_domains_20251229_214500.json") as f:
     data = json.load(f)
 print(data[:10])
+```
 
 ## 💡 Motivation
 
