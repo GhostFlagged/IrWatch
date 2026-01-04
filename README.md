@@ -16,7 +16,7 @@ JSON files: ir_domains_YYYYMMDD_HHMMSS.json
 Each file is timestamped to track changes over time.
 
 
-🚀 Use Cases & Practical Applications
+## 🚀 Use Cases & Practical Applications
 
 This dataset is especially useful for threat hunting, attack surface discovery, and bug bounty automation.
 
