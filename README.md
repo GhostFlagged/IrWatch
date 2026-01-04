@@ -1,20 +1,19 @@
 # IR Domains Archive
+
 A curated archive of all .ir domains collected from Certificate Transparency logs.
 
 ## 📝 Purpose
 
-I wanted to collect all domains under the .ir TLD. Existing lists were expensive (ranging from $34 to $433), so I created this personal solution to collect, archive, and maintain the data myself.
+The goal of this project is to collect all domains under the .ir TLD. Existing lists were expensive (ranging from $34 to $433), so I created this personal solution to collect, archive, and maintain the data myself.
 
-This repository contains historical snapshots of .ir domains in CSV and JSON format.
+This repository provides historical snapshots of .ir domains in JSON format, allowing easy tracking of newly issued domains over time.
 
 ## 📂 Contents
 
-CSV files: ir_domains_YYYYMMDD_HHMMSS.csv
+JSON files:
+ir_domains_YYYYMMDD_HHMMSS.json
 
-JSON files: ir_domains_YYYYMMDD_HHMMSS.json
-
-Each file is timestamped to track changes over time.
-
+Each file is timestamped to track changes and monitor domain growth over time.
 
 ## 🚀 Use Cases & Practical Applications
 
@@ -38,31 +37,29 @@ This approach enables rapid response to newly published CVEs. When a vulnerabili
 
 In practice, this methodology has led to the discovery of vulnerable assets that had been deployed only days or weeks earlier, demonstrating the value of Certificate Transparency logs as an early-warning system for vulnerability discovery.
 
+For a full step-by-step example of how to filter .ir domains from CertStream and turn them into actionable bug bounty findings, check out my blog post:
+From Certificate Transparency Logs to Vulnerabilities
 
 ## 💻 How to Use
 
-You can download the CSV or JSON files and:
+You can download the JSON files and:
 
-Open in Excel, Google Sheets, or any CSV/JSON reader
+Load them into scripts or applications
 
-Import into databases or analytics tools
+Import them into databases or analytics tools
 
-Analyze domain growth over time
+Analyze domain growth and newly issued certificates over time
 
-Example in Python:
-
-
-```python
+Example (Python)
 import json
 
 with open("ir_domains_20251229_214500.json") as f:
     data = json.load(f)
 print(data[:10])
 
-```
-
-
 ## 💡 Motivation
 
-Existing .ir domain lists were costly and incomplete.
-This repository provides a free, continuously updated archive of .ir domains.
+Existing .ir domain lists were costly and often incomplete.
+This repository provides a free, continuously updated archive of .ir domains sourced directly from Certificate Transparency logs.
+
+If you want, I can also rewrite the README in fully Markdown-optimized style for GitHub, with badges, tables of contents, and collapsible code blocks — this makes it look super professional.
