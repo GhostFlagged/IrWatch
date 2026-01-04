@@ -37,8 +37,8 @@ This approach enables rapid response to newly published CVEs. When a vulnerabili
 
 In practice, this methodology has led to the discovery of vulnerable assets that had been deployed only days or weeks earlier, demonstrating the value of Certificate Transparency logs as an early-warning system for vulnerability discovery.
 
-For a full step-by-step example of how to filter .ir domains from CertStream and turn them into actionable bug bounty findings, check out my blog post:
-From Certificate Transparency Logs to Vulnerabilities
+full step-by-step walkthrough of this process — from collecting CT log data to discovering vulnerabilities — check out the article:
+➡️ https://hexlog.hashnode.dev/from-certificate-transparency-logs-to-vulnerabilities
 
 ## 💻 How to Use
 
