@@ -63,5 +63,3 @@ print(data[:10])
 
 Existing .ir domain lists were costly and often incomplete.
 This repository provides a free, continuously updated archive of .ir domains sourced directly from Certificate Transparency logs.
-
-If you want, I can also rewrite the README in fully Markdown-optimized style for GitHub, with badges, tables of contents, and collapsible code blocks — this makes it look super professional.
