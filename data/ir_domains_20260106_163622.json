@@ -1,0 +1,6872 @@
+[
+  {
+    "id": 2061282,
+    "domain": "agahansystem.ir",
+    "first_seen": "2026-01-06 15:36:27.889744"
+  },
+  {
+    "id": 2061283,
+    "domain": "www.agahansystem.ir",
+    "first_seen": "2026-01-06 15:36:27.889975"
+  },
+  {
+    "id": 2061317,
+    "domain": "*.technoria.ir",
+    "first_seen": "2026-01-06 15:36:35.010860"
+  },
+  {
+    "id": 2061400,
+    "domain": "ndashti.ir",
+    "first_seen": "2026-01-06 15:36:44.735223"
+  },
+  {
+    "id": 2061401,
+    "domain": "www.ndashti.ir",
+    "first_seen": "2026-01-06 15:36:44.735400"
+  },
+  {
+    "id": 2061477,
+    "domain": "test.irandigitaltwin.ir",
+    "first_seen": "2026-01-06 15:37:18.022686"
+  },
+  {
+    "id": 2061505,
+    "domain": "vihangame.ir",
+    "first_seen": "2026-01-06 15:37:28.445121"
+  },
+  {
+    "id": 2061506,
+    "domain": "www.vihangame.ir",
+    "first_seen": "2026-01-06 15:37:28.445371"
+  },
+  {
+    "id": 2061507,
+    "domain": "autodiscover.mohammadjavadsaifmazhari.ir",
+    "first_seen": "2026-01-06 15:37:28.456925"
+  },
+  {
+    "id": 2061508,
+    "domain": "cpanel.mohammadjavadsaifmazhari.ir",
+    "first_seen": "2026-01-06 15:37:28.457102"
+  },
+  {
+    "id": 2061509,
+    "domain": "cpcalendars.mohammadjavadsaifmazhari.ir",
+    "first_seen": "2026-01-06 15:37:28.457152"
+  },
+  {
+    "id": 2061510,
+    "domain": "cpcontacts.mohammadjavadsaifmazhari.ir",
+    "first_seen": "2026-01-06 15:37:28.457220"
+  },
+  {
+    "id": 2061511,
+    "domain": "mail.mohammadjavadsaifmazhari.ir",
+    "first_seen": "2026-01-06 15:37:28.457269"
+  },
+  {
+    "id": 2061512,
+    "domain": "mohammadjavadsaifmazhari.ir",
+    "first_seen": "2026-01-06 15:37:28.457335"
+  },
+  {
+    "id": 2061513,
+    "domain": "webdisk.mohammadjavadsaifmazhari.ir",
+    "first_seen": "2026-01-06 15:37:28.457372"
+  },
+  {
+    "id": 2061514,
+    "domain": "webmail.mohammadjavadsaifmazhari.ir",
+    "first_seen": "2026-01-06 15:37:28.457435"
+  },
+  {
+    "id": 2061515,
+    "domain": "www.mohammadjavadsaifmazhari.ir",
+    "first_seen": "2026-01-06 15:37:28.457464"
+  },
+  {
+    "id": 2061522,
+    "domain": "*.tebbii.ir",
+    "first_seen": "2026-01-06 15:37:30.513902"
+  },
+  {
+    "id": 2061523,
+    "domain": "tebbii.ir",
+    "first_seen": "2026-01-06 15:37:30.514145"
+  },
+  {
+    "id": 2061524,
+    "domain": "task.irandigitaltwin.ir",
+    "first_seen": "2026-01-06 15:37:30.603254"
+  },
+  {
+    "id": 2061525,
+    "domain": "kenwoodcenter.ir",
+    "first_seen": "2026-01-06 15:37:30.894476"
+  },
+  {
+    "id": 2061526,
+    "domain": "*.kenwoodcenter.ir",
+    "first_seen": "2026-01-06 15:37:30.894734"
+  },
+  {
+    "id": 2061582,
+    "domain": "tntahrir.ir",
+    "first_seen": "2026-01-06 15:37:47.944285"
+  },
+  {
+    "id": 2061583,
+    "domain": "www.tntahrir.ir",
+    "first_seen": "2026-01-06 15:37:47.944529"
+  },
+  {
+    "id": 2061586,
+    "domain": "*.omidpsycho.ir",
+    "first_seen": "2026-01-06 15:37:48.864407"
+  },
+  {
+    "id": 2061587,
+    "domain": "omidpsycho.ir",
+    "first_seen": "2026-01-06 15:37:48.864681"
+  },
+  {
+    "id": 2061588,
+    "domain": "new.shoprax.ir",
+    "first_seen": "2026-01-06 15:37:50.417921"
+  },
+  {
+    "id": 2061589,
+    "domain": "www.new.shoprax.ir",
+    "first_seen": "2026-01-06 15:37:50.418185"
+  },
+  {
+    "id": 2061715,
+    "domain": "api.sufiexchange.ir",
+    "first_seen": "2026-01-06 15:38:00.805828"
+  },
+  {
+    "id": 2061726,
+    "domain": "shahrakmobile.ir",
+    "first_seen": "2026-01-06 15:38:04.552883"
+  },
+  {
+    "id": 2061727,
+    "domain": "www.shahrakmobile.ir",
+    "first_seen": "2026-01-06 15:38:04.553132"
+  },
+  {
+    "id": 2061769,
+    "domain": "*.green-plant.ir",
+    "first_seen": "2026-01-06 15:38:09.067613"
+  },
+  {
+    "id": 2061770,
+    "domain": "green-plant.ir",
+    "first_seen": "2026-01-06 15:38:09.067864"
+  },
+  {
+    "id": 2061771,
+    "domain": "www.new.green-plant.ir",
+    "first_seen": "2026-01-06 15:38:09.067911"
+  },
+  {
+    "id": 2061784,
+    "domain": "albeshari.ir",
+    "first_seen": "2026-01-06 15:38:16.646657"
+  },
+  {
+    "id": 2061785,
+    "domain": "autodiscover.albeshari.ir",
+    "first_seen": "2026-01-06 15:38:16.646963"
+  },
+  {
+    "id": 2061786,
+    "domain": "cpanel.albeshari.ir",
+    "first_seen": "2026-01-06 15:38:16.647024"
+  },
+  {
+    "id": 2061787,
+    "domain": "cpcalendars.albeshari.ir",
+    "first_seen": "2026-01-06 15:38:16.647153"
+  },
+  {
+    "id": 2061788,
+    "domain": "cpcontacts.albeshari.ir",
+    "first_seen": "2026-01-06 15:38:16.647206"
+  },
+  {
+    "id": 2061789,
+    "domain": "mail.albeshari.ir",
+    "first_seen": "2026-01-06 15:38:16.647256"
+  },
+  {
+    "id": 2061790,
+    "domain": "webdisk.albeshari.ir",
+    "first_seen": "2026-01-06 15:38:16.647294"
+  },
+  {
+    "id": 2061791,
+    "domain": "webmail.albeshari.ir",
+    "first_seen": "2026-01-06 15:38:16.647330"
+  },
+  {
+    "id": 2061792,
+    "domain": "www.albeshari.ir",
+    "first_seen": "2026-01-06 15:38:16.647377"
+  },
+  {
+    "id": 2061823,
+    "domain": "mehric.com.mehremc.ir",
+    "first_seen": "2026-01-06 15:38:21.006463"
+  },
+  {
+    "id": 2061824,
+    "domain": "www.mehric.com.mehremc.ir",
+    "first_seen": "2026-01-06 15:38:21.006747"
+  },
+  {
+    "id": 2061866,
+    "domain": "*.cafefarhangsalmas.ir",
+    "first_seen": "2026-01-06 15:38:25.341653"
+  },
+  {
+    "id": 2061871,
+    "domain": "baynoco.ir",
+    "first_seen": "2026-01-06 15:38:26.637437"
+  },
+  {
+    "id": 2061872,
+    "domain": "*.baynoco.ir",
+    "first_seen": "2026-01-06 15:38:26.637722"
+  },
+  {
+    "id": 2061877,
+    "domain": "payline.ir",
+    "first_seen": "2026-01-06 15:38:27.676150"
+  },
+  {
+    "id": 2061878,
+    "domain": "*.payline.ir",
+    "first_seen": "2026-01-06 15:38:27.676475"
+  },
+  {
+    "id": 2061881,
+    "domain": "*.baloonor.ir",
+    "first_seen": "2026-01-06 15:38:28.111931"
+  },
+  {
+    "id": 2061882,
+    "domain": "baloonor.ir",
+    "first_seen": "2026-01-06 15:38:28.112282"
+  },
+  {
+    "id": 2061889,
+    "domain": "beamgostar.ir",
+    "first_seen": "2026-01-06 15:38:30.956133"
+  },
+  {
+    "id": 2061890,
+    "domain": "www.beamgostar.ir",
+    "first_seen": "2026-01-06 15:38:30.956370"
+  },
+  {
+    "id": 2061891,
+    "domain": "fardis.javabdehi.ir",
+    "first_seen": "2026-01-06 15:38:31.083945"
+  },
+  {
+    "id": 2061996,
+    "domain": "autodiscover.rahatpack.ir",
+    "first_seen": "2026-01-06 15:38:49.603201"
+  },
+  {
+    "id": 2061997,
+    "domain": "cpanel.rahatpack.ir",
+    "first_seen": "2026-01-06 15:38:49.603442"
+  },
+  {
+    "id": 2061998,
+    "domain": "cpcalendars.rahatpack.ir",
+    "first_seen": "2026-01-06 15:38:49.603535"
+  },
+  {
+    "id": 2061999,
+    "domain": "cpcontacts.rahatpack.ir",
+    "first_seen": "2026-01-06 15:38:49.603621"
+  },
+  {
+    "id": 2062003,
+    "domain": "webdisk.rahatpack.ir",
+    "first_seen": "2026-01-06 15:38:49.603725"
+  },
+  {
+    "id": 2062004,
+    "domain": "webmail.rahatpack.ir",
+    "first_seen": "2026-01-06 15:38:49.603760"
+  },
+  {
+    "id": 2062007,
+    "domain": "rolext.ir",
+    "first_seen": "2026-01-06 15:38:49.679251"
+  },
+  {
+    "id": 2062008,
+    "domain": "*.rolext.ir",
+    "first_seen": "2026-01-06 15:38:49.679464"
+  },
+  {
+    "id": 2062010,
+    "domain": "yaghoobac.ir",
+    "first_seen": "2026-01-06 15:38:54.606288"
+  },
+  {
+    "id": 2062011,
+    "domain": "autodiscover.clinictavanafza.ir",
+    "first_seen": "2026-01-06 15:38:54.807187"
+  },
+  {
+    "id": 2062012,
+    "domain": "clinictavanafza.ir",
+    "first_seen": "2026-01-06 15:38:54.807470"
+  },
+  {
+    "id": 2062013,
+    "domain": "cpanel.clinictavanafza.ir",
+    "first_seen": "2026-01-06 15:38:54.807509"
+  },
+  {
+    "id": 2062014,
+    "domain": "cpcalendars.clinictavanafza.ir",
+    "first_seen": "2026-01-06 15:38:54.807534"
+  },
+  {
+    "id": 2062015,
+    "domain": "cpcontacts.clinictavanafza.ir",
+    "first_seen": "2026-01-06 15:38:54.807884"
+  },
+  {
+    "id": 2062016,
+    "domain": "mail.clinictavanafza.ir",
+    "first_seen": "2026-01-06 15:38:54.807978"
+  },
+  {
+    "id": 2062017,
+    "domain": "webdisk.clinictavanafza.ir",
+    "first_seen": "2026-01-06 15:38:54.808079"
+  },
+  {
+    "id": 2062018,
+    "domain": "webmail.clinictavanafza.ir",
+    "first_seen": "2026-01-06 15:38:54.808108"
+  },
+  {
+    "id": 2062019,
+    "domain": "www.clinictavanafza.ir",
+    "first_seen": "2026-01-06 15:38:54.808167"
+  },
+  {
+    "id": 2062021,
+    "domain": "ramezanipart.ir",
+    "first_seen": "2026-01-06 15:38:56.339455"
+  },
+  {
+    "id": 2062024,
+    "domain": "cpcalendars.kicklab.ir",
+    "first_seen": "2026-01-06 15:38:58.224699"
+  },
+  {
+    "id": 2062028,
+    "domain": "www.admin.kicklab.ir",
+    "first_seen": "2026-01-06 15:38:58.224797"
+  },
+  {
+    "id": 2062037,
+    "domain": "*.memu.ir",
+    "first_seen": "2026-01-06 15:38:58.974577"
+  },
+  {
+    "id": 2062038,
+    "domain": "memu.ir",
+    "first_seen": "2026-01-06 15:38:58.975030"
+  },
+  {
+    "id": 2062055,
+    "domain": "autodiscover.idehnovingostar.ir",
+    "first_seen": "2026-01-06 15:39:07.765542"
+  },
+  {
+    "id": 2062056,
+    "domain": "cpanel.idehnovingostar.ir",
+    "first_seen": "2026-01-06 15:39:07.765702"
+  },
+  {
+    "id": 2062057,
+    "domain": "cpcalendars.idehnovingostar.ir",
+    "first_seen": "2026-01-06 15:39:07.765739"
+  },
+  {
+    "id": 2062098,
+    "domain": "autodiscover.pucashop.ir",
+    "first_seen": "2026-01-06 15:39:20.369103"
+  },
+  {
+    "id": 2062099,
+    "domain": "cpanel.pucashop.ir",
+    "first_seen": "2026-01-06 15:39:20.369316"
+  },
+  {
+    "id": 2062104,
+    "domain": "webdisk.pucashop.ir",
+    "first_seen": "2026-01-06 15:39:20.369443"
+  },
+  {
+    "id": 2062105,
+    "domain": "webmail.pucashop.ir",
+    "first_seen": "2026-01-06 15:39:20.369500"
+  },
+  {
+    "id": 2062107,
+    "domain": "autodiscover.dr-chabok.ir",
+    "first_seen": "2026-01-06 15:39:20.966701"
+  },
+  {
+    "id": 2062108,
+    "domain": "cpanel.dr-chabok.ir",
+    "first_seen": "2026-01-06 15:39:20.966884"
+  },
+  {
+    "id": 2062109,
+    "domain": "cpcalendars.dr-chabok.ir",
+    "first_seen": "2026-01-06 15:39:20.966985"
+  },
+  {
+    "id": 2062110,
+    "domain": "cpcontacts.dr-chabok.ir",
+    "first_seen": "2026-01-06 15:39:20.967014"
+  },
+  {
+    "id": 2062111,
+    "domain": "dr-chabok.ir",
+    "first_seen": "2026-01-06 15:39:20.967076"
+  },
+  {
+    "id": 2062112,
+    "domain": "mail.dr-chabok.ir",
+    "first_seen": "2026-01-06 15:39:20.967107"
+  },
+  {
+    "id": 2062113,
+    "domain": "webdisk.dr-chabok.ir",
+    "first_seen": "2026-01-06 15:39:20.967162"
+  },
+  {
+    "id": 2062114,
+    "domain": "webmail.dr-chabok.ir",
+    "first_seen": "2026-01-06 15:39:20.967291"
+  },
+  {
+    "id": 2062115,
+    "domain": "www.dr-chabok.ir",
+    "first_seen": "2026-01-06 15:39:20.967316"
+  },
+  {
+    "id": 2062153,
+    "domain": "autodiscover.zavaraghi.ir",
+    "first_seen": "2026-01-06 15:39:27.123950"
+  },
+  {
+    "id": 2062154,
+    "domain": "cpanel.zavaraghi.ir",
+    "first_seen": "2026-01-06 15:39:27.124192"
+  },
+  {
+    "id": 2062155,
+    "domain": "cpcalendars.zavaraghi.ir",
+    "first_seen": "2026-01-06 15:39:27.124281"
+  },
+  {
+    "id": 2062156,
+    "domain": "cpcontacts.zavaraghi.ir",
+    "first_seen": "2026-01-06 15:39:27.124562"
+  },
+  {
+    "id": 2062157,
+    "domain": "mail.zavaraghi.ir",
+    "first_seen": "2026-01-06 15:39:27.124645"
+  },
+  {
+    "id": 2062158,
+    "domain": "webdisk.zavaraghi.ir",
+    "first_seen": "2026-01-06 15:39:27.124710"
+  },
+  {
+    "id": 2062159,
+    "domain": "webmail.zavaraghi.ir",
+    "first_seen": "2026-01-06 15:39:27.124769"
+  },
+  {
+    "id": 2062160,
+    "domain": "www.zavaraghi.ir",
+    "first_seen": "2026-01-06 15:39:27.124830"
+  },
+  {
+    "id": 2062161,
+    "domain": "www.zavaraghi.zavareghi.ir",
+    "first_seen": "2026-01-06 15:39:27.124862"
+  },
+  {
+    "id": 2062162,
+    "domain": "zavaraghi.ir",
+    "first_seen": "2026-01-06 15:39:27.124872"
+  },
+  {
+    "id": 2062163,
+    "domain": "zavaraghi.zavareghi.ir",
+    "first_seen": "2026-01-06 15:39:27.124890"
+  },
+  {
+    "id": 2062164,
+    "domain": "dadavaran.webartis.ir",
+    "first_seen": "2026-01-06 15:39:28.746290"
+  },
+  {
+    "id": 2062194,
+    "domain": "*.absharstone.ir",
+    "first_seen": "2026-01-06 15:39:38.124488"
+  },
+  {
+    "id": 2062196,
+    "domain": "*.com.absharstone.ir",
+    "first_seen": "2026-01-06 15:39:38.124815"
+  },
+  {
+    "id": 2062197,
+    "domain": "absharstone.ir",
+    "first_seen": "2026-01-06 15:39:38.124857"
+  },
+  {
+    "id": 2062199,
+    "domain": "appceram.ir.absharstone.ir",
+    "first_seen": "2026-01-06 15:39:38.124911"
+  },
+  {
+    "id": 2062200,
+    "domain": "onyxstone.me.absharstone.ir",
+    "first_seen": "2026-01-06 15:39:38.124931"
+  },
+  {
+    "id": 2062201,
+    "domain": "razstone.co.absharstone.ir",
+    "first_seen": "2026-01-06 15:39:38.124953"
+  },
+  {
+    "id": 2062202,
+    "domain": "www.absharstone.com.absharstone.ir",
+    "first_seen": "2026-01-06 15:39:38.124989"
+  },
+  {
+    "id": 2062203,
+    "domain": "www.appceram.ir.absharstone.ir",
+    "first_seen": "2026-01-06 15:39:38.125012"
+  },
+  {
+    "id": 2062204,
+    "domain": "www.crm.absharstone.ir",
+    "first_seen": "2026-01-06 15:39:38.125033"
+  },
+  {
+    "id": 2062205,
+    "domain": "www.onyxstone.me.absharstone.ir",
+    "first_seen": "2026-01-06 15:39:38.125054"
+  },
+  {
+    "id": 2062206,
+    "domain": "www.razstone.co.absharstone.ir",
+    "first_seen": "2026-01-06 15:39:38.125085"
+  },
+  {
+    "id": 2062207,
+    "domain": "www.tarashsang.com.absharstone.ir",
+    "first_seen": "2026-01-06 15:39:38.125116"
+  },
+  {
+    "id": 2062217,
+    "domain": "bc10.ir",
+    "first_seen": "2026-01-06 15:39:42.274818"
+  },
+  {
+    "id": 2062218,
+    "domain": "*.bc10.ir",
+    "first_seen": "2026-01-06 15:39:42.274999"
+  },
+  {
+    "id": 2062350,
+    "domain": "directus.19app.ir",
+    "first_seen": "2026-01-06 15:40:10.596614"
+  },
+  {
+    "id": 2062371,
+    "domain": "dezhandishan.ir",
+    "first_seen": "2026-01-06 15:40:19.666034"
+  },
+  {
+    "id": 2062372,
+    "domain": "mail.dezhandishan.ir",
+    "first_seen": "2026-01-06 15:40:19.666310"
+  },
+  {
+    "id": 2062373,
+    "domain": "pop.dezhandishan.ir",
+    "first_seen": "2026-01-06 15:40:19.666348"
+  },
+  {
+    "id": 2062374,
+    "domain": "smtp.dezhandishan.ir",
+    "first_seen": "2026-01-06 15:40:19.666391"
+  },
+  {
+    "id": 2062375,
+    "domain": "www.dezhandishan.ir",
+    "first_seen": "2026-01-06 15:40:19.666414"
+  },
+  {
+    "id": 2062377,
+    "domain": "*.tlist.ir",
+    "first_seen": "2026-01-06 15:40:21.816660"
+  },
+  {
+    "id": 2062378,
+    "domain": "tlist.ir",
+    "first_seen": "2026-01-06 15:40:21.816861"
+  },
+  {
+    "id": 2062379,
+    "domain": "shop.webartis.ir",
+    "first_seen": "2026-01-06 15:40:22.070993"
+  },
+  {
+    "id": 2062380,
+    "domain": "*.bartarinsaz.ir",
+    "first_seen": "2026-01-06 15:40:22.084551"
+  },
+  {
+    "id": 2062381,
+    "domain": "bartarinsaz.ir",
+    "first_seen": "2026-01-06 15:40:22.084780"
+  },
+  {
+    "id": 2062402,
+    "domain": "webmail.shiraztabaservice.ir",
+    "first_seen": "2026-01-06 15:40:25.960809"
+  },
+  {
+    "id": 2062423,
+    "domain": "mahdirazzaghi.ir",
+    "first_seen": "2026-01-06 15:40:29.919080"
+  },
+  {
+    "id": 2062424,
+    "domain": "*.mahdirazzaghi.ir",
+    "first_seen": "2026-01-06 15:40:29.919269"
+  },
+  {
+    "id": 2062433,
+    "domain": "rameshlahiji.ir",
+    "first_seen": "2026-01-06 15:40:31.685285"
+  },
+  {
+    "id": 2062434,
+    "domain": "*.rameshlahiji.ir",
+    "first_seen": "2026-01-06 15:40:31.685506"
+  },
+  {
+    "id": 2062448,
+    "domain": "top-change.ir",
+    "first_seen": "2026-01-06 15:40:32.675834"
+  },
+  {
+    "id": 2062449,
+    "domain": "*.top-change.ir",
+    "first_seen": "2026-01-06 15:40:32.676104"
+  },
+  {
+    "id": 2062578,
+    "domain": "autodiscover.onboxing.ir",
+    "first_seen": "2026-01-06 15:40:41.639756"
+  },
+  {
+    "id": 2062579,
+    "domain": "cpanel.onboxing.ir",
+    "first_seen": "2026-01-06 15:40:41.640017"
+  },
+  {
+    "id": 2062580,
+    "domain": "cpcalendars.onboxing.ir",
+    "first_seen": "2026-01-06 15:40:41.640055"
+  },
+  {
+    "id": 2062581,
+    "domain": "cpcontacts.onboxing.ir",
+    "first_seen": "2026-01-06 15:40:41.640083"
+  },
+  {
+    "id": 2062582,
+    "domain": "mail.onboxing.ir",
+    "first_seen": "2026-01-06 15:40:41.640174"
+  },
+  {
+    "id": 2062583,
+    "domain": "onboxing.ir",
+    "first_seen": "2026-01-06 15:40:41.640211"
+  },
+  {
+    "id": 2062584,
+    "domain": "onboxing.ir.importstore.ir",
+    "first_seen": "2026-01-06 15:40:41.640233"
+  },
+  {
+    "id": 2062585,
+    "domain": "webdisk.onboxing.ir",
+    "first_seen": "2026-01-06 15:40:41.640242"
+  },
+  {
+    "id": 2062586,
+    "domain": "webmail.onboxing.ir",
+    "first_seen": "2026-01-06 15:40:41.640270"
+  },
+  {
+    "id": 2062587,
+    "domain": "www.onboxing.ir",
+    "first_seen": "2026-01-06 15:40:41.640293"
+  },
+  {
+    "id": 2062588,
+    "domain": "www.onboxing.ir.importstore.ir",
+    "first_seen": "2026-01-06 15:40:41.640313"
+  },
+  {
+    "id": 2062603,
+    "domain": "*.msfpack.ir",
+    "first_seen": "2026-01-06 15:40:44.212176"
+  },
+  {
+    "id": 2062604,
+    "domain": "msfpack.ir",
+    "first_seen": "2026-01-06 15:40:44.212459"
+  },
+  {
+    "id": 2062644,
+    "domain": "mail.respamassage.ir",
+    "first_seen": "2026-01-06 15:40:52.376560"
+  },
+  {
+    "id": 2062645,
+    "domain": "pop.respamassage.ir",
+    "first_seen": "2026-01-06 15:40:52.376748"
+  },
+  {
+    "id": 2062646,
+    "domain": "respamassage.ir",
+    "first_seen": "2026-01-06 15:40:52.376803"
+  },
+  {
+    "id": 2062647,
+    "domain": "smtp.respamassage.ir",
+    "first_seen": "2026-01-06 15:40:52.376839"
+  },
+  {
+    "id": 2062648,
+    "domain": "www.respamassage.ir",
+    "first_seen": "2026-01-06 15:40:52.376872"
+  },
+  {
+    "id": 2062654,
+    "domain": "*.danayanco.ir",
+    "first_seen": "2026-01-06 15:40:54.276397"
+  },
+  {
+    "id": 2062655,
+    "domain": "*.tsfk.ir",
+    "first_seen": "2026-01-06 15:40:54.276641"
+  },
+  {
+    "id": 2062656,
+    "domain": "danayanco.ir",
+    "first_seen": "2026-01-06 15:40:54.276694"
+  },
+  {
+    "id": 2062657,
+    "domain": "danayanco.ir.tsfk.ir",
+    "first_seen": "2026-01-06 15:40:54.276875"
+  },
+  {
+    "id": 2062658,
+    "domain": "tsfk.ir",
+    "first_seen": "2026-01-06 15:40:54.276895"
+  },
+  {
+    "id": 2062659,
+    "domain": "www.danayanco.ir.tsfk.ir",
+    "first_seen": "2026-01-06 15:40:54.276926"
+  },
+  {
+    "id": 2062662,
+    "domain": "autodiscover.maxware.ir",
+    "first_seen": "2026-01-06 15:40:55.969053"
+  },
+  {
+    "id": 2062663,
+    "domain": "cpcalendars.maxware.ir",
+    "first_seen": "2026-01-06 15:40:55.969272"
+  },
+  {
+    "id": 2062664,
+    "domain": "cpcontacts.maxware.ir",
+    "first_seen": "2026-01-06 15:40:55.969301"
+  },
+  {
+    "id": 2062665,
+    "domain": "mail.maxware.ir",
+    "first_seen": "2026-01-06 15:40:55.969327"
+  },
+  {
+    "id": 2062666,
+    "domain": "webmail.maxware.ir",
+    "first_seen": "2026-01-06 15:40:55.969365"
+  },
+  {
+    "id": 2062667,
+    "domain": "www.maxware.ir",
+    "first_seen": "2026-01-06 15:40:55.969409"
+  },
+  {
+    "id": 2062669,
+    "domain": "portfolio.makebyhamid.ir",
+    "first_seen": "2026-01-06 15:40:58.242506"
+  },
+  {
+    "id": 2062676,
+    "domain": "*.sina81busines.ir",
+    "first_seen": "2026-01-06 15:41:01.650739"
+  },
+  {
+    "id": 2062677,
+    "domain": "*.rundemanplus.ir",
+    "first_seen": "2026-01-06 15:41:01.687017"
+  },
+  {
+    "id": 2062678,
+    "domain": "rundemanplus.ir",
+    "first_seen": "2026-01-06 15:41:01.687490"
+  },
+  {
+    "id": 2062692,
+    "domain": "dl.akskhor.ir",
+    "first_seen": "2026-01-06 15:41:03.312335"
+  },
+  {
+    "id": 2062745,
+    "domain": "*.dastboos.ir",
+    "first_seen": "2026-01-06 15:41:20.689993"
+  },
+  {
+    "id": 2062746,
+    "domain": "dastboos.ir",
+    "first_seen": "2026-01-06 15:41:20.690197"
+  },
+  {
+    "id": 2062753,
+    "domain": "test.tarasho.ir",
+    "first_seen": "2026-01-06 15:41:22.543166"
+  },
+  {
+    "id": 2062754,
+    "domain": "www.test.tarasho.ir",
+    "first_seen": "2026-01-06 15:41:22.543515"
+  },
+  {
+    "id": 2062776,
+    "domain": "s1.asrnoor.ir",
+    "first_seen": "2026-01-06 15:41:28.577193"
+  },
+  {
+    "id": 2062779,
+    "domain": "*.riwasfood.ir",
+    "first_seen": "2026-01-06 15:41:30.037778"
+  },
+  {
+    "id": 2062780,
+    "domain": "riwasfood.ir",
+    "first_seen": "2026-01-06 15:41:30.038011"
+  },
+  {
+    "id": 2062822,
+    "domain": "timer.0hoo.ir",
+    "first_seen": "2026-01-06 15:41:40.567001"
+  },
+  {
+    "id": 2062990,
+    "domain": "autodiscover.amnic.ir",
+    "first_seen": "2026-01-06 15:42:06.394833"
+  },
+  {
+    "id": 2062994,
+    "domain": "mail.amnic.ir",
+    "first_seen": "2026-01-06 15:42:06.394952"
+  },
+  {
+    "id": 2062997,
+    "domain": "www.amnic.ir",
+    "first_seen": "2026-01-06 15:42:06.395006"
+  },
+  {
+    "id": 2063020,
+    "domain": "vm.rabn.ir",
+    "first_seen": "2026-01-06 15:42:13.474911"
+  },
+  {
+    "id": 2063031,
+    "domain": "tk1.terafic.ir",
+    "first_seen": "2026-01-06 15:42:16.123753"
+  },
+  {
+    "id": 2063057,
+    "domain": "*.herowatch.ir",
+    "first_seen": "2026-01-06 15:42:27.213452"
+  },
+  {
+    "id": 2063058,
+    "domain": "herowatch.ir",
+    "first_seen": "2026-01-06 15:42:27.213778"
+  },
+  {
+    "id": 2063059,
+    "domain": "www.virasco.herowatch.ir",
+    "first_seen": "2026-01-06 15:42:27.213843"
+  },
+  {
+    "id": 2063222,
+    "domain": "dl.nedayepakefetrat.ir",
+    "first_seen": "2026-01-06 15:42:46.737840"
+  },
+  {
+    "id": 2063223,
+    "domain": "www.dl.nedayepakefetrat.ir",
+    "first_seen": "2026-01-06 15:42:46.738135"
+  },
+  {
+    "id": 2063231,
+    "domain": "*.deltamo.ir",
+    "first_seen": "2026-01-06 15:42:49.324746"
+  },
+  {
+    "id": 2063243,
+    "domain": "dl.gamei.ir",
+    "first_seen": "2026-01-06 15:42:58.572293"
+  },
+  {
+    "id": 2063261,
+    "domain": "safarmi.ir",
+    "first_seen": "2026-01-06 15:43:03.958562"
+  },
+  {
+    "id": 2063262,
+    "domain": "www.safarmi.ir",
+    "first_seen": "2026-01-06 15:43:03.958803"
+  },
+  {
+    "id": 2063265,
+    "domain": "*.emtedadweb.ir",
+    "first_seen": "2026-01-06 15:43:04.459566"
+  },
+  {
+    "id": 2063266,
+    "domain": "emtedadweb.ir",
+    "first_seen": "2026-01-06 15:43:04.459790"
+  },
+  {
+    "id": 2063268,
+    "domain": "*.scarwatch.ir",
+    "first_seen": "2026-01-06 15:43:07.370290"
+  },
+  {
+    "id": 2063269,
+    "domain": "scarwatch.ir",
+    "first_seen": "2026-01-06 15:43:07.370639"
+  },
+  {
+    "id": 2063281,
+    "domain": "autodiscover.huaweibattery.ir",
+    "first_seen": "2026-01-06 15:43:10.187120"
+  },
+  {
+    "id": 2063282,
+    "domain": "cpanel.huaweibattery.ir",
+    "first_seen": "2026-01-06 15:43:10.187313"
+  },
+  {
+    "id": 2063283,
+    "domain": "cpcalendars.huaweibattery.ir",
+    "first_seen": "2026-01-06 15:43:10.187352"
+  },
+  {
+    "id": 2063284,
+    "domain": "cpcontacts.huaweibattery.ir",
+    "first_seen": "2026-01-06 15:43:10.187397"
+  },
+  {
+    "id": 2063285,
+    "domain": "huaweibattery.ir.samsungbattery.ir",
+    "first_seen": "2026-01-06 15:43:10.187419"
+  },
+  {
+    "id": 2063286,
+    "domain": "mail.huaweibattery.ir",
+    "first_seen": "2026-01-06 15:43:10.187458"
+  },
+  {
+    "id": 2063287,
+    "domain": "webdisk.huaweibattery.ir",
+    "first_seen": "2026-01-06 15:43:10.187494"
+  },
+  {
+    "id": 2063288,
+    "domain": "webmail.huaweibattery.ir",
+    "first_seen": "2026-01-06 15:43:10.187531"
+  },
+  {
+    "id": 2063289,
+    "domain": "www.huaweibattery.ir",
+    "first_seen": "2026-01-06 15:43:10.187568"
+  },
+  {
+    "id": 2063290,
+    "domain": "www.huaweibattery.ir.samsungbattery.ir",
+    "first_seen": "2026-01-06 15:43:10.187597"
+  },
+  {
+    "id": 2063309,
+    "domain": "*.ayaar.ir",
+    "first_seen": "2026-01-06 15:43:10.894267"
+  },
+  {
+    "id": 2063310,
+    "domain": "ayaar.ir",
+    "first_seen": "2026-01-06 15:43:10.894480"
+  },
+  {
+    "id": 2063319,
+    "domain": "autodiscover.gheysariiye.ir",
+    "first_seen": "2026-01-06 15:43:12.244939"
+  },
+  {
+    "id": 2063320,
+    "domain": "cpanel.gheysariiye.ir",
+    "first_seen": "2026-01-06 15:43:12.245164"
+  },
+  {
+    "id": 2063321,
+    "domain": "cpcalendars.gheysariiye.ir",
+    "first_seen": "2026-01-06 15:43:12.245195"
+  },
+  {
+    "id": 2063322,
+    "domain": "cpcontacts.gheysariiye.ir",
+    "first_seen": "2026-01-06 15:43:12.245237"
+  },
+  {
+    "id": 2063323,
+    "domain": "gheysariiye.ir",
+    "first_seen": "2026-01-06 15:43:12.245270"
+  },
+  {
+    "id": 2063324,
+    "domain": "mail.gheysariiye.ir",
+    "first_seen": "2026-01-06 15:43:12.245336"
+  },
+  {
+    "id": 2063325,
+    "domain": "webdisk.gheysariiye.ir",
+    "first_seen": "2026-01-06 15:43:12.245470"
+  },
+  {
+    "id": 2063326,
+    "domain": "webmail.gheysariiye.ir",
+    "first_seen": "2026-01-06 15:43:12.245502"
+  },
+  {
+    "id": 2063327,
+    "domain": "www.gheysariiye.ir",
+    "first_seen": "2026-01-06 15:43:12.245525"
+  },
+  {
+    "id": 2063336,
+    "domain": "*.tolofkf.ir",
+    "first_seen": "2026-01-06 15:43:18.666390"
+  },
+  {
+    "id": 2063337,
+    "domain": "tolofkf.ir",
+    "first_seen": "2026-01-06 15:43:18.666602"
+  },
+  {
+    "id": 2063347,
+    "domain": "*.dayanasteakhouse.ir",
+    "first_seen": "2026-01-06 15:43:20.214254"
+  },
+  {
+    "id": 2063348,
+    "domain": "dayanasteakhouse.ir",
+    "first_seen": "2026-01-06 15:43:20.214460"
+  },
+  {
+    "id": 2063349,
+    "domain": "key.netsilcon.ir",
+    "first_seen": "2026-01-06 15:43:20.379432"
+  },
+  {
+    "id": 2063384,
+    "domain": "*.yazdsteak.ir",
+    "first_seen": "2026-01-06 15:43:25.243785"
+  },
+  {
+    "id": 2063385,
+    "domain": "yazdsteak.ir",
+    "first_seen": "2026-01-06 15:43:25.244029"
+  },
+  {
+    "id": 2063486,
+    "domain": "cpanel.sarilaptops.ir",
+    "first_seen": "2026-01-06 15:43:33.416434"
+  },
+  {
+    "id": 2063517,
+    "domain": "mynafas-dashboard.ir",
+    "first_seen": "2026-01-06 15:43:35.361793"
+  },
+  {
+    "id": 2063518,
+    "domain": "*.mynafas-dashboard.ir",
+    "first_seen": "2026-01-06 15:43:35.361981"
+  },
+  {
+    "id": 2063521,
+    "domain": "germangift.ir",
+    "first_seen": "2026-01-06 15:43:36.527558"
+  },
+  {
+    "id": 2063522,
+    "domain": "*.germangift.ir",
+    "first_seen": "2026-01-06 15:43:36.527869"
+  },
+  {
+    "id": 2063531,
+    "domain": "*.goldopal.ir",
+    "first_seen": "2026-01-06 15:43:40.921037"
+  },
+  {
+    "id": 2063540,
+    "domain": "*.mastersteak.ir",
+    "first_seen": "2026-01-06 15:43:44.803875"
+  },
+  {
+    "id": 2063541,
+    "domain": "mastersteak.ir",
+    "first_seen": "2026-01-06 15:43:44.804170"
+  },
+  {
+    "id": 2063588,
+    "domain": "sa4.websitesadat.ir",
+    "first_seen": "2026-01-06 15:43:53.139896"
+  },
+  {
+    "id": 2063589,
+    "domain": "www.sa4.websitesadat.ir",
+    "first_seen": "2026-01-06 15:43:53.140198"
+  },
+  {
+    "id": 2063590,
+    "domain": "argo.atlasbeta.ir",
+    "first_seen": "2026-01-06 15:43:55.834415"
+  },
+  {
+    "id": 2063596,
+    "domain": "mail.saabcloset.ir",
+    "first_seen": "2026-01-06 15:43:58.860657"
+  },
+  {
+    "id": 2063597,
+    "domain": "saabcloset.ir",
+    "first_seen": "2026-01-06 15:43:58.860917"
+  },
+  {
+    "id": 2063598,
+    "domain": "www.saabcloset.ir",
+    "first_seen": "2026-01-06 15:43:58.860947"
+  },
+  {
+    "id": 2063603,
+    "domain": "faramadrak.ir",
+    "first_seen": "2026-01-06 15:44:01.845844"
+  },
+  {
+    "id": 2063604,
+    "domain": "*.faramadrak.ir",
+    "first_seen": "2026-01-06 15:44:01.845992"
+  },
+  {
+    "id": 2063764,
+    "domain": "*.hygeiamed.ir",
+    "first_seen": "2026-01-06 15:44:23.243316"
+  },
+  {
+    "id": 2063765,
+    "domain": "hygeiamed.ir",
+    "first_seen": "2026-01-06 15:44:23.243513"
+  },
+  {
+    "id": 2063776,
+    "domain": "lunartist.ir",
+    "first_seen": "2026-01-06 15:44:23.627387"
+  },
+  {
+    "id": 2063777,
+    "domain": "mail.lunartist.ir",
+    "first_seen": "2026-01-06 15:44:23.627592"
+  },
+  {
+    "id": 2063778,
+    "domain": "www.lunartist.ir",
+    "first_seen": "2026-01-06 15:44:23.627625"
+  },
+  {
+    "id": 2063822,
+    "domain": "*.vahabahrami-27fns.arvanedge.ir",
+    "first_seen": "2026-01-06 15:44:31.299534"
+  },
+  {
+    "id": 2063835,
+    "domain": "mail.pluginbaz.ir",
+    "first_seen": "2026-01-06 15:44:43.544610"
+  },
+  {
+    "id": 2063836,
+    "domain": "pluginbaz.ir",
+    "first_seen": "2026-01-06 15:44:43.544833"
+  },
+  {
+    "id": 2063837,
+    "domain": "www.pluginbaz.ir",
+    "first_seen": "2026-01-06 15:44:43.544919"
+  },
+  {
+    "id": 2063891,
+    "domain": "sg1.mehratour.ir",
+    "first_seen": "2026-01-06 15:44:53.458439"
+  },
+  {
+    "id": 2063915,
+    "domain": "doc.irandigitaltwin.ir",
+    "first_seen": "2026-01-06 15:44:55.773368"
+  },
+  {
+    "id": 2063933,
+    "domain": "m.asrnoor.ir",
+    "first_seen": "2026-01-06 15:44:57.005949"
+  },
+  {
+    "id": 2063993,
+    "domain": "huaweibattery.ir",
+    "first_seen": "2026-01-06 15:45:11.779734"
+  },
+  {
+    "id": 2064006,
+    "domain": "*.paydartejarat.ir",
+    "first_seen": "2026-01-06 15:45:16.062819"
+  },
+  {
+    "id": 2064007,
+    "domain": "paydartejarat.ir",
+    "first_seen": "2026-01-06 15:45:16.063069"
+  },
+  {
+    "id": 2064010,
+    "domain": "hojjatataei.ir",
+    "first_seen": "2026-01-06 15:45:16.372176"
+  },
+  {
+    "id": 2064011,
+    "domain": "mail.hojjatataei.ir",
+    "first_seen": "2026-01-06 15:45:16.372375"
+  },
+  {
+    "id": 2064012,
+    "domain": "www.hojjatataei.ir",
+    "first_seen": "2026-01-06 15:45:16.372444"
+  },
+  {
+    "id": 2064048,
+    "domain": "*.taktechnology.ir",
+    "first_seen": "2026-01-06 15:45:26.251269"
+  },
+  {
+    "id": 2064050,
+    "domain": "*.ir.derak.cloudflare.arvancloud.mobit90.ir",
+    "first_seen": "2026-01-06 15:45:28.044045"
+  },
+  {
+    "id": 2064051,
+    "domain": "*.yazdpizza.ir",
+    "first_seen": "2026-01-06 15:45:28.070070"
+  },
+  {
+    "id": 2064052,
+    "domain": "yazdpizza.ir",
+    "first_seen": "2026-01-06 15:45:28.070397"
+  },
+  {
+    "id": 2064055,
+    "domain": "longttl.oblivionspark.ir",
+    "first_seen": "2026-01-06 15:45:30.311152"
+  },
+  {
+    "id": 2064081,
+    "domain": "maxware.ir",
+    "first_seen": "2026-01-06 15:45:39.474801"
+  },
+  {
+    "id": 2064094,
+    "domain": "pixeltheme.ir",
+    "first_seen": "2026-01-06 15:45:42.504576"
+  },
+  {
+    "id": 2064095,
+    "domain": "*.pixeltheme.ir",
+    "first_seen": "2026-01-06 15:45:42.504847"
+  },
+  {
+    "id": 2064146,
+    "domain": "*.dailyenglish.ir",
+    "first_seen": "2026-01-06 15:46:16.376936"
+  },
+  {
+    "id": 2064147,
+    "domain": "dailyenglish.ir",
+    "first_seen": "2026-01-06 15:46:16.377174"
+  },
+  {
+    "id": 2064160,
+    "domain": "*.youseficrane.ir",
+    "first_seen": "2026-01-06 15:46:20.277459"
+  },
+  {
+    "id": 2064161,
+    "domain": "youseficrane.ir",
+    "first_seen": "2026-01-06 15:46:20.277694"
+  },
+  {
+    "id": 2064171,
+    "domain": "api.redpi.ir",
+    "first_seen": "2026-01-06 15:46:25.948712"
+  },
+  {
+    "id": 2064176,
+    "domain": "ragnarvip.ir",
+    "first_seen": "2026-01-06 15:46:29.452733"
+  },
+  {
+    "id": 2064177,
+    "domain": "*.ragnarvip.ir",
+    "first_seen": "2026-01-06 15:46:29.452971"
+  },
+  {
+    "id": 2064226,
+    "domain": "*.bazivizion.ir",
+    "first_seen": "2026-01-06 15:46:57.820654"
+  },
+  {
+    "id": 2064227,
+    "domain": "bazivizion.ir",
+    "first_seen": "2026-01-06 15:46:57.820905"
+  },
+  {
+    "id": 2064228,
+    "domain": "bazivizion.ir.ejir.ir",
+    "first_seen": "2026-01-06 15:46:57.820935"
+  },
+  {
+    "id": 2064229,
+    "domain": "www.bazivizion.ir.ejir.ir",
+    "first_seen": "2026-01-06 15:46:57.820972"
+  },
+  {
+    "id": 2064236,
+    "domain": "*.payafoolad.ir",
+    "first_seen": "2026-01-06 15:46:59.591815"
+  },
+  {
+    "id": 2064237,
+    "domain": "payafoolad.ir",
+    "first_seen": "2026-01-06 15:46:59.592056"
+  },
+  {
+    "id": 2064304,
+    "domain": "*.enekaserey.ir",
+    "first_seen": "2026-01-06 15:47:15.038566"
+  },
+  {
+    "id": 2064305,
+    "domain": "*.raganews.ir",
+    "first_seen": "2026-01-06 15:47:15.038751"
+  },
+  {
+    "id": 2064306,
+    "domain": "*.reey.ir",
+    "first_seen": "2026-01-06 15:47:15.038884"
+  },
+  {
+    "id": 2064307,
+    "domain": "enekaserey.ir",
+    "first_seen": "2026-01-06 15:47:15.038933"
+  },
+  {
+    "id": 2064308,
+    "domain": "raganews.ir",
+    "first_seen": "2026-01-06 15:47:15.038957"
+  },
+  {
+    "id": 2064309,
+    "domain": "reey.ir",
+    "first_seen": "2026-01-06 15:47:15.038979"
+  },
+  {
+    "id": 2064313,
+    "domain": "zagreb.ir",
+    "first_seen": "2026-01-06 15:47:20.958018"
+  },
+  {
+    "id": 2064314,
+    "domain": "*.zagreb.ir",
+    "first_seen": "2026-01-06 15:47:20.958246"
+  },
+  {
+    "id": 2064315,
+    "domain": "icban.ir",
+    "first_seen": "2026-01-06 15:47:22.265505"
+  },
+  {
+    "id": 2064316,
+    "domain": "*.icban.ir",
+    "first_seen": "2026-01-06 15:47:22.265690"
+  },
+  {
+    "id": 2064321,
+    "domain": "*.ftsajygxmklw.woohi.ir",
+    "first_seen": "2026-01-06 15:47:23.706547"
+  },
+  {
+    "id": 2064322,
+    "domain": "ftsajygxmklw.woohi.ir",
+    "first_seen": "2026-01-06 15:47:23.706890"
+  },
+  {
+    "id": 2064323,
+    "domain": "u.foxirany.ir",
+    "first_seen": "2026-01-06 15:47:24.833641"
+  },
+  {
+    "id": 2064362,
+    "domain": "*.delagallery2020.ir",
+    "first_seen": "2026-01-06 15:47:35.123562"
+  },
+  {
+    "id": 2064363,
+    "domain": "delagallery2020.ir",
+    "first_seen": "2026-01-06 15:47:35.123749"
+  },
+  {
+    "id": 2064366,
+    "domain": "instinctpetfood.ir",
+    "first_seen": "2026-01-06 15:47:35.854523"
+  },
+  {
+    "id": 2064367,
+    "domain": "www.instinctpetfood.ir",
+    "first_seen": "2026-01-06 15:47:35.854738"
+  },
+  {
+    "id": 2064382,
+    "domain": "*.diabet-care.ir",
+    "first_seen": "2026-01-06 15:47:45.039740"
+  },
+  {
+    "id": 2064383,
+    "domain": "diabet-care.ir",
+    "first_seen": "2026-01-06 15:47:45.039885"
+  },
+  {
+    "id": 2064388,
+    "domain": "*.abihossein-i4zgy.arvanedge.ir",
+    "first_seen": "2026-01-06 15:47:48.968708"
+  },
+  {
+    "id": 2064392,
+    "domain": "jozannashr.ir",
+    "first_seen": "2026-01-06 15:47:53.281072"
+  },
+  {
+    "id": 2064393,
+    "domain": "mail.jozannashr.ir",
+    "first_seen": "2026-01-06 15:47:53.281372"
+  },
+  {
+    "id": 2064394,
+    "domain": "www.jozannashr.ir",
+    "first_seen": "2026-01-06 15:47:53.281430"
+  },
+  {
+    "id": 2064408,
+    "domain": "electrode1.ir",
+    "first_seen": "2026-01-06 15:47:58.337125"
+  },
+  {
+    "id": 2064409,
+    "domain": "*.electrode1.ir",
+    "first_seen": "2026-01-06 15:47:58.337408"
+  },
+  {
+    "id": 2064436,
+    "domain": "karaticket.ir",
+    "first_seen": "2026-01-06 15:48:04.431292"
+  },
+  {
+    "id": 2064450,
+    "domain": "remote.irandigitaltwin.ir",
+    "first_seen": "2026-01-06 15:48:07.553335"
+  },
+  {
+    "id": 2064473,
+    "domain": "iran-arzan.ir",
+    "first_seen": "2026-01-06 15:48:09.761016"
+  },
+  {
+    "id": 2064474,
+    "domain": "*.iran-arzan.ir",
+    "first_seen": "2026-01-06 15:48:09.761308"
+  },
+  {
+    "id": 2064521,
+    "domain": "ro.amircctv.ir",
+    "first_seen": "2026-01-06 15:48:30.108856"
+  },
+  {
+    "id": 2064526,
+    "domain": "*.3ql.ir",
+    "first_seen": "2026-01-06 15:48:32.800735"
+  },
+  {
+    "id": 2064583,
+    "domain": "*.sevenfardis.ir",
+    "first_seen": "2026-01-06 15:48:58.252081"
+  },
+  {
+    "id": 2064584,
+    "domain": "sevenfardis.ir",
+    "first_seen": "2026-01-06 15:48:58.252367"
+  },
+  {
+    "id": 2064585,
+    "domain": "*.api.midserver.ir",
+    "first_seen": "2026-01-06 15:48:58.910980"
+  },
+  {
+    "id": 2064590,
+    "domain": "bookchy.ir",
+    "first_seen": "2026-01-06 15:49:00.100736"
+  },
+  {
+    "id": 2064591,
+    "domain": "smtp.bookchy.ir",
+    "first_seen": "2026-01-06 15:49:00.100946"
+  },
+  {
+    "id": 2064604,
+    "domain": "*.darbast-etehad.ir",
+    "first_seen": "2026-01-06 15:49:10.261517"
+  },
+  {
+    "id": 2064605,
+    "domain": "darbast-etehad.ir",
+    "first_seen": "2026-01-06 15:49:10.261739"
+  },
+  {
+    "id": 2064606,
+    "domain": "*.drbadzohre-petshop.ir",
+    "first_seen": "2026-01-06 15:49:10.354475"
+  },
+  {
+    "id": 2064607,
+    "domain": "drbadzohre-petshop.ir",
+    "first_seen": "2026-01-06 15:49:10.354688"
+  },
+  {
+    "id": 2064613,
+    "domain": "mahakcloud.ir",
+    "first_seen": "2026-01-06 15:49:14.538488"
+  },
+  {
+    "id": 2064614,
+    "domain": "*.mahakcloud.ir",
+    "first_seen": "2026-01-06 15:49:14.538664"
+  },
+  {
+    "id": 2064621,
+    "domain": "www.kbca.ir",
+    "first_seen": "2026-01-06 15:49:16.893686"
+  },
+  {
+    "id": 2064622,
+    "domain": "gaam-msn.ir",
+    "first_seen": "2026-01-06 15:49:16.932224"
+  },
+  {
+    "id": 2064630,
+    "domain": "gaam-agnt.ir",
+    "first_seen": "2026-01-06 15:49:18.191767"
+  },
+  {
+    "id": 2064704,
+    "domain": "kavirtar.ir",
+    "first_seen": "2026-01-06 15:49:29.311737"
+  },
+  {
+    "id": 2064705,
+    "domain": "www.kavirtar.ir",
+    "first_seen": "2026-01-06 15:49:29.312023"
+  },
+  {
+    "id": 2064728,
+    "domain": "konkurcat.ir",
+    "first_seen": "2026-01-06 15:49:38.391765"
+  },
+  {
+    "id": 2064729,
+    "domain": "mail.konkurcat.ir",
+    "first_seen": "2026-01-06 15:49:38.392077"
+  },
+  {
+    "id": 2064730,
+    "domain": "www.konkurcat.ir",
+    "first_seen": "2026-01-06 15:49:38.392111"
+  },
+  {
+    "id": 2064733,
+    "domain": "autodiscover.caffekamart.ir",
+    "first_seen": "2026-01-06 15:49:38.821525"
+  },
+  {
+    "id": 2064734,
+    "domain": "caffekamart.ir",
+    "first_seen": "2026-01-06 15:49:38.821767"
+  },
+  {
+    "id": 2064735,
+    "domain": "cpanel.caffekamart.ir",
+    "first_seen": "2026-01-06 15:49:38.821809"
+  },
+  {
+    "id": 2064736,
+    "domain": "cpcalendars.caffekamart.ir",
+    "first_seen": "2026-01-06 15:49:38.821845"
+  },
+  {
+    "id": 2064737,
+    "domain": "cpcontacts.caffekamart.ir",
+    "first_seen": "2026-01-06 15:49:38.821869"
+  },
+  {
+    "id": 2064738,
+    "domain": "mail.caffekamart.ir",
+    "first_seen": "2026-01-06 15:49:38.821892"
+  },
+  {
+    "id": 2064739,
+    "domain": "webdisk.caffekamart.ir",
+    "first_seen": "2026-01-06 15:49:38.821972"
+  },
+  {
+    "id": 2064740,
+    "domain": "webmail.caffekamart.ir",
+    "first_seen": "2026-01-06 15:49:38.822011"
+  },
+  {
+    "id": 2064741,
+    "domain": "www.caffekamart.ir",
+    "first_seen": "2026-01-06 15:49:38.822034"
+  },
+  {
+    "id": 2064767,
+    "domain": "*.dr5.ir",
+    "first_seen": "2026-01-06 15:49:42.595768"
+  },
+  {
+    "id": 2064768,
+    "domain": "dr5.ir",
+    "first_seen": "2026-01-06 15:49:42.596038"
+  },
+  {
+    "id": 2064834,
+    "domain": "*.keyfino.ir",
+    "first_seen": "2026-01-06 15:49:57.442124"
+  },
+  {
+    "id": 2064835,
+    "domain": "keyfino.ir",
+    "first_seen": "2026-01-06 15:49:57.442426"
+  },
+  {
+    "id": 2064879,
+    "domain": "*.boostantaps.ir",
+    "first_seen": "2026-01-06 15:50:28.455274"
+  },
+  {
+    "id": 2064880,
+    "domain": "boostantaps.ir",
+    "first_seen": "2026-01-06 15:50:28.455724"
+  },
+  {
+    "id": 2064894,
+    "domain": "beyazdance.ir",
+    "first_seen": "2026-01-06 15:50:34.249730"
+  },
+  {
+    "id": 2064895,
+    "domain": "mail.beyazdance.ir",
+    "first_seen": "2026-01-06 15:50:34.249914"
+  },
+  {
+    "id": 2064896,
+    "domain": "www.beyazdance.ir",
+    "first_seen": "2026-01-06 15:50:34.249984"
+  },
+  {
+    "id": 2064897,
+    "domain": "*.fadakclinictoos.ir",
+    "first_seen": "2026-01-06 15:50:34.545015"
+  },
+  {
+    "id": 2064898,
+    "domain": "fadakclinictoos.ir",
+    "first_seen": "2026-01-06 15:50:34.545319"
+  },
+  {
+    "id": 2064911,
+    "domain": "*.vaezmasoud.ir",
+    "first_seen": "2026-01-06 15:50:38.717665"
+  },
+  {
+    "id": 2064912,
+    "domain": "vaezmasoud.ir",
+    "first_seen": "2026-01-06 15:50:38.717866"
+  },
+  {
+    "id": 2064932,
+    "domain": "*.levelupseo.ir",
+    "first_seen": "2026-01-06 15:50:45.191932"
+  },
+  {
+    "id": 2064933,
+    "domain": "levelupseo.ir",
+    "first_seen": "2026-01-06 15:50:45.192133"
+  },
+  {
+    "id": 2065032,
+    "domain": "ftp.kitsara.ir",
+    "first_seen": "2026-01-06 15:50:58.881944"
+  },
+  {
+    "id": 2065033,
+    "domain": "kitsara.ir",
+    "first_seen": "2026-01-06 15:50:58.882240"
+  },
+  {
+    "id": 2065034,
+    "domain": "mail.kitsara.ir",
+    "first_seen": "2026-01-06 15:50:58.882289"
+  },
+  {
+    "id": 2065035,
+    "domain": "pop.kitsara.ir",
+    "first_seen": "2026-01-06 15:50:58.882318"
+  },
+  {
+    "id": 2065036,
+    "domain": "smtp.kitsara.ir",
+    "first_seen": "2026-01-06 15:50:58.882357"
+  },
+  {
+    "id": 2065037,
+    "domain": "www.kitsara.ir",
+    "first_seen": "2026-01-06 15:50:58.882406"
+  },
+  {
+    "id": 2065040,
+    "domain": "autodiscover.netse.ir",
+    "first_seen": "2026-01-06 15:50:59.712677"
+  },
+  {
+    "id": 2065041,
+    "domain": "cpanel.netse.ir",
+    "first_seen": "2026-01-06 15:50:59.712932"
+  },
+  {
+    "id": 2065042,
+    "domain": "cpcalendars.netse.ir",
+    "first_seen": "2026-01-06 15:50:59.712999"
+  },
+  {
+    "id": 2065043,
+    "domain": "cpcontacts.netse.ir",
+    "first_seen": "2026-01-06 15:50:59.713055"
+  },
+  {
+    "id": 2065044,
+    "domain": "mail.netse.ir",
+    "first_seen": "2026-01-06 15:50:59.713097"
+  },
+  {
+    "id": 2065045,
+    "domain": "netse.ir",
+    "first_seen": "2026-01-06 15:50:59.713148"
+  },
+  {
+    "id": 2065046,
+    "domain": "webdisk.netse.ir",
+    "first_seen": "2026-01-06 15:50:59.713191"
+  },
+  {
+    "id": 2065047,
+    "domain": "webmail.netse.ir",
+    "first_seen": "2026-01-06 15:50:59.713244"
+  },
+  {
+    "id": 2065048,
+    "domain": "www.netse.ir",
+    "first_seen": "2026-01-06 15:50:59.713284"
+  },
+  {
+    "id": 2065049,
+    "domain": "isacosharafi.ir",
+    "first_seen": "2026-01-06 15:51:00.564069"
+  },
+  {
+    "id": 2065050,
+    "domain": "www.isacosharafi.ir",
+    "first_seen": "2026-01-06 15:51:00.564388"
+  },
+  {
+    "id": 2065051,
+    "domain": "dabirjaheshtejarat.ir",
+    "first_seen": "2026-01-06 15:51:02.474300"
+  },
+  {
+    "id": 2065052,
+    "domain": "*.dabirjaheshtejarat.ir",
+    "first_seen": "2026-01-06 15:51:02.474579"
+  },
+  {
+    "id": 2065075,
+    "domain": "chalusservice.ir",
+    "first_seen": "2026-01-06 15:51:17.575675"
+  },
+  {
+    "id": 2065076,
+    "domain": "www.chalusservice.ir",
+    "first_seen": "2026-01-06 15:51:17.575886"
+  },
+  {
+    "id": 2065080,
+    "domain": "*.mojdeh-moridi.ir",
+    "first_seen": "2026-01-06 15:51:21.882550"
+  },
+  {
+    "id": 2065081,
+    "domain": "mojdeh-moridi.ir",
+    "first_seen": "2026-01-06 15:51:21.883062"
+  },
+  {
+    "id": 2065134,
+    "domain": "*.zeinokif.ir",
+    "first_seen": "2026-01-06 15:51:36.130048"
+  },
+  {
+    "id": 2065135,
+    "domain": "zeinokif.ir",
+    "first_seen": "2026-01-06 15:51:36.130324"
+  },
+  {
+    "id": 2065172,
+    "domain": "vip.taherkashi.ir",
+    "first_seen": "2026-01-06 15:51:38.126753"
+  },
+  {
+    "id": 2065248,
+    "domain": "*.shikacc.ir",
+    "first_seen": "2026-01-06 15:51:50.710484"
+  },
+  {
+    "id": 2065249,
+    "domain": "shikacc.ir",
+    "first_seen": "2026-01-06 15:51:50.710685"
+  },
+  {
+    "id": 2065253,
+    "domain": "*.sabatshop.ir",
+    "first_seen": "2026-01-06 15:51:51.868788"
+  },
+  {
+    "id": 2065254,
+    "domain": "sabatshop.ir",
+    "first_seen": "2026-01-06 15:51:51.868973"
+  },
+  {
+    "id": 2065282,
+    "domain": "autodiscover.boocrow.ir",
+    "first_seen": "2026-01-06 15:52:08.671385"
+  },
+  {
+    "id": 2065283,
+    "domain": "*.decorain.ir",
+    "first_seen": "2026-01-06 15:52:10.829523"
+  },
+  {
+    "id": 2065284,
+    "domain": "decorain.ir",
+    "first_seen": "2026-01-06 15:52:10.829725"
+  },
+  {
+    "id": 2065290,
+    "domain": "*.pfazco.ir",
+    "first_seen": "2026-01-06 15:52:13.708678"
+  },
+  {
+    "id": 2065291,
+    "domain": "pfazco.ir",
+    "first_seen": "2026-01-06 15:52:13.708946"
+  },
+  {
+    "id": 2065296,
+    "domain": "awehrvsj.istellar.ir",
+    "first_seen": "2026-01-06 15:52:17.571594"
+  },
+  {
+    "id": 2065306,
+    "domain": "*.694135c1835b9.mywebzi.ir",
+    "first_seen": "2026-01-06 15:52:29.643457"
+  },
+  {
+    "id": 2065307,
+    "domain": "694135c1835b9.mywebzi.ir",
+    "first_seen": "2026-01-06 15:52:29.643880"
+  },
+  {
+    "id": 2065320,
+    "domain": "*.golesabzemisagh.ir",
+    "first_seen": "2026-01-06 15:52:32.129929"
+  },
+  {
+    "id": 2065321,
+    "domain": "golesabzemisagh.ir",
+    "first_seen": "2026-01-06 15:52:32.130226"
+  },
+  {
+    "id": 2065329,
+    "domain": "*.meowmeoww.ir",
+    "first_seen": "2026-01-06 15:52:38.239152"
+  },
+  {
+    "id": 2065352,
+    "domain": "autodiscover.zhindecorshiraz.ir",
+    "first_seen": "2026-01-06 15:52:49.489490"
+  },
+  {
+    "id": 2065353,
+    "domain": "cpanel.zhindecorshiraz.ir",
+    "first_seen": "2026-01-06 15:52:49.489803"
+  },
+  {
+    "id": 2065354,
+    "domain": "cpcalendars.zhindecorshiraz.ir",
+    "first_seen": "2026-01-06 15:52:49.489920"
+  },
+  {
+    "id": 2065355,
+    "domain": "cpcontacts.zhindecorshiraz.ir",
+    "first_seen": "2026-01-06 15:52:49.489967"
+  },
+  {
+    "id": 2065356,
+    "domain": "mail.zhindecorshiraz.ir",
+    "first_seen": "2026-01-06 15:52:49.490010"
+  },
+  {
+    "id": 2065357,
+    "domain": "webdisk.zhindecorshiraz.ir",
+    "first_seen": "2026-01-06 15:52:49.490054"
+  },
+  {
+    "id": 2065358,
+    "domain": "webmail.zhindecorshiraz.ir",
+    "first_seen": "2026-01-06 15:52:49.490091"
+  },
+  {
+    "id": 2065359,
+    "domain": "www.zhindecorshiraz.ir",
+    "first_seen": "2026-01-06 15:52:49.490127"
+  },
+  {
+    "id": 2065360,
+    "domain": "zhindecorshiraz.ir",
+    "first_seen": "2026-01-06 15:52:49.490210"
+  },
+  {
+    "id": 2065365,
+    "domain": "vikinet.ir",
+    "first_seen": "2026-01-06 15:52:52.829970"
+  },
+  {
+    "id": 2065416,
+    "domain": "cheshmakme.ir",
+    "first_seen": "2026-01-06 15:53:15.940232"
+  },
+  {
+    "id": 2065417,
+    "domain": "www.cheshmakme.ir",
+    "first_seen": "2026-01-06 15:53:15.940467"
+  },
+  {
+    "id": 2065473,
+    "domain": "brainstorm.mohammadhprp.ir",
+    "first_seen": "2026-01-06 15:53:36.574063"
+  },
+  {
+    "id": 2065518,
+    "domain": "*.1sign.ir",
+    "first_seen": "2026-01-06 15:54:03.553390"
+  },
+  {
+    "id": 2065519,
+    "domain": "1sign.ir",
+    "first_seen": "2026-01-06 15:54:03.553644"
+  },
+  {
+    "id": 2065520,
+    "domain": "aryaelec.ir",
+    "first_seen": "2026-01-06 15:54:03.553687"
+  },
+  {
+    "id": 2065521,
+    "domain": "mail.aryaelec.ir",
+    "first_seen": "2026-01-06 15:54:03.553734"
+  },
+  {
+    "id": 2065522,
+    "domain": "www.aryaelec.ir",
+    "first_seen": "2026-01-06 15:54:03.553767"
+  },
+  {
+    "id": 2065584,
+    "domain": "black.mcrrecordshop.ir",
+    "first_seen": "2026-01-06 15:54:19.958388"
+  },
+  {
+    "id": 2065607,
+    "domain": "demo.newclub.dadehfa.ir",
+    "first_seen": "2026-01-06 15:54:26.620307"
+  },
+  {
+    "id": 2065630,
+    "domain": "*.mvafajoo-glr8e.arvanedge.ir",
+    "first_seen": "2026-01-06 15:54:34.177851"
+  },
+  {
+    "id": 2065643,
+    "domain": "elearn.fouladi.ir",
+    "first_seen": "2026-01-06 15:54:38.498282"
+  },
+  {
+    "id": 2065644,
+    "domain": "www.elearn.fouladi.ir",
+    "first_seen": "2026-01-06 15:54:38.498614"
+  },
+  {
+    "id": 2065646,
+    "domain": "asp.sabzp-api.ir",
+    "first_seen": "2026-01-06 15:54:44.051345"
+  },
+  {
+    "id": 2065653,
+    "domain": "*.panism.ir",
+    "first_seen": "2026-01-06 15:54:46.820628"
+  },
+  {
+    "id": 2065660,
+    "domain": "mahfam724.ir",
+    "first_seen": "2026-01-06 15:54:51.733821"
+  },
+  {
+    "id": 2065661,
+    "domain": "*.mahfam724.ir",
+    "first_seen": "2026-01-06 15:54:51.734053"
+  },
+  {
+    "id": 2065690,
+    "domain": "e66e78dd-bf9d-4c0a-bc88-bd198d123c21.pooyaserver.ir",
+    "first_seen": "2026-01-06 15:54:57.894418"
+  },
+  {
+    "id": 2065693,
+    "domain": "maralcraft.ir",
+    "first_seen": "2026-01-06 15:55:00.988903"
+  },
+  {
+    "id": 2065694,
+    "domain": "*.maralcraft.ir",
+    "first_seen": "2026-01-06 15:55:00.989346"
+  },
+  {
+    "id": 2065711,
+    "domain": "*.6947fd42d3a99.mywebzi.ir",
+    "first_seen": "2026-01-06 15:55:17.679366"
+  },
+  {
+    "id": 2065712,
+    "domain": "6947fd42d3a99.mywebzi.ir",
+    "first_seen": "2026-01-06 15:55:17.679568"
+  },
+  {
+    "id": 2065713,
+    "domain": "khodarzyabi.eecgcrm.ir",
+    "first_seen": "2026-01-06 15:55:17.779123"
+  },
+  {
+    "id": 2065825,
+    "domain": "gol.staffwind.ir",
+    "first_seen": "2026-01-06 15:56:06.286184"
+  },
+  {
+    "id": 2065841,
+    "domain": "*.neumusic.ir",
+    "first_seen": "2026-01-06 15:56:19.305404"
+  },
+  {
+    "id": 2065842,
+    "domain": "neumusic.ir",
+    "first_seen": "2026-01-06 15:56:19.305703"
+  },
+  {
+    "id": 2065853,
+    "domain": "pop.vwss.ir",
+    "first_seen": "2026-01-06 15:56:26.031859"
+  },
+  {
+    "id": 2065854,
+    "domain": "smtp.vwss.ir",
+    "first_seen": "2026-01-06 15:56:26.032116"
+  },
+  {
+    "id": 2065855,
+    "domain": "toys.vwss.ir",
+    "first_seen": "2026-01-06 15:56:26.032154"
+  },
+  {
+    "id": 2065856,
+    "domain": "vwss.ir",
+    "first_seen": "2026-01-06 15:56:26.032190"
+  },
+  {
+    "id": 2065925,
+    "domain": "rsap.ir",
+    "first_seen": "2026-01-06 15:56:43.877386"
+  },
+  {
+    "id": 2065926,
+    "domain": "*.rsap.ir",
+    "first_seen": "2026-01-06 15:56:43.877599"
+  },
+  {
+    "id": 2065927,
+    "domain": "kong.rizyad.ir",
+    "first_seen": "2026-01-06 15:56:46.517331"
+  },
+  {
+    "id": 2065928,
+    "domain": "amlakfakhri.ir",
+    "first_seen": "2026-01-06 15:56:46.548097"
+  },
+  {
+    "id": 2065929,
+    "domain": "*.amlakfakhri.ir",
+    "first_seen": "2026-01-06 15:56:46.548270"
+  },
+  {
+    "id": 2065936,
+    "domain": "mail.cloudinow.ir",
+    "first_seen": "2026-01-06 15:56:50.583427"
+  },
+  {
+    "id": 2065953,
+    "domain": "goldantique.ir",
+    "first_seen": "2026-01-06 15:57:04.156385"
+  },
+  {
+    "id": 2065954,
+    "domain": "www.goldantique.ir",
+    "first_seen": "2026-01-06 15:57:04.156584"
+  },
+  {
+    "id": 2065955,
+    "domain": "*.darolmobaleghin.ir",
+    "first_seen": "2026-01-06 15:57:04.479428"
+  },
+  {
+    "id": 2065956,
+    "domain": "darolmobaleghin.ir",
+    "first_seen": "2026-01-06 15:57:04.479624"
+  },
+  {
+    "id": 2065981,
+    "domain": "elyaswp.ir",
+    "first_seen": "2026-01-06 15:57:14.109370"
+  },
+  {
+    "id": 2065982,
+    "domain": "www.elyaswp.ir",
+    "first_seen": "2026-01-06 15:57:14.109689"
+  },
+  {
+    "id": 2065997,
+    "domain": "*.rajet.ir",
+    "first_seen": "2026-01-06 15:57:18.423260"
+  },
+  {
+    "id": 2065998,
+    "domain": "rajet.ir",
+    "first_seen": "2026-01-06 15:57:18.423448"
+  },
+  {
+    "id": 2066049,
+    "domain": "3panl.mentornimcovcc.ir",
+    "first_seen": "2026-01-06 15:57:46.012216"
+  },
+  {
+    "id": 2066076,
+    "domain": "*.3p2000.ir",
+    "first_seen": "2026-01-06 15:57:52.903496"
+  },
+  {
+    "id": 2066077,
+    "domain": "3p2000.ir",
+    "first_seen": "2026-01-06 15:57:52.903740"
+  },
+  {
+    "id": 2066149,
+    "domain": "refahi.eiena.ir",
+    "first_seen": "2026-01-06 15:58:20.550154"
+  },
+  {
+    "id": 2066150,
+    "domain": "www.refahi.eiena.ir",
+    "first_seen": "2026-01-06 15:58:20.550572"
+  },
+  {
+    "id": 2066153,
+    "domain": "*.baharsandwich.ir",
+    "first_seen": "2026-01-06 15:58:20.990604"
+  },
+  {
+    "id": 2066154,
+    "domain": "baharsandwich.ir",
+    "first_seen": "2026-01-06 15:58:20.990848"
+  },
+  {
+    "id": 2066163,
+    "domain": "*.bereshtehfood.ir",
+    "first_seen": "2026-01-06 15:58:24.522393"
+  },
+  {
+    "id": 2066164,
+    "domain": "bereshtehfood.ir",
+    "first_seen": "2026-01-06 15:58:24.522804"
+  },
+  {
+    "id": 2066242,
+    "domain": "*.sulaiman.ir",
+    "first_seen": "2026-01-06 15:58:45.786877"
+  },
+  {
+    "id": 2066243,
+    "domain": "*.tabalwor.ir",
+    "first_seen": "2026-01-06 15:58:45.787116"
+  },
+  {
+    "id": 2066244,
+    "domain": "*.tabliqh.ir",
+    "first_seen": "2026-01-06 15:58:45.787146"
+  },
+  {
+    "id": 2066245,
+    "domain": "sulaiman.ir",
+    "first_seen": "2026-01-06 15:58:45.787156"
+  },
+  {
+    "id": 2066246,
+    "domain": "tabliqh.ir",
+    "first_seen": "2026-01-06 15:58:45.787192"
+  },
+  {
+    "id": 2066247,
+    "domain": "www.sulaiman.tabalwor.ir",
+    "first_seen": "2026-01-06 15:58:45.787214"
+  },
+  {
+    "id": 2066248,
+    "domain": "www.tabliqh.tabalwor.ir",
+    "first_seen": "2026-01-06 15:58:45.787246"
+  },
+  {
+    "id": 2066253,
+    "domain": "mynewwebsites.ir",
+    "first_seen": "2026-01-06 15:58:47.655705"
+  },
+  {
+    "id": 2066254,
+    "domain": "*.mynewwebsites.ir",
+    "first_seen": "2026-01-06 15:58:47.655913"
+  },
+  {
+    "id": 2066277,
+    "domain": "manageit.kpartp.ir",
+    "first_seen": "2026-01-06 15:58:59.385671"
+  },
+  {
+    "id": 2066285,
+    "domain": "sandbox.machine-seeker.ir",
+    "first_seen": "2026-01-06 15:59:04.965318"
+  },
+  {
+    "id": 2066286,
+    "domain": "philomag.ir",
+    "first_seen": "2026-01-06 15:59:05.285594"
+  },
+  {
+    "id": 2066287,
+    "domain": "*.philomag.ir",
+    "first_seen": "2026-01-06 15:59:05.285817"
+  },
+  {
+    "id": 2066300,
+    "domain": "isfahanmarket.ir",
+    "first_seen": "2026-01-06 15:59:15.981126"
+  },
+  {
+    "id": 2066301,
+    "domain": "www.esfahanmarket.ir",
+    "first_seen": "2026-01-06 15:59:15.981417"
+  },
+  {
+    "id": 2066302,
+    "domain": "www.isfahanmarket.ir",
+    "first_seen": "2026-01-06 15:59:15.981449"
+  },
+  {
+    "id": 2066320,
+    "domain": "app.kartoclub.ir",
+    "first_seen": "2026-01-06 15:59:22.822156"
+  },
+  {
+    "id": 2066343,
+    "domain": "alirezame.ir",
+    "first_seen": "2026-01-06 15:59:45.755303"
+  },
+  {
+    "id": 2066344,
+    "domain": "*.alirezame.ir",
+    "first_seen": "2026-01-06 15:59:45.755506"
+  },
+  {
+    "id": 2066363,
+    "domain": "*.rezvanstyle.ir",
+    "first_seen": "2026-01-06 15:59:52.318507"
+  },
+  {
+    "id": 2066364,
+    "domain": "rezvanstyle.ir",
+    "first_seen": "2026-01-06 15:59:52.318709"
+  },
+  {
+    "id": 2066369,
+    "domain": "sanubar.ir",
+    "first_seen": "2026-01-06 15:59:54.434462"
+  },
+  {
+    "id": 2066370,
+    "domain": "*.sanubar.ir",
+    "first_seen": "2026-01-06 15:59:54.434674"
+  },
+  {
+    "id": 2066378,
+    "domain": "autodiscover.medullarehab.ir",
+    "first_seen": "2026-01-06 16:00:01.596713"
+  },
+  {
+    "id": 2066379,
+    "domain": "cpanel.medullarehab.ir",
+    "first_seen": "2026-01-06 16:00:01.597030"
+  },
+  {
+    "id": 2066380,
+    "domain": "cpcalendars.medullarehab.ir",
+    "first_seen": "2026-01-06 16:00:01.597310"
+  },
+  {
+    "id": 2066381,
+    "domain": "cpcontacts.medullarehab.ir",
+    "first_seen": "2026-01-06 16:00:01.597413"
+  },
+  {
+    "id": 2066382,
+    "domain": "mail.medullarehab.ir",
+    "first_seen": "2026-01-06 16:00:01.597563"
+  },
+  {
+    "id": 2066383,
+    "domain": "medullarehab.ir",
+    "first_seen": "2026-01-06 16:00:01.597595"
+  },
+  {
+    "id": 2066384,
+    "domain": "webdisk.medullarehab.ir",
+    "first_seen": "2026-01-06 16:00:01.597858"
+  },
+  {
+    "id": 2066385,
+    "domain": "webmail.medullarehab.ir",
+    "first_seen": "2026-01-06 16:00:01.597895"
+  },
+  {
+    "id": 2066386,
+    "domain": "www.medullarehab.ir",
+    "first_seen": "2026-01-06 16:00:01.597944"
+  },
+  {
+    "id": 2066399,
+    "domain": "cdn.midserver.ir",
+    "first_seen": "2026-01-06 16:00:07.693886"
+  },
+  {
+    "id": 2066402,
+    "domain": "*.mosharekatt.ir",
+    "first_seen": "2026-01-06 16:00:12.387005"
+  },
+  {
+    "id": 2066403,
+    "domain": "mosharekatt.ir",
+    "first_seen": "2026-01-06 16:00:12.387258"
+  },
+  {
+    "id": 2066409,
+    "domain": "*.diponfood.ir",
+    "first_seen": "2026-01-06 16:00:21.715130"
+  },
+  {
+    "id": 2066410,
+    "domain": "diponfood.ir",
+    "first_seen": "2026-01-06 16:00:21.715345"
+  },
+  {
+    "id": 2066415,
+    "domain": "*.diyarfood.ir",
+    "first_seen": "2026-01-06 16:00:26.290976"
+  },
+  {
+    "id": 2066416,
+    "domain": "diyarfood.ir",
+    "first_seen": "2026-01-06 16:00:26.291231"
+  },
+  {
+    "id": 2066420,
+    "domain": "*.ilk.ir",
+    "first_seen": "2026-01-06 16:00:31.054229"
+  },
+  {
+    "id": 2066421,
+    "domain": "www.pekko.ilk.ir",
+    "first_seen": "2026-01-06 16:00:31.054735"
+  },
+  {
+    "id": 2066437,
+    "domain": "admin.ais.tamhis.ir",
+    "first_seen": "2026-01-06 16:00:36.662085"
+  },
+  {
+    "id": 2066438,
+    "domain": "ais.tamhis.ir",
+    "first_seen": "2026-01-06 16:00:36.662373"
+  },
+  {
+    "id": 2066439,
+    "domain": "webmail.ais.tamhis.ir",
+    "first_seen": "2026-01-06 16:00:36.662464"
+  },
+  {
+    "id": 2066440,
+    "domain": "www.ais.tamhis.ir",
+    "first_seen": "2026-01-06 16:00:36.662503"
+  },
+  {
+    "id": 2066452,
+    "domain": "*.diponpizza.ir",
+    "first_seen": "2026-01-06 16:00:40.081039"
+  },
+  {
+    "id": 2066453,
+    "domain": "diponpizza.ir",
+    "first_seen": "2026-01-06 16:00:40.081284"
+  },
+  {
+    "id": 2066464,
+    "domain": "ftp.niksaj.ir",
+    "first_seen": "2026-01-06 16:00:43.021672"
+  },
+  {
+    "id": 2066465,
+    "domain": "mail.niksaj.ir",
+    "first_seen": "2026-01-06 16:00:43.021911"
+  },
+  {
+    "id": 2066466,
+    "domain": "pop.niksaj.ir",
+    "first_seen": "2026-01-06 16:00:43.021956"
+  },
+  {
+    "id": 2066467,
+    "domain": "smtp.niksaj.ir",
+    "first_seen": "2026-01-06 16:00:43.022021"
+  },
+  {
+    "id": 2066481,
+    "domain": "*.mental-shop.ir",
+    "first_seen": "2026-01-06 16:00:46.333397"
+  },
+  {
+    "id": 2066568,
+    "domain": "maahinnews.ir",
+    "first_seen": "2026-01-06 16:01:09.201076"
+  },
+  {
+    "id": 2066569,
+    "domain": "www.maahinnews.ir",
+    "first_seen": "2026-01-06 16:01:09.201340"
+  },
+  {
+    "id": 2066593,
+    "domain": "fateme-khodabakhshi.ir",
+    "first_seen": "2026-01-06 16:01:21.149252"
+  },
+  {
+    "id": 2066594,
+    "domain": "*.fateme-khodabakhshi.ir",
+    "first_seen": "2026-01-06 16:01:21.149490"
+  },
+  {
+    "id": 2066602,
+    "domain": "*.27food.ir",
+    "first_seen": "2026-01-06 16:01:27.677061"
+  },
+  {
+    "id": 2066603,
+    "domain": "27food.ir",
+    "first_seen": "2026-01-06 16:01:27.677461"
+  },
+  {
+    "id": 2066617,
+    "domain": "aliagha24.ir",
+    "first_seen": "2026-01-06 16:01:35.120908"
+  },
+  {
+    "id": 2066618,
+    "domain": "mail.aliagha24.ir",
+    "first_seen": "2026-01-06 16:01:35.121387"
+  },
+  {
+    "id": 2066619,
+    "domain": "www.aliagha24.ir",
+    "first_seen": "2026-01-06 16:01:35.121459"
+  },
+  {
+    "id": 2066636,
+    "domain": "*.aftabrestaurant.ir",
+    "first_seen": "2026-01-06 16:01:47.515656"
+  },
+  {
+    "id": 2066637,
+    "domain": "aftabrestaurant.ir",
+    "first_seen": "2026-01-06 16:01:47.515886"
+  },
+  {
+    "id": 2066657,
+    "domain": "test.shop.ses.co.ir",
+    "first_seen": "2026-01-06 16:01:59.872681"
+  },
+  {
+    "id": 2066658,
+    "domain": "www.test.shop.ses.co.ir",
+    "first_seen": "2026-01-06 16:01:59.872863"
+  },
+  {
+    "id": 2066661,
+    "domain": "ftp.pubstore.ir",
+    "first_seen": "2026-01-06 16:02:01.797816"
+  },
+  {
+    "id": 2066662,
+    "domain": "mail.pubstore.ir",
+    "first_seen": "2026-01-06 16:02:01.798104"
+  },
+  {
+    "id": 2066663,
+    "domain": "pop.pubstore.ir",
+    "first_seen": "2026-01-06 16:02:01.798142"
+  },
+  {
+    "id": 2066664,
+    "domain": "pubstore.ir",
+    "first_seen": "2026-01-06 16:02:01.798201"
+  },
+  {
+    "id": 2066665,
+    "domain": "smtp.pubstore.ir",
+    "first_seen": "2026-01-06 16:02:01.798239"
+  },
+  {
+    "id": 2066666,
+    "domain": "www.pubstore.ir",
+    "first_seen": "2026-01-06 16:02:01.798262"
+  },
+  {
+    "id": 2066696,
+    "domain": "*.porteghalfood.ir",
+    "first_seen": "2026-01-06 16:02:10.248630"
+  },
+  {
+    "id": 2066697,
+    "domain": "porteghalfood.ir",
+    "first_seen": "2026-01-06 16:02:10.248942"
+  },
+  {
+    "id": 2066717,
+    "domain": "kurento.javadasoodeh.ir",
+    "first_seen": "2026-01-06 16:02:16.544646"
+  },
+  {
+    "id": 2066733,
+    "domain": "www.shahkelidapp.ir",
+    "first_seen": "2026-01-06 16:02:22.603613"
+  },
+  {
+    "id": 2066738,
+    "domain": "me.amircctv.ir",
+    "first_seen": "2026-01-06 16:02:23.422899"
+  },
+  {
+    "id": 2066770,
+    "domain": "*.wecore.ir",
+    "first_seen": "2026-01-06 16:02:31.120997"
+  },
+  {
+    "id": 2066772,
+    "domain": "autodiscover.rayan-negaran.ir",
+    "first_seen": "2026-01-06 16:02:32.179886"
+  },
+  {
+    "id": 2066773,
+    "domain": "cpanel.rayan-negaran.ir",
+    "first_seen": "2026-01-06 16:02:32.180151"
+  },
+  {
+    "id": 2066774,
+    "domain": "cpcalendars.rayan-negaran.ir",
+    "first_seen": "2026-01-06 16:02:32.180189"
+  },
+  {
+    "id": 2066775,
+    "domain": "cpcontacts.rayan-negaran.ir",
+    "first_seen": "2026-01-06 16:02:32.180220"
+  },
+  {
+    "id": 2066776,
+    "domain": "mail.rayan-negaran.ir",
+    "first_seen": "2026-01-06 16:02:32.180253"
+  },
+  {
+    "id": 2066777,
+    "domain": "rayan-negaran.ir",
+    "first_seen": "2026-01-06 16:02:32.180274"
+  },
+  {
+    "id": 2066778,
+    "domain": "webdisk.rayan-negaran.ir",
+    "first_seen": "2026-01-06 16:02:32.180292"
+  },
+  {
+    "id": 2066779,
+    "domain": "webmail.rayan-negaran.ir",
+    "first_seen": "2026-01-06 16:02:32.180357"
+  },
+  {
+    "id": 2066780,
+    "domain": "www.rayan-negaran.ir",
+    "first_seen": "2026-01-06 16:02:32.180400"
+  },
+  {
+    "id": 2066791,
+    "domain": "rip.wtf-broo.ir",
+    "first_seen": "2026-01-06 16:02:40.554557"
+  },
+  {
+    "id": 2066812,
+    "domain": "ngx.sainadev.ir",
+    "first_seen": "2026-01-06 16:02:55.720044"
+  },
+  {
+    "id": 2066921,
+    "domain": "*.iranparde.ir",
+    "first_seen": "2026-01-06 16:03:04.552130"
+  },
+  {
+    "id": 2066922,
+    "domain": "*.mycistore.ir",
+    "first_seen": "2026-01-06 16:03:04.552316"
+  },
+  {
+    "id": 2066923,
+    "domain": "*.shirazabgostar.ir",
+    "first_seen": "2026-01-06 16:03:04.552403"
+  },
+  {
+    "id": 2066924,
+    "domain": "*.wuavf.ir",
+    "first_seen": "2026-01-06 16:03:04.552439"
+  },
+  {
+    "id": 2066925,
+    "domain": "iranparde.ir",
+    "first_seen": "2026-01-06 16:03:04.552485"
+  },
+  {
+    "id": 2066926,
+    "domain": "mycistore.ir",
+    "first_seen": "2026-01-06 16:03:04.552578"
+  },
+  {
+    "id": 2066927,
+    "domain": "shirazabgostar.ir",
+    "first_seen": "2026-01-06 16:03:04.552628"
+  },
+  {
+    "id": 2066928,
+    "domain": "wuavf.ir",
+    "first_seen": "2026-01-06 16:03:04.552702"
+  },
+  {
+    "id": 2066942,
+    "domain": "lifecorg.narkhesanj.ir",
+    "first_seen": "2026-01-06 16:03:06.288531"
+  },
+  {
+    "id": 2066943,
+    "domain": "n8n.sainadev.ir",
+    "first_seen": "2026-01-06 16:03:06.391629"
+  },
+  {
+    "id": 2066977,
+    "domain": "afracc.ir",
+    "first_seen": "2026-01-06 16:03:16.192643"
+  },
+  {
+    "id": 2066978,
+    "domain": "www.afracc.ir",
+    "first_seen": "2026-01-06 16:03:16.193075"
+  },
+  {
+    "id": 2066989,
+    "domain": "parsdownload-musicdl3mp3.ir",
+    "first_seen": "2026-01-06 16:03:20.939270"
+  },
+  {
+    "id": 2066990,
+    "domain": "*.parsdownload-musicdl3mp3.ir",
+    "first_seen": "2026-01-06 16:03:20.939569"
+  },
+  {
+    "id": 2066995,
+    "domain": "n12.safardaran.ir",
+    "first_seen": "2026-01-06 16:03:22.642355"
+  },
+  {
+    "id": 2066996,
+    "domain": "www.n12.safardaran.ir",
+    "first_seen": "2026-01-06 16:03:22.642546"
+  },
+  {
+    "id": 2067018,
+    "domain": "arman.nashrai.ir",
+    "first_seen": "2026-01-06 16:03:31.135045"
+  },
+  {
+    "id": 2067075,
+    "domain": "autodiscover.mahorkala.ir",
+    "first_seen": "2026-01-06 16:03:46.234762"
+  },
+  {
+    "id": 2067076,
+    "domain": "cpanel.mahorkala.ir",
+    "first_seen": "2026-01-06 16:03:46.235068"
+  },
+  {
+    "id": 2067077,
+    "domain": "cpcalendars.mahorkala.ir",
+    "first_seen": "2026-01-06 16:03:46.235099"
+  },
+  {
+    "id": 2067078,
+    "domain": "cpcontacts.mahorkala.ir",
+    "first_seen": "2026-01-06 16:03:46.235124"
+  },
+  {
+    "id": 2067079,
+    "domain": "mahorkala.ir",
+    "first_seen": "2026-01-06 16:03:46.235148"
+  },
+  {
+    "id": 2067080,
+    "domain": "mail.mahorkala.ir",
+    "first_seen": "2026-01-06 16:03:46.235173"
+  },
+  {
+    "id": 2067081,
+    "domain": "webdisk.mahorkala.ir",
+    "first_seen": "2026-01-06 16:03:46.235234"
+  },
+  {
+    "id": 2067082,
+    "domain": "webmail.mahorkala.ir",
+    "first_seen": "2026-01-06 16:03:46.235279"
+  },
+  {
+    "id": 2067083,
+    "domain": "www.mahorkala.ir",
+    "first_seen": "2026-01-06 16:03:46.235323"
+  },
+  {
+    "id": 2067101,
+    "domain": "diakusoft.ir",
+    "first_seen": "2026-01-06 16:03:52.255561"
+  },
+  {
+    "id": 2067102,
+    "domain": "*.diakusoft.ir",
+    "first_seen": "2026-01-06 16:03:52.255859"
+  },
+  {
+    "id": 2067103,
+    "domain": "dailies.ir",
+    "first_seen": "2026-01-06 16:03:52.496277"
+  },
+  {
+    "id": 2067104,
+    "domain": "*.dailies.ir",
+    "first_seen": "2026-01-06 16:03:52.496545"
+  },
+  {
+    "id": 2067150,
+    "domain": "mail.mohammadesfandiary1404.ir",
+    "first_seen": "2026-01-06 16:04:05.437437"
+  },
+  {
+    "id": 2067152,
+    "domain": "www.mohammadesfandiary1404.ir",
+    "first_seen": "2026-01-06 16:04:05.437650"
+  },
+  {
+    "id": 2067393,
+    "domain": "*.panizfood.ir",
+    "first_seen": "2026-01-06 16:04:23.790925"
+  },
+  {
+    "id": 2067394,
+    "domain": "panizfood.ir",
+    "first_seen": "2026-01-06 16:04:23.791172"
+  },
+  {
+    "id": 2067410,
+    "domain": "ftp.poshakesaran.ir",
+    "first_seen": "2026-01-06 16:04:31.821581"
+  },
+  {
+    "id": 2067411,
+    "domain": "mail.poshakesaran.ir",
+    "first_seen": "2026-01-06 16:04:31.821921"
+  },
+  {
+    "id": 2067412,
+    "domain": "pop.poshakesaran.ir",
+    "first_seen": "2026-01-06 16:04:31.821957"
+  },
+  {
+    "id": 2067413,
+    "domain": "poshakesaran.ir",
+    "first_seen": "2026-01-06 16:04:31.821978"
+  },
+  {
+    "id": 2067414,
+    "domain": "smtp.poshakesaran.ir",
+    "first_seen": "2026-01-06 16:04:31.821997"
+  },
+  {
+    "id": 2067415,
+    "domain": "www.poshakesaran.ir",
+    "first_seen": "2026-01-06 16:04:31.822035"
+  },
+  {
+    "id": 2067461,
+    "domain": "*.panirfastfood.ir",
+    "first_seen": "2026-01-06 16:04:41.699812"
+  },
+  {
+    "id": 2067462,
+    "domain": "panirfastfood.ir",
+    "first_seen": "2026-01-06 16:04:41.700071"
+  },
+  {
+    "id": 2067491,
+    "domain": "www.zahra-hosein.ariamix.ir",
+    "first_seen": "2026-01-06 16:04:49.125249"
+  },
+  {
+    "id": 2067492,
+    "domain": "zahra-hosein.ariamix.ir",
+    "first_seen": "2026-01-06 16:04:49.125487"
+  },
+  {
+    "id": 2067502,
+    "domain": "asaltalaei.ir",
+    "first_seen": "2026-01-06 16:04:54.801849"
+  },
+  {
+    "id": 2067522,
+    "domain": "*.quizbook.ir",
+    "first_seen": "2026-01-06 16:05:03.797395"
+  },
+  {
+    "id": 2067523,
+    "domain": "www.wpdigital.quizbook.ir",
+    "first_seen": "2026-01-06 16:05:03.797583"
+  },
+  {
+    "id": 2067537,
+    "domain": "*.kicklab.ir",
+    "first_seen": "2026-01-06 16:05:08.870455"
+  },
+  {
+    "id": 2067592,
+    "domain": "karyabpars.ir",
+    "first_seen": "2026-01-06 16:05:19.651882"
+  },
+  {
+    "id": 2067593,
+    "domain": "*.karyabpars.ir",
+    "first_seen": "2026-01-06 16:05:19.652123"
+  },
+  {
+    "id": 2067653,
+    "domain": "sample.kadogram.ir",
+    "first_seen": "2026-01-06 16:05:27.607125"
+  },
+  {
+    "id": 2067654,
+    "domain": "www.sample.kadogram.ir",
+    "first_seen": "2026-01-06 16:05:27.607291"
+  },
+  {
+    "id": 2067670,
+    "domain": "autodiscover.enc.daniyalroomiyani.ir",
+    "first_seen": "2026-01-06 16:05:28.557734"
+  },
+  {
+    "id": 2067671,
+    "domain": "cpanel.enc.daniyalroomiyani.ir",
+    "first_seen": "2026-01-06 16:05:28.557962"
+  },
+  {
+    "id": 2067672,
+    "domain": "cpcalendars.enc.daniyalroomiyani.ir",
+    "first_seen": "2026-01-06 16:05:28.557996"
+  },
+  {
+    "id": 2067673,
+    "domain": "cpcontacts.enc.daniyalroomiyani.ir",
+    "first_seen": "2026-01-06 16:05:28.558021"
+  },
+  {
+    "id": 2067674,
+    "domain": "enc.daniyalroomiyani.ir",
+    "first_seen": "2026-01-06 16:05:28.558056"
+  },
+  {
+    "id": 2067675,
+    "domain": "webdisk.enc.daniyalroomiyani.ir",
+    "first_seen": "2026-01-06 16:05:28.558121"
+  },
+  {
+    "id": 2067676,
+    "domain": "webmail.enc.daniyalroomiyani.ir",
+    "first_seen": "2026-01-06 16:05:28.558146"
+  },
+  {
+    "id": 2067677,
+    "domain": "www.enc.daniyalroomiyani.ir",
+    "first_seen": "2026-01-06 16:05:28.558176"
+  },
+  {
+    "id": 2067695,
+    "domain": "vike.mnrtech.ir",
+    "first_seen": "2026-01-06 16:05:32.209695"
+  },
+  {
+    "id": 2067714,
+    "domain": "ipis.rayvarzkavir.ir",
+    "first_seen": "2026-01-06 16:05:36.692684"
+  },
+  {
+    "id": 2067717,
+    "domain": "ut.hmdin.ir",
+    "first_seen": "2026-01-06 16:05:36.953853"
+  },
+  {
+    "id": 2067735,
+    "domain": "6ad.ir",
+    "first_seen": "2026-01-06 16:05:40.187343"
+  },
+  {
+    "id": 2067736,
+    "domain": "*.6ad.ir",
+    "first_seen": "2026-01-06 16:05:40.187574"
+  },
+  {
+    "id": 2067782,
+    "domain": "cofeomde.ir",
+    "first_seen": "2026-01-06 16:06:02.313818"
+  },
+  {
+    "id": 2067830,
+    "domain": "art-marvand.ir",
+    "first_seen": "2026-01-06 16:06:20.455453"
+  },
+  {
+    "id": 2067831,
+    "domain": "autodiscover.art-marvand.ir",
+    "first_seen": "2026-01-06 16:06:20.455697"
+  },
+  {
+    "id": 2067832,
+    "domain": "cpanel.art-marvand.ir",
+    "first_seen": "2026-01-06 16:06:20.455743"
+  },
+  {
+    "id": 2067833,
+    "domain": "cpcalendars.art-marvand.ir",
+    "first_seen": "2026-01-06 16:06:20.455848"
+  },
+  {
+    "id": 2067834,
+    "domain": "cpcontacts.art-marvand.ir",
+    "first_seen": "2026-01-06 16:06:20.455877"
+  },
+  {
+    "id": 2067835,
+    "domain": "mail.art-marvand.ir",
+    "first_seen": "2026-01-06 16:06:20.455901"
+  },
+  {
+    "id": 2067836,
+    "domain": "webdisk.art-marvand.ir",
+    "first_seen": "2026-01-06 16:06:20.455949"
+  },
+  {
+    "id": 2067837,
+    "domain": "webmail.art-marvand.ir",
+    "first_seen": "2026-01-06 16:06:20.455976"
+  },
+  {
+    "id": 2067838,
+    "domain": "www.art-marvand.ir",
+    "first_seen": "2026-01-06 16:06:20.456083"
+  },
+  {
+    "id": 2067843,
+    "domain": "chatbot.ahanbarekat.ir",
+    "first_seen": "2026-01-06 16:06:23.691869"
+  },
+  {
+    "id": 2067847,
+    "domain": "jilwood.ir",
+    "first_seen": "2026-01-06 16:06:26.816724"
+  },
+  {
+    "id": 2067848,
+    "domain": "autodiscover.dmedit.ir",
+    "first_seen": "2026-01-06 16:06:27.888649"
+  },
+  {
+    "id": 2067849,
+    "domain": "cpanel.dmedit.ir",
+    "first_seen": "2026-01-06 16:06:27.888880"
+  },
+  {
+    "id": 2067850,
+    "domain": "cpcalendars.dmedit.ir",
+    "first_seen": "2026-01-06 16:06:27.888924"
+  },
+  {
+    "id": 2067851,
+    "domain": "cpcontacts.dmedit.ir",
+    "first_seen": "2026-01-06 16:06:27.888957"
+  },
+  {
+    "id": 2067852,
+    "domain": "dmedit.ir",
+    "first_seen": "2026-01-06 16:06:27.888987"
+  },
+  {
+    "id": 2067853,
+    "domain": "mail.dmedit.ir",
+    "first_seen": "2026-01-06 16:06:27.889018"
+  },
+  {
+    "id": 2067854,
+    "domain": "webdisk.dmedit.ir",
+    "first_seen": "2026-01-06 16:06:27.889041"
+  },
+  {
+    "id": 2067855,
+    "domain": "webmail.dmedit.ir",
+    "first_seen": "2026-01-06 16:06:27.889075"
+  },
+  {
+    "id": 2067856,
+    "domain": "www.dmedit.ir",
+    "first_seen": "2026-01-06 16:06:27.889104"
+  },
+  {
+    "id": 2067902,
+    "domain": "*.divarcinema.ir",
+    "first_seen": "2026-01-06 16:06:37.701925"
+  },
+  {
+    "id": 2067903,
+    "domain": "divarcinema.ir",
+    "first_seen": "2026-01-06 16:06:37.702107"
+  },
+  {
+    "id": 2067915,
+    "domain": "*.penorayan.ir",
+    "first_seen": "2026-01-06 16:06:37.831261"
+  },
+  {
+    "id": 2067916,
+    "domain": "penorayan.ir",
+    "first_seen": "2026-01-06 16:06:37.831490"
+  },
+  {
+    "id": 2067923,
+    "domain": "*.hamraahe-to.ir",
+    "first_seen": "2026-01-06 16:06:48.816842"
+  },
+  {
+    "id": 2067924,
+    "domain": "hamraahe-to.ir",
+    "first_seen": "2026-01-06 16:06:48.817152"
+  },
+  {
+    "id": 2067925,
+    "domain": "*.vestaartshop.ir",
+    "first_seen": "2026-01-06 16:06:50.698857"
+  },
+  {
+    "id": 2067926,
+    "domain": "vestaartshop.ir",
+    "first_seen": "2026-01-06 16:06:50.699159"
+  },
+  {
+    "id": 2067937,
+    "domain": "cpanel.halvabelal.ir",
+    "first_seen": "2026-01-06 16:06:58.184112"
+  },
+  {
+    "id": 2067938,
+    "domain": "cpcalendars.halvabelal.ir",
+    "first_seen": "2026-01-06 16:06:58.184339"
+  },
+  {
+    "id": 2067939,
+    "domain": "cpcontacts.halvabelal.ir",
+    "first_seen": "2026-01-06 16:06:58.184365"
+  },
+  {
+    "id": 2067940,
+    "domain": "halvabelal.ir",
+    "first_seen": "2026-01-06 16:06:58.184401"
+  },
+  {
+    "id": 2067941,
+    "domain": "mail.halvabelal.ir",
+    "first_seen": "2026-01-06 16:06:58.184450"
+  },
+  {
+    "id": 2067942,
+    "domain": "webdisk.halvabelal.ir",
+    "first_seen": "2026-01-06 16:06:58.184472"
+  },
+  {
+    "id": 2067943,
+    "domain": "webmail.halvabelal.ir",
+    "first_seen": "2026-01-06 16:06:58.184493"
+  },
+  {
+    "id": 2067944,
+    "domain": "www.halvabelal.ir",
+    "first_seen": "2026-01-06 16:06:58.184510"
+  },
+  {
+    "id": 2067955,
+    "domain": "cpanel.navaxsale.ir",
+    "first_seen": "2026-01-06 16:07:01.782572"
+  },
+  {
+    "id": 2067956,
+    "domain": "cpcalendars.navaxsale.ir",
+    "first_seen": "2026-01-06 16:07:01.782802"
+  },
+  {
+    "id": 2067957,
+    "domain": "cpcontacts.navaxsale.ir",
+    "first_seen": "2026-01-06 16:07:01.782976"
+  },
+  {
+    "id": 2067958,
+    "domain": "mail.navaxsale.ir",
+    "first_seen": "2026-01-06 16:07:01.783005"
+  },
+  {
+    "id": 2067959,
+    "domain": "navaxsale.ir",
+    "first_seen": "2026-01-06 16:07:01.783034"
+  },
+  {
+    "id": 2067960,
+    "domain": "webdisk.navaxsale.ir",
+    "first_seen": "2026-01-06 16:07:01.783080"
+  },
+  {
+    "id": 2067961,
+    "domain": "webmail.navaxsale.ir",
+    "first_seen": "2026-01-06 16:07:01.783103"
+  },
+  {
+    "id": 2067962,
+    "domain": "www.navaxsale.ir",
+    "first_seen": "2026-01-06 16:07:01.783125"
+  },
+  {
+    "id": 2067967,
+    "domain": "cpanel.wpnex.ir",
+    "first_seen": "2026-01-06 16:07:03.238089"
+  },
+  {
+    "id": 2067968,
+    "domain": "cpcalendars.wpnex.ir",
+    "first_seen": "2026-01-06 16:07:03.238377"
+  },
+  {
+    "id": 2067969,
+    "domain": "cpcontacts.wpnex.ir",
+    "first_seen": "2026-01-06 16:07:03.238467"
+  },
+  {
+    "id": 2067970,
+    "domain": "mail.wpnex.ir",
+    "first_seen": "2026-01-06 16:07:03.238544"
+  },
+  {
+    "id": 2067971,
+    "domain": "webdisk.wpnex.ir",
+    "first_seen": "2026-01-06 16:07:03.238577"
+  },
+  {
+    "id": 2067972,
+    "domain": "webmail.wpnex.ir",
+    "first_seen": "2026-01-06 16:07:03.238600"
+  },
+  {
+    "id": 2067973,
+    "domain": "wpnex.ir",
+    "first_seen": "2026-01-06 16:07:03.238624"
+  },
+  {
+    "id": 2067974,
+    "domain": "www.wpnex.ir",
+    "first_seen": "2026-01-06 16:07:03.238685"
+  },
+  {
+    "id": 2067975,
+    "domain": "mehrpooyaa-oneme-stbl0.hs3.ir",
+    "first_seen": "2026-01-06 16:07:03.597870"
+  },
+  {
+    "id": 2067976,
+    "domain": "*.adlclass.ir",
+    "first_seen": "2026-01-06 16:07:03.677965"
+  },
+  {
+    "id": 2067977,
+    "domain": "adlclass.ir",
+    "first_seen": "2026-01-06 16:07:03.678269"
+  },
+  {
+    "id": 2068022,
+    "domain": "*.1.arzhantin.ir",
+    "first_seen": "2026-01-06 16:07:10.744696"
+  },
+  {
+    "id": 2068023,
+    "domain": "1.arzhantin.ir",
+    "first_seen": "2026-01-06 16:07:10.744935"
+  },
+  {
+    "id": 2068044,
+    "domain": "*.pharmpet.ir",
+    "first_seen": "2026-01-06 16:07:26.724288"
+  },
+  {
+    "id": 2068045,
+    "domain": "pharmpet.ir",
+    "first_seen": "2026-01-06 16:07:26.724499"
+  },
+  {
+    "id": 2068046,
+    "domain": "www.jilwood.ir",
+    "first_seen": "2026-01-06 16:07:26.962082"
+  },
+  {
+    "id": 2068100,
+    "domain": "tu.salianm.ir",
+    "first_seen": "2026-01-06 16:07:35.532573"
+  },
+  {
+    "id": 2068120,
+    "domain": "*.fakherjavdan.ir",
+    "first_seen": "2026-01-06 16:07:38.550975"
+  },
+  {
+    "id": 2068121,
+    "domain": "fakherjavdan.ir",
+    "first_seen": "2026-01-06 16:07:38.551181"
+  },
+  {
+    "id": 2068176,
+    "domain": "autodiscover.mohammadghaderi.ir",
+    "first_seen": "2026-01-06 16:08:05.659600"
+  },
+  {
+    "id": 2068177,
+    "domain": "cpanel.mohammadghaderi.ir",
+    "first_seen": "2026-01-06 16:08:05.659887"
+  },
+  {
+    "id": 2068178,
+    "domain": "cpcalendars.mohammadghaderi.ir",
+    "first_seen": "2026-01-06 16:08:05.659925"
+  },
+  {
+    "id": 2068179,
+    "domain": "cpcontacts.mohammadghaderi.ir",
+    "first_seen": "2026-01-06 16:08:05.659972"
+  },
+  {
+    "id": 2068180,
+    "domain": "mail.mohammadghaderi.ir",
+    "first_seen": "2026-01-06 16:08:05.660040"
+  },
+  {
+    "id": 2068181,
+    "domain": "mohammadghaderi.ir",
+    "first_seen": "2026-01-06 16:08:05.660156"
+  },
+  {
+    "id": 2068182,
+    "domain": "webdisk.mohammadghaderi.ir",
+    "first_seen": "2026-01-06 16:08:05.660243"
+  },
+  {
+    "id": 2068183,
+    "domain": "webmail.mohammadghaderi.ir",
+    "first_seen": "2026-01-06 16:08:05.660305"
+  },
+  {
+    "id": 2068184,
+    "domain": "www.mohammadghaderi.ir",
+    "first_seen": "2026-01-06 16:08:05.660351"
+  },
+  {
+    "id": 2068193,
+    "domain": "*.nadinandisheh.ir",
+    "first_seen": "2026-01-06 16:08:06.637543"
+  },
+  {
+    "id": 2068194,
+    "domain": "nadinandisheh.ir",
+    "first_seen": "2026-01-06 16:08:06.637774"
+  },
+  {
+    "id": 2068195,
+    "domain": "*.foxirany.ir",
+    "first_seen": "2026-01-06 16:08:08.647768"
+  },
+  {
+    "id": 2068196,
+    "domain": "foxirany.ir",
+    "first_seen": "2026-01-06 16:08:08.648062"
+  },
+  {
+    "id": 2068215,
+    "domain": "ezkeep.ir",
+    "first_seen": "2026-01-06 16:08:09.837472"
+  },
+  {
+    "id": 2068216,
+    "domain": "*.ezkeep.ir",
+    "first_seen": "2026-01-06 16:08:09.837669"
+  },
+  {
+    "id": 2068298,
+    "domain": "*.adishsanatsabz.ir",
+    "first_seen": "2026-01-06 16:08:24.882102"
+  },
+  {
+    "id": 2068299,
+    "domain": "adishsanatsabz.ir",
+    "first_seen": "2026-01-06 16:08:24.882345"
+  },
+  {
+    "id": 2068377,
+    "domain": "yektasandal.ir",
+    "first_seen": "2026-01-06 16:08:50.722754"
+  },
+  {
+    "id": 2068378,
+    "domain": "*.yektasandal.ir",
+    "first_seen": "2026-01-06 16:08:50.722933"
+  },
+  {
+    "id": 2068486,
+    "domain": "mail.abfaksh.ir",
+    "first_seen": "2026-01-06 16:08:54.669853"
+  },
+  {
+    "id": 2068501,
+    "domain": "ftp.testali3.ir",
+    "first_seen": "2026-01-06 16:08:56.984604"
+  },
+  {
+    "id": 2068502,
+    "domain": "mail.testali3.ir",
+    "first_seen": "2026-01-06 16:08:56.985034"
+  },
+  {
+    "id": 2068503,
+    "domain": "pop.testali3.ir",
+    "first_seen": "2026-01-06 16:08:56.985083"
+  },
+  {
+    "id": 2068504,
+    "domain": "smtp.testali3.ir",
+    "first_seen": "2026-01-06 16:08:56.985117"
+  },
+  {
+    "id": 2068505,
+    "domain": "testali3.ir",
+    "first_seen": "2026-01-06 16:08:56.985152"
+  },
+  {
+    "id": 2068506,
+    "domain": "www.testali3.ir",
+    "first_seen": "2026-01-06 16:08:56.985177"
+  },
+  {
+    "id": 2068582,
+    "domain": "*.pwap.ir",
+    "first_seen": "2026-01-06 16:09:06.047593"
+  },
+  {
+    "id": 2068634,
+    "domain": "www.bluekidz.ir",
+    "first_seen": "2026-01-06 16:09:24.008546"
+  },
+  {
+    "id": 2068649,
+    "domain": "*.sadatakhavirestaurant.ir",
+    "first_seen": "2026-01-06 16:09:25.013801"
+  },
+  {
+    "id": 2068650,
+    "domain": "sadatakhavirestaurant.ir",
+    "first_seen": "2026-01-06 16:09:25.014044"
+  },
+  {
+    "id": 2068663,
+    "domain": "takloc.frping.ir",
+    "first_seen": "2026-01-06 16:09:29.136695"
+  },
+  {
+    "id": 2068669,
+    "domain": "mahboudi-foundation.ir",
+    "first_seen": "2026-01-06 16:09:35.611260"
+  },
+  {
+    "id": 2068670,
+    "domain": "*.mahboudi-foundation.ir",
+    "first_seen": "2026-01-06 16:09:35.611472"
+  },
+  {
+    "id": 2068679,
+    "domain": "*.khfangame.ir",
+    "first_seen": "2026-01-06 16:09:40.301222"
+  },
+  {
+    "id": 2068680,
+    "domain": "khfangame.ir",
+    "first_seen": "2026-01-06 16:09:40.301479"
+  },
+  {
+    "id": 2068686,
+    "domain": "*.barnamenevisan.ir",
+    "first_seen": "2026-01-06 16:09:45.000454"
+  },
+  {
+    "id": 2068687,
+    "domain": "barnamenevisan.ir",
+    "first_seen": "2026-01-06 16:09:45.000906"
+  },
+  {
+    "id": 2068689,
+    "domain": "play.digi-work.ir",
+    "first_seen": "2026-01-06 16:09:46.977681"
+  },
+  {
+    "id": 2068691,
+    "domain": "rokhcc.ir",
+    "first_seen": "2026-01-06 16:09:47.219559"
+  },
+  {
+    "id": 2068699,
+    "domain": "travel.adrees.ir",
+    "first_seen": "2026-01-06 16:09:51.906170"
+  },
+  {
+    "id": 2068700,
+    "domain": "www.travel.adrees.ir",
+    "first_seen": "2026-01-06 16:09:51.906405"
+  },
+  {
+    "id": 2068868,
+    "domain": "www.anzaliniaz.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.525207"
+  },
+  {
+    "id": 2068869,
+    "domain": "www.arzanamuz.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.525332"
+  },
+  {
+    "id": 2068870,
+    "domain": "www.beruzmedia.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.525602"
+  },
+  {
+    "id": 2068871,
+    "domain": "www.chipkala.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.525650"
+  },
+  {
+    "id": 2068872,
+    "domain": "www.daryasms.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.525684"
+  },
+  {
+    "id": 2068873,
+    "domain": "www.derakhtonline.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.525769"
+  },
+  {
+    "id": 2068874,
+    "domain": "www.dgpezeshki.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.525806"
+  },
+  {
+    "id": 2068875,
+    "domain": "www.doctorkhabar.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.525897"
+  },
+  {
+    "id": 2068876,
+    "domain": "www.dokkanmarket.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.525930"
+  },
+  {
+    "id": 2068877,
+    "domain": "www.e-sherkat.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.525963"
+  },
+  {
+    "id": 2068878,
+    "domain": "www.fee724.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.526008"
+  },
+  {
+    "id": 2068879,
+    "domain": "www.feegram.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.526041"
+  },
+  {
+    "id": 2068880,
+    "domain": "www.filmdarmani.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.526058"
+  },
+  {
+    "id": 2068881,
+    "domain": "www.footballlive.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.526088"
+  },
+  {
+    "id": 2068882,
+    "domain": "www.ganjinehhonar.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.526119"
+  },
+  {
+    "id": 2068883,
+    "domain": "www.gilantolid.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.526163"
+  },
+  {
+    "id": 2068884,
+    "domain": "www.gilink.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.526215"
+  },
+  {
+    "id": 2068885,
+    "domain": "www.glancer.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.526230"
+  },
+  {
+    "id": 2068886,
+    "domain": "www.hamahangibama.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.526261"
+  },
+  {
+    "id": 2068887,
+    "domain": "www.hamjoo.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.526325"
+  },
+  {
+    "id": 2068888,
+    "domain": "www.promonet.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.526371"
+  },
+  {
+    "id": 2068889,
+    "domain": "www.trailerha.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:12.526427"
+  },
+  {
+    "id": 2068908,
+    "domain": "*.nanoaab.ir",
+    "first_seen": "2026-01-06 16:10:22.528215"
+  },
+  {
+    "id": 2068909,
+    "domain": "nanoaab.ir",
+    "first_seen": "2026-01-06 16:10:22.528518"
+  },
+  {
+    "id": 2068921,
+    "domain": "*.hashtagapp.ir",
+    "first_seen": "2026-01-06 16:10:25.761602"
+  },
+  {
+    "id": 2068923,
+    "domain": "hashtagapp.ir",
+    "first_seen": "2026-01-06 16:10:25.761872"
+  },
+  {
+    "id": 2068924,
+    "domain": "www.bazarsarrafha.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.761924"
+  },
+  {
+    "id": 2068925,
+    "domain": "www.boombeboom.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.761991"
+  },
+  {
+    "id": 2068926,
+    "domain": "www.cafedejavu.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762056"
+  },
+  {
+    "id": 2068927,
+    "domain": "www.castgram.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762106"
+  },
+  {
+    "id": 2068928,
+    "domain": "www.coffeeyar.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762152"
+  },
+  {
+    "id": 2068929,
+    "domain": "www.coolersamsung.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762200"
+  },
+  {
+    "id": 2068930,
+    "domain": "www.dgdakhl.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762244"
+  },
+  {
+    "id": 2068931,
+    "domain": "www.digidakhl.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762271"
+  },
+  {
+    "id": 2068932,
+    "domain": "www.drmobo.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762291"
+  },
+  {
+    "id": 2068933,
+    "domain": "www.farcinema.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762313"
+  },
+  {
+    "id": 2068934,
+    "domain": "www.fbgram.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762431"
+  },
+  {
+    "id": 2068935,
+    "domain": "www.fixia.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762456"
+  },
+  {
+    "id": 2068936,
+    "domain": "www.goldoonnet.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762529"
+  },
+  {
+    "id": 2068937,
+    "domain": "www.gooshiinja.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762567"
+  },
+  {
+    "id": 2068938,
+    "domain": "www.gozineyebartar.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762628"
+  },
+  {
+    "id": 2068939,
+    "domain": "www.happygram.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762679"
+  },
+  {
+    "id": 2068940,
+    "domain": "www.hashtagapp.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762709"
+  },
+  {
+    "id": 2068941,
+    "domain": "www.hashtagluster.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762732"
+  },
+  {
+    "id": 2068942,
+    "domain": "www.hashtagmashin.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:25.762741"
+  },
+  {
+    "id": 2068943,
+    "domain": "luvino.ir",
+    "first_seen": "2026-01-06 16:10:27.439602"
+  },
+  {
+    "id": 2068944,
+    "domain": "smtp.luvino.ir",
+    "first_seen": "2026-01-06 16:10:27.440375"
+  },
+  {
+    "id": 2068962,
+    "domain": "autodiscover.tehranmikrotik.ir",
+    "first_seen": "2026-01-06 16:10:45.003885"
+  },
+  {
+    "id": 2068973,
+    "domain": "*.train24.ir",
+    "first_seen": "2026-01-06 16:10:45.543662"
+  },
+  {
+    "id": 2068974,
+    "domain": "train24.ir",
+    "first_seen": "2026-01-06 16:10:45.543761"
+  },
+  {
+    "id": 2068975,
+    "domain": "www.asiagram.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.543787"
+  },
+  {
+    "id": 2068976,
+    "domain": "www.bebingram.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.543811"
+  },
+  {
+    "id": 2068977,
+    "domain": "www.behtarinfekr.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.543836"
+  },
+  {
+    "id": 2068978,
+    "domain": "www.bescan.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.543864"
+  },
+  {
+    "id": 2068979,
+    "domain": "www.bevaghtesham.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.543904"
+  },
+  {
+    "id": 2068980,
+    "domain": "www.boursegraphy.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.543952"
+  },
+  {
+    "id": 2068981,
+    "domain": "www.dgkaghaz.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.544004"
+  },
+  {
+    "id": 2068982,
+    "domain": "www.digibalabar.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.544077"
+  },
+  {
+    "id": 2068983,
+    "domain": "www.digitaluniverse.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.544117"
+  },
+  {
+    "id": 2068984,
+    "domain": "www.dl-server.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.544147"
+  },
+  {
+    "id": 2068985,
+    "domain": "www.domainpal.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.544204"
+  },
+  {
+    "id": 2068986,
+    "domain": "www.download360.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.544227"
+  },
+  {
+    "id": 2068987,
+    "domain": "www.faralancer.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.544257"
+  },
+  {
+    "id": 2068988,
+    "domain": "www.foumannews.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.544278"
+  },
+  {
+    "id": 2068989,
+    "domain": "www.gilanprojects.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.544332"
+  },
+  {
+    "id": 2068990,
+    "domain": "www.guilantourism.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.544378"
+  },
+  {
+    "id": 2068991,
+    "domain": "www.hamyarpark.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.544407"
+  },
+  {
+    "id": 2068992,
+    "domain": "www.hashtaggraphic.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.544447"
+  },
+  {
+    "id": 2068993,
+    "domain": "www.talagoo.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.544475"
+  },
+  {
+    "id": 2068994,
+    "domain": "www.train24.ir.rondmart.ir",
+    "first_seen": "2026-01-06 16:10:45.544497"
+  },
+  {
+    "id": 2069269,
+    "domain": "api.yadaktop.ir",
+    "first_seen": "2026-01-06 16:11:22.829906"
+  },
+  {
+    "id": 2069270,
+    "domain": "www.api.yadaktop.ir",
+    "first_seen": "2026-01-06 16:11:22.830153"
+  },
+  {
+    "id": 2069272,
+    "domain": "*.botsorati.ir",
+    "first_seen": "2026-01-06 16:11:23.867664"
+  },
+  {
+    "id": 2069273,
+    "domain": "*.farassoo.ir",
+    "first_seen": "2026-01-06 16:11:26.115338"
+  },
+  {
+    "id": 2069274,
+    "domain": "*.mouse.ir",
+    "first_seen": "2026-01-06 16:11:26.115532"
+  },
+  {
+    "id": 2069275,
+    "domain": "farassoo.ir",
+    "first_seen": "2026-01-06 16:11:26.115591"
+  },
+  {
+    "id": 2069276,
+    "domain": "mouse.ir",
+    "first_seen": "2026-01-06 16:11:26.115653"
+  },
+  {
+    "id": 2069301,
+    "domain": "*.1831.ir",
+    "first_seen": "2026-01-06 16:11:27.032392"
+  },
+  {
+    "id": 2069302,
+    "domain": "1831.ir",
+    "first_seen": "2026-01-06 16:11:27.032594"
+  },
+  {
+    "id": 2069317,
+    "domain": "*.pooyasalamat.ir",
+    "first_seen": "2026-01-06 16:11:32.189041"
+  },
+  {
+    "id": 2069318,
+    "domain": "pooyasalamat.ir",
+    "first_seen": "2026-01-06 16:11:32.189324"
+  },
+  {
+    "id": 2069329,
+    "domain": "mail.parsis-segal.ir",
+    "first_seen": "2026-01-06 16:11:33.006628"
+  },
+  {
+    "id": 2069330,
+    "domain": "parsis-segal.ir",
+    "first_seen": "2026-01-06 16:11:33.006873"
+  },
+  {
+    "id": 2069331,
+    "domain": "www.parsis-segal.ir",
+    "first_seen": "2026-01-06 16:11:33.006903"
+  },
+  {
+    "id": 2069473,
+    "domain": "hakpublication.ir",
+    "first_seen": "2026-01-06 16:11:47.694364"
+  },
+  {
+    "id": 2069474,
+    "domain": "*.hakpublication.ir",
+    "first_seen": "2026-01-06 16:11:47.694551"
+  },
+  {
+    "id": 2069477,
+    "domain": "*.atlasrestaurant.ir",
+    "first_seen": "2026-01-06 16:11:47.997531"
+  },
+  {
+    "id": 2069478,
+    "domain": "atlasrestaurant.ir",
+    "first_seen": "2026-01-06 16:11:47.997786"
+  },
+  {
+    "id": 2069588,
+    "domain": "beatfroshi.ir",
+    "first_seen": "2026-01-06 16:12:15.081381"
+  },
+  {
+    "id": 2069589,
+    "domain": "beatfroshi.musitik.ir",
+    "first_seen": "2026-01-06 16:12:15.081611"
+  },
+  {
+    "id": 2069590,
+    "domain": "cpanel.beatfroshi.ir",
+    "first_seen": "2026-01-06 16:12:15.081638"
+  },
+  {
+    "id": 2069591,
+    "domain": "cpcalendars.beatfroshi.ir",
+    "first_seen": "2026-01-06 16:12:15.081663"
+  },
+  {
+    "id": 2069592,
+    "domain": "cpcontacts.beatfroshi.ir",
+    "first_seen": "2026-01-06 16:12:15.081755"
+  },
+  {
+    "id": 2069593,
+    "domain": "mail.beatfroshi.ir",
+    "first_seen": "2026-01-06 16:12:15.081799"
+  },
+  {
+    "id": 2069594,
+    "domain": "webdisk.beatfroshi.ir",
+    "first_seen": "2026-01-06 16:12:15.081822"
+  },
+  {
+    "id": 2069595,
+    "domain": "webmail.beatfroshi.ir",
+    "first_seen": "2026-01-06 16:12:15.081844"
+  },
+  {
+    "id": 2069596,
+    "domain": "www.beatfroshi.ir",
+    "first_seen": "2026-01-06 16:12:15.081863"
+  },
+  {
+    "id": 2069597,
+    "domain": "www.beatfroshi.musitik.ir",
+    "first_seen": "2026-01-06 16:12:15.081884"
+  },
+  {
+    "id": 2069606,
+    "domain": "amirbehtash.ir",
+    "first_seen": "2026-01-06 16:12:19.970335"
+  },
+  {
+    "id": 2069607,
+    "domain": "*.amirbehtash.ir",
+    "first_seen": "2026-01-06 16:12:19.970528"
+  },
+  {
+    "id": 2069617,
+    "domain": "ws.alberoml.ir",
+    "first_seen": "2026-01-06 16:12:23.623128"
+  },
+  {
+    "id": 2069631,
+    "domain": "golgoontehran.ir",
+    "first_seen": "2026-01-06 16:12:29.607641"
+  },
+  {
+    "id": 2069632,
+    "domain": "www.golgoontehran.ir",
+    "first_seen": "2026-01-06 16:12:29.607900"
+  },
+  {
+    "id": 2069637,
+    "domain": "helmijewellery.ir",
+    "first_seen": "2026-01-06 16:12:30.945564"
+  },
+  {
+    "id": 2069640,
+    "domain": "7622651e-a63e-477c-a6f6-b801c59609ac.pooyaserver.ir",
+    "first_seen": "2026-01-06 16:12:31.566605"
+  },
+  {
+    "id": 2069647,
+    "domain": "networke.ir",
+    "first_seen": "2026-01-06 16:12:33.103490"
+  },
+  {
+    "id": 2069648,
+    "domain": "www.networke.ir",
+    "first_seen": "2026-01-06 16:12:33.103722"
+  },
+  {
+    "id": 2069782,
+    "domain": "cara-app.ir",
+    "first_seen": "2026-01-06 16:12:58.457440"
+  },
+  {
+    "id": 2069783,
+    "domain": "www.cara-app.ir",
+    "first_seen": "2026-01-06 16:12:58.457697"
+  },
+  {
+    "id": 2069796,
+    "domain": "*.raminsandal.ir",
+    "first_seen": "2026-01-06 16:13:00.531896"
+  },
+  {
+    "id": 2069797,
+    "domain": "raminsandal.ir",
+    "first_seen": "2026-01-06 16:13:00.532134"
+  },
+  {
+    "id": 2069835,
+    "domain": "customai.ir",
+    "first_seen": "2026-01-06 16:13:05.629890"
+  },
+  {
+    "id": 2069881,
+    "domain": "*.mail.mdkala.ir",
+    "first_seen": "2026-01-06 16:13:23.750429"
+  },
+  {
+    "id": 2069882,
+    "domain": "*.mdkala.ir",
+    "first_seen": "2026-01-06 16:13:23.750677"
+  },
+  {
+    "id": 2069883,
+    "domain": "*.www.mdkala.ir",
+    "first_seen": "2026-01-06 16:13:23.750747"
+  },
+  {
+    "id": 2069884,
+    "domain": "mdkala.ir",
+    "first_seen": "2026-01-06 16:13:23.750831"
+  },
+  {
+    "id": 2069885,
+    "domain": "*.amirrestaurant.ir",
+    "first_seen": "2026-01-06 16:13:23.780161"
+  },
+  {
+    "id": 2069886,
+    "domain": "amirrestaurant.ir",
+    "first_seen": "2026-01-06 16:13:23.780418"
+  },
+  {
+    "id": 2069887,
+    "domain": "*.shabanshop.ir",
+    "first_seen": "2026-01-06 16:13:24.359280"
+  },
+  {
+    "id": 2069888,
+    "domain": "shabanshop.ir",
+    "first_seen": "2026-01-06 16:13:24.359477"
+  },
+  {
+    "id": 2069905,
+    "domain": "bd56a1a8-8e76-49d6-8387-9da2a138a485.pooyaserver.ir",
+    "first_seen": "2026-01-06 16:13:26.182255"
+  },
+  {
+    "id": 2069907,
+    "domain": "*.baharpizza.ir",
+    "first_seen": "2026-01-06 16:13:26.997425"
+  },
+  {
+    "id": 2069908,
+    "domain": "baharpizza.ir",
+    "first_seen": "2026-01-06 16:13:26.997677"
+  },
+  {
+    "id": 2069995,
+    "domain": "*.phyva.ir",
+    "first_seen": "2026-01-06 16:13:37.630219"
+  },
+  {
+    "id": 2069996,
+    "domain": "phyva.ir",
+    "first_seen": "2026-01-06 16:13:37.630477"
+  },
+  {
+    "id": 2070025,
+    "domain": "larkala.ir",
+    "first_seen": "2026-01-06 16:13:53.683095"
+  },
+  {
+    "id": 2070026,
+    "domain": "www.larkala.ir",
+    "first_seen": "2026-01-06 16:13:53.683300"
+  },
+  {
+    "id": 2070057,
+    "domain": "aminsafarpour.ir",
+    "first_seen": "2026-01-06 16:14:00.375740"
+  },
+  {
+    "id": 2070058,
+    "domain": "*.aminsafarpour.ir",
+    "first_seen": "2026-01-06 16:14:00.375929"
+  },
+  {
+    "id": 2070077,
+    "domain": "*.storefit.ir",
+    "first_seen": "2026-01-06 16:14:09.161692"
+  },
+  {
+    "id": 2070078,
+    "domain": "storefit.ir",
+    "first_seen": "2026-01-06 16:14:09.161899"
+  },
+  {
+    "id": 2070081,
+    "domain": "maindomain.ir",
+    "first_seen": "2026-01-06 16:14:12.996908"
+  },
+  {
+    "id": 2070082,
+    "domain": "*.maindomain.ir",
+    "first_seen": "2026-01-06 16:14:12.997181"
+  },
+  {
+    "id": 2070148,
+    "domain": "*.berdin-co.ir",
+    "first_seen": "2026-01-06 16:14:30.573964"
+  },
+  {
+    "id": 2070149,
+    "domain": "*.berdin.ir",
+    "first_seen": "2026-01-06 16:14:30.574192"
+  },
+  {
+    "id": 2070150,
+    "domain": "berdin-co.ir",
+    "first_seen": "2026-01-06 16:14:30.574265"
+  },
+  {
+    "id": 2070151,
+    "domain": "berdin.ir",
+    "first_seen": "2026-01-06 16:14:30.574304"
+  },
+  {
+    "id": 2070168,
+    "domain": "user.mojegooya.ir",
+    "first_seen": "2026-01-06 16:14:42.450179"
+  },
+  {
+    "id": 2070169,
+    "domain": "www.user.mojegooya.ir",
+    "first_seen": "2026-01-06 16:14:42.450400"
+  },
+  {
+    "id": 2070171,
+    "domain": "flashingmarketing.ir",
+    "first_seen": "2026-01-06 16:14:45.737686"
+  },
+  {
+    "id": 2070172,
+    "domain": "*.flashingmarketing.ir",
+    "first_seen": "2026-01-06 16:14:45.737969"
+  },
+  {
+    "id": 2070179,
+    "domain": "api.thefinance.ir",
+    "first_seen": "2026-01-06 16:14:56.063872"
+  },
+  {
+    "id": 2070195,
+    "domain": "*.elec98.ir",
+    "first_seen": "2026-01-06 16:14:58.536073"
+  },
+  {
+    "id": 2070196,
+    "domain": "elec98.ir",
+    "first_seen": "2026-01-06 16:14:58.536255"
+  },
+  {
+    "id": 2070222,
+    "domain": "jgbf.ir",
+    "first_seen": "2026-01-06 16:15:16.188041"
+  },
+  {
+    "id": 2070223,
+    "domain": "*.jgbf.ir",
+    "first_seen": "2026-01-06 16:15:16.188259"
+  },
+  {
+    "id": 2070272,
+    "domain": "fitnessfa.ir",
+    "first_seen": "2026-01-06 16:15:30.270418"
+  },
+  {
+    "id": 2070273,
+    "domain": "erwofgzasexdrcftvgybhnu.fitnessfa.ir",
+    "first_seen": "2026-01-06 16:15:30.270645"
+  },
+  {
+    "id": 2070319,
+    "domain": "azaraab.ir",
+    "first_seen": "2026-01-06 16:15:43.430481"
+  },
+  {
+    "id": 2070320,
+    "domain": "www.azaraab.ir",
+    "first_seen": "2026-01-06 16:15:43.430728"
+  },
+  {
+    "id": 2070333,
+    "domain": "appetan.ir",
+    "first_seen": "2026-01-06 16:15:48.345268"
+  },
+  {
+    "id": 2070334,
+    "domain": "*.appetan.ir",
+    "first_seen": "2026-01-06 16:15:48.345554"
+  },
+  {
+    "id": 2070397,
+    "domain": "admin.my.tamhis.ir",
+    "first_seen": "2026-01-06 16:16:02.394522"
+  },
+  {
+    "id": 2070398,
+    "domain": "my.tamhis.ir",
+    "first_seen": "2026-01-06 16:16:02.394722"
+  },
+  {
+    "id": 2070399,
+    "domain": "webmail.my.tamhis.ir",
+    "first_seen": "2026-01-06 16:16:02.394755"
+  },
+  {
+    "id": 2070400,
+    "domain": "www.my.tamhis.ir",
+    "first_seen": "2026-01-06 16:16:02.394792"
+  },
+  {
+    "id": 2070423,
+    "domain": "shahr-market.ir",
+    "first_seen": "2026-01-06 16:16:05.082163"
+  },
+  {
+    "id": 2070424,
+    "domain": "www.shahr-market.ir",
+    "first_seen": "2026-01-06 16:16:05.082357"
+  },
+  {
+    "id": 2070448,
+    "domain": "llm.eledah.ir",
+    "first_seen": "2026-01-06 16:16:13.681754"
+  },
+  {
+    "id": 2070462,
+    "domain": "qowtech.ir",
+    "first_seen": "2026-01-06 16:16:28.594493"
+  },
+  {
+    "id": 2070488,
+    "domain": "*.accountingservices.laravelcms.ir",
+    "first_seen": "2026-01-06 16:16:47.359944"
+  },
+  {
+    "id": 2070489,
+    "domain": "accountingservices.laravelcms.ir",
+    "first_seen": "2026-01-06 16:16:47.360151"
+  },
+  {
+    "id": 2070490,
+    "domain": "carpet1381.ir",
+    "first_seen": "2026-01-06 16:16:48.797832"
+  },
+  {
+    "id": 2070491,
+    "domain": "ftp.carpet1381.ir",
+    "first_seen": "2026-01-06 16:16:48.798057"
+  },
+  {
+    "id": 2070492,
+    "domain": "mail.carpet1381.ir",
+    "first_seen": "2026-01-06 16:16:48.798142"
+  },
+  {
+    "id": 2070493,
+    "domain": "pop.carpet1381.ir",
+    "first_seen": "2026-01-06 16:16:48.798166"
+  },
+  {
+    "id": 2070494,
+    "domain": "smtp.carpet1381.ir",
+    "first_seen": "2026-01-06 16:16:48.798204"
+  },
+  {
+    "id": 2070495,
+    "domain": "www.carpet1381.ir",
+    "first_seen": "2026-01-06 16:16:48.798256"
+  },
+  {
+    "id": 2070514,
+    "domain": "chat.systempanel.ir",
+    "first_seen": "2026-01-06 16:16:54.089694"
+  },
+  {
+    "id": 2070515,
+    "domain": "www.chat.systempanel.ir",
+    "first_seen": "2026-01-06 16:16:54.089923"
+  },
+  {
+    "id": 2070517,
+    "domain": "auth.typeacid.ir",
+    "first_seen": "2026-01-06 16:16:56.517966"
+  },
+  {
+    "id": 2070545,
+    "domain": "barpaevent.ir",
+    "first_seen": "2026-01-06 16:17:02.380636"
+  },
+  {
+    "id": 2070546,
+    "domain": "www.barpaevent.ir",
+    "first_seen": "2026-01-06 16:17:02.381010"
+  },
+  {
+    "id": 2070778,
+    "domain": "mail.pertless.ir",
+    "first_seen": "2026-01-06 16:17:16.638482"
+  },
+  {
+    "id": 2070779,
+    "domain": "pertless.ir",
+    "first_seen": "2026-01-06 16:17:16.638670"
+  },
+  {
+    "id": 2070780,
+    "domain": "www.pertless.ir",
+    "first_seen": "2026-01-06 16:17:16.638697"
+  },
+  {
+    "id": 2070812,
+    "domain": "subs.fanity.ir",
+    "first_seen": "2026-01-06 16:17:36.529739"
+  },
+  {
+    "id": 2070813,
+    "domain": "promosms.ir",
+    "first_seen": "2026-01-06 16:17:36.966367"
+  },
+  {
+    "id": 2070814,
+    "domain": "*.promosms.ir",
+    "first_seen": "2026-01-06 16:17:36.966595"
+  },
+  {
+    "id": 2070817,
+    "domain": "autodiscover.toseegostar.ir",
+    "first_seen": "2026-01-06 16:17:40.218251"
+  },
+  {
+    "id": 2070818,
+    "domain": "cpanel.toseegostar.ir",
+    "first_seen": "2026-01-06 16:17:40.218525"
+  },
+  {
+    "id": 2070819,
+    "domain": "cpcalendars.toseegostar.ir",
+    "first_seen": "2026-01-06 16:17:40.218555"
+  },
+  {
+    "id": 2070820,
+    "domain": "cpcontacts.toseegostar.ir",
+    "first_seen": "2026-01-06 16:17:40.218592"
+  },
+  {
+    "id": 2070821,
+    "domain": "mail.toseegostar.ir",
+    "first_seen": "2026-01-06 16:17:40.218646"
+  },
+  {
+    "id": 2070822,
+    "domain": "toseegostar.ir",
+    "first_seen": "2026-01-06 16:17:40.218676"
+  },
+  {
+    "id": 2070823,
+    "domain": "webdisk.toseegostar.ir",
+    "first_seen": "2026-01-06 16:17:40.218714"
+  },
+  {
+    "id": 2070824,
+    "domain": "webmail.toseegostar.ir",
+    "first_seen": "2026-01-06 16:17:40.218744"
+  },
+  {
+    "id": 2070825,
+    "domain": "www.toseegostar.ir",
+    "first_seen": "2026-01-06 16:17:40.218765"
+  },
+  {
+    "id": 2070833,
+    "domain": "*.agency4.laravelcms.ir",
+    "first_seen": "2026-01-06 16:17:45.754255"
+  },
+  {
+    "id": 2070834,
+    "domain": "agency4.laravelcms.ir",
+    "first_seen": "2026-01-06 16:17:45.754493"
+  },
+  {
+    "id": 2070874,
+    "domain": "*.dark-gamevps.ir",
+    "first_seen": "2026-01-06 16:17:50.709336"
+  },
+  {
+    "id": 2070875,
+    "domain": "mahsaelectricco.ir",
+    "first_seen": "2026-01-06 16:17:51.153436"
+  },
+  {
+    "id": 2070876,
+    "domain": "www.mahsaelectricco.ir",
+    "first_seen": "2026-01-06 16:17:51.153698"
+  },
+  {
+    "id": 2070879,
+    "domain": "bixolon.ir",
+    "first_seen": "2026-01-06 16:17:51.515742"
+  },
+  {
+    "id": 2070880,
+    "domain": "cpanel.bixolon.ir",
+    "first_seen": "2026-01-06 16:17:51.516024"
+  },
+  {
+    "id": 2070881,
+    "domain": "mail.bixolon.ir",
+    "first_seen": "2026-01-06 16:17:51.516153"
+  },
+  {
+    "id": 2070882,
+    "domain": "webmail.bixolon.ir",
+    "first_seen": "2026-01-06 16:17:51.516208"
+  },
+  {
+    "id": 2070883,
+    "domain": "www.bixolon.ir",
+    "first_seen": "2026-01-06 16:17:51.516242"
+  },
+  {
+    "id": 2070886,
+    "domain": "7.8-9.ir",
+    "first_seen": "2026-01-06 16:17:51.944159"
+  },
+  {
+    "id": 2070891,
+    "domain": "tcf.ffng.ir",
+    "first_seen": "2026-01-06 16:17:54.273396"
+  },
+  {
+    "id": 2070892,
+    "domain": "www.tcf.ffng.ir",
+    "first_seen": "2026-01-06 16:17:54.273654"
+  },
+  {
+    "id": 2070918,
+    "domain": "*.agency1.laravelcms.ir",
+    "first_seen": "2026-01-06 16:17:57.125613"
+  },
+  {
+    "id": 2070919,
+    "domain": "agency1.laravelcms.ir",
+    "first_seen": "2026-01-06 16:17:57.125830"
+  },
+  {
+    "id": 2070927,
+    "domain": "*.agency5.laravelcms.ir",
+    "first_seen": "2026-01-06 16:17:58.730450"
+  },
+  {
+    "id": 2070928,
+    "domain": "agency5.laravelcms.ir",
+    "first_seen": "2026-01-06 16:17:58.730637"
+  },
+  {
+    "id": 2070955,
+    "domain": "ftp.realrad.ir",
+    "first_seen": "2026-01-06 16:18:05.264202"
+  },
+  {
+    "id": 2070956,
+    "domain": "mail.realrad.ir",
+    "first_seen": "2026-01-06 16:18:05.264421"
+  },
+  {
+    "id": 2070957,
+    "domain": "pop.realrad.ir",
+    "first_seen": "2026-01-06 16:18:05.264469"
+  },
+  {
+    "id": 2070958,
+    "domain": "realrad.ir",
+    "first_seen": "2026-01-06 16:18:05.264544"
+  },
+  {
+    "id": 2070959,
+    "domain": "smtp.realrad.ir",
+    "first_seen": "2026-01-06 16:18:05.264572"
+  },
+  {
+    "id": 2070960,
+    "domain": "www.realrad.ir",
+    "first_seen": "2026-01-06 16:18:05.264613"
+  },
+  {
+    "id": 2070983,
+    "domain": "monessabrand.ir",
+    "first_seen": "2026-01-06 16:18:08.133670"
+  },
+  {
+    "id": 2070984,
+    "domain": "www.monessabrand.ir",
+    "first_seen": "2026-01-06 16:18:08.133891"
+  },
+  {
+    "id": 2070985,
+    "domain": "zula-shop.ir",
+    "first_seen": "2026-01-06 16:18:08.205577"
+  },
+  {
+    "id": 2070986,
+    "domain": "*.zula-shop.ir",
+    "first_seen": "2026-01-06 16:18:08.205835"
+  },
+  {
+    "id": 2071005,
+    "domain": "*.agency2.laravelcms.ir",
+    "first_seen": "2026-01-06 16:18:12.000547"
+  },
+  {
+    "id": 2071006,
+    "domain": "agency2.laravelcms.ir",
+    "first_seen": "2026-01-06 16:18:12.000730"
+  },
+  {
+    "id": 2071016,
+    "domain": "cdn.programirani.ir",
+    "first_seen": "2026-01-06 16:18:13.398091"
+  },
+  {
+    "id": 2071101,
+    "domain": "*.rayanitshop.ir",
+    "first_seen": "2026-01-06 16:18:27.326095"
+  },
+  {
+    "id": 2071102,
+    "domain": "rayanitshop.ir",
+    "first_seen": "2026-01-06 16:18:27.326381"
+  },
+  {
+    "id": 2071103,
+    "domain": "*.agency3.laravelcms.ir",
+    "first_seen": "2026-01-06 16:18:27.679612"
+  },
+  {
+    "id": 2071104,
+    "domain": "agency3.laravelcms.ir",
+    "first_seen": "2026-01-06 16:18:27.679869"
+  },
+  {
+    "id": 2071105,
+    "domain": "ahuee.linuxian.ir",
+    "first_seen": "2026-01-06 16:18:27.779314"
+  },
+  {
+    "id": 2071114,
+    "domain": "*.agency7.laravelcms.ir",
+    "first_seen": "2026-01-06 16:18:32.408434"
+  },
+  {
+    "id": 2071115,
+    "domain": "agency7.laravelcms.ir",
+    "first_seen": "2026-01-06 16:18:32.408683"
+  },
+  {
+    "id": 2071116,
+    "domain": "iebot.ir",
+    "first_seen": "2026-01-06 16:18:37.525625"
+  },
+  {
+    "id": 2071117,
+    "domain": "*.iebot.ir",
+    "first_seen": "2026-01-06 16:18:37.526098"
+  },
+  {
+    "id": 2071124,
+    "domain": "main.daythemes.ir",
+    "first_seen": "2026-01-06 16:18:39.663556"
+  },
+  {
+    "id": 2071125,
+    "domain": "www.main.daythemes.ir",
+    "first_seen": "2026-01-06 16:18:39.663817"
+  },
+  {
+    "id": 2071136,
+    "domain": "*.powerturk.ir",
+    "first_seen": "2026-01-06 16:18:42.822850"
+  },
+  {
+    "id": 2071137,
+    "domain": "powerturk.ir",
+    "first_seen": "2026-01-06 16:18:42.823038"
+  },
+  {
+    "id": 2071141,
+    "domain": "p2.ashkan1998.ir",
+    "first_seen": "2026-01-06 16:18:43.345942"
+  },
+  {
+    "id": 2071145,
+    "domain": "*.ir.kashanaki.ir",
+    "first_seen": "2026-01-06 16:18:44.678789"
+  },
+  {
+    "id": 2071146,
+    "domain": "ir.kashanaki.ir",
+    "first_seen": "2026-01-06 16:18:44.679013"
+  },
+  {
+    "id": 2071269,
+    "domain": "qurani1404-1.mdgalehdar.ir",
+    "first_seen": "2026-01-06 16:18:53.618579"
+  },
+  {
+    "id": 2071283,
+    "domain": "v2.ashkan1998.ir",
+    "first_seen": "2026-01-06 16:19:00.368126"
+  },
+  {
+    "id": 2071296,
+    "domain": "panel.maztech.ir",
+    "first_seen": "2026-01-06 16:19:04.956538"
+  },
+  {
+    "id": 2071297,
+    "domain": "romak.maztech.ir",
+    "first_seen": "2026-01-06 16:19:04.956587"
+  },
+  {
+    "id": 2071298,
+    "domain": "saba.maztech.ir",
+    "first_seen": "2026-01-06 16:19:04.956655"
+  },
+  {
+    "id": 2071299,
+    "domain": "shirazmorgh.maztech.ir",
+    "first_seen": "2026-01-06 16:19:04.956679"
+  },
+  {
+    "id": 2071300,
+    "domain": "shop.maztech.ir",
+    "first_seen": "2026-01-06 16:19:04.956757"
+  },
+  {
+    "id": 2071301,
+    "domain": "web.maztech.ir",
+    "first_seen": "2026-01-06 16:19:04.956808"
+  },
+  {
+    "id": 2071302,
+    "domain": "www.maztech.ir",
+    "first_seen": "2026-01-06 16:19:04.956877"
+  },
+  {
+    "id": 2071309,
+    "domain": "ukrine.asreabi.ir",
+    "first_seen": "2026-01-06 16:19:07.065484"
+  },
+  {
+    "id": 2071319,
+    "domain": "*.20370.ir",
+    "first_seen": "2026-01-06 16:19:10.588413"
+  },
+  {
+    "id": 2071320,
+    "domain": "20370.ir",
+    "first_seen": "2026-01-06 16:19:10.588675"
+  },
+  {
+    "id": 2071321,
+    "domain": "*.agency6.laravelcms.ir",
+    "first_seen": "2026-01-06 16:19:11.792873"
+  },
+  {
+    "id": 2071322,
+    "domain": "agency6.laravelcms.ir",
+    "first_seen": "2026-01-06 16:19:11.793074"
+  },
+  {
+    "id": 2071324,
+    "domain": "mzpp332993.ir",
+    "first_seen": "2026-01-06 16:19:12.011268"
+  },
+  {
+    "id": 2071325,
+    "domain": "www.mzpp332993.ir",
+    "first_seen": "2026-01-06 16:19:12.011326"
+  },
+  {
+    "id": 2071340,
+    "domain": "learntoplay.ir",
+    "first_seen": "2026-01-06 16:19:18.452685"
+  },
+  {
+    "id": 2071341,
+    "domain": "*.learntoplay.ir",
+    "first_seen": "2026-01-06 16:19:18.452979"
+  },
+  {
+    "id": 2071345,
+    "domain": "*.novobox.ir",
+    "first_seen": "2026-01-06 16:19:22.665068"
+  },
+  {
+    "id": 2071346,
+    "domain": "novobox.ir",
+    "first_seen": "2026-01-06 16:19:22.665292"
+  },
+  {
+    "id": 2071347,
+    "domain": "mahanpewter.ir",
+    "first_seen": "2026-01-06 16:19:22.877519"
+  },
+  {
+    "id": 2071348,
+    "domain": "www.mahanpewter.ir",
+    "first_seen": "2026-01-06 16:19:22.877748"
+  },
+  {
+    "id": 2071357,
+    "domain": "lioled.ir",
+    "first_seen": "2026-01-06 16:19:29.880078"
+  },
+  {
+    "id": 2071358,
+    "domain": "mail.lioled.ir",
+    "first_seen": "2026-01-06 16:19:29.880268"
+  },
+  {
+    "id": 2071359,
+    "domain": "www.lioled.ir",
+    "first_seen": "2026-01-06 16:19:29.880297"
+  },
+  {
+    "id": 2071362,
+    "domain": "floratissue2.boomsgroup.ir",
+    "first_seen": "2026-01-06 16:19:31.294453"
+  },
+  {
+    "id": 2071371,
+    "domain": "file.solookyart.ir",
+    "first_seen": "2026-01-06 16:19:35.378073"
+  },
+  {
+    "id": 2071372,
+    "domain": "www.file.solookyart.ir",
+    "first_seen": "2026-01-06 16:19:35.378288"
+  },
+  {
+    "id": 2071386,
+    "domain": "*.nikansupport.ir",
+    "first_seen": "2026-01-06 16:19:37.675614"
+  },
+  {
+    "id": 2071387,
+    "domain": "nikansupport.ir",
+    "first_seen": "2026-01-06 16:19:37.675845"
+  },
+  {
+    "id": 2071411,
+    "domain": "*.agency8.laravelcms.ir",
+    "first_seen": "2026-01-06 16:19:43.473696"
+  },
+  {
+    "id": 2071412,
+    "domain": "agency8.laravelcms.ir",
+    "first_seen": "2026-01-06 16:19:43.473901"
+  },
+  {
+    "id": 2071439,
+    "domain": "floratissue5.boomsgroup.ir",
+    "first_seen": "2026-01-06 16:19:47.649897"
+  },
+  {
+    "id": 2071481,
+    "domain": "www.fws.mtfr.ir",
+    "first_seen": "2026-01-06 16:19:52.686569"
+  },
+  {
+    "id": 2071488,
+    "domain": "mettialinia.ir",
+    "first_seen": "2026-01-06 16:19:53.596796"
+  },
+  {
+    "id": 2071489,
+    "domain": "barbershop.mettialinia.ir",
+    "first_seen": "2026-01-06 16:19:53.597390"
+  },
+  {
+    "id": 2071542,
+    "domain": "*.ai.laravelcms.ir",
+    "first_seen": "2026-01-06 16:20:00.527686"
+  },
+  {
+    "id": 2071543,
+    "domain": "ai.laravelcms.ir",
+    "first_seen": "2026-01-06 16:20:00.527912"
+  },
+  {
+    "id": 2071546,
+    "domain": "mail.st-baran.ir",
+    "first_seen": "2026-01-06 16:20:01.816167"
+  },
+  {
+    "id": 2071547,
+    "domain": "st-baran.ir",
+    "first_seen": "2026-01-06 16:20:01.816373"
+  },
+  {
+    "id": 2071548,
+    "domain": "www.st-baran.ir",
+    "first_seen": "2026-01-06 16:20:01.816418"
+  },
+  {
+    "id": 2071585,
+    "domain": "khmohamadamin.ir",
+    "first_seen": "2026-01-06 16:20:13.357307"
+  },
+  {
+    "id": 2071586,
+    "domain": "www.khmohamadamin.ir",
+    "first_seen": "2026-01-06 16:20:13.357535"
+  },
+  {
+    "id": 2071587,
+    "domain": "*.classic.laravelcms.ir",
+    "first_seen": "2026-01-06 16:20:15.185894"
+  },
+  {
+    "id": 2071588,
+    "domain": "classic.laravelcms.ir",
+    "first_seen": "2026-01-06 16:20:15.186118"
+  },
+  {
+    "id": 2071594,
+    "domain": "fidradev.ir",
+    "first_seen": "2026-01-06 16:20:20.777463"
+  },
+  {
+    "id": 2071595,
+    "domain": "*.fidradev.ir",
+    "first_seen": "2026-01-06 16:20:20.777831"
+  },
+  {
+    "id": 2071618,
+    "domain": "*.estate4.laravelcms.ir",
+    "first_seen": "2026-01-06 16:20:33.412931"
+  },
+  {
+    "id": 2071619,
+    "domain": "estate4.laravelcms.ir",
+    "first_seen": "2026-01-06 16:20:33.413146"
+  },
+  {
+    "id": 2071642,
+    "domain": "*.consulting.laravelcms.ir",
+    "first_seen": "2026-01-06 16:20:35.568120"
+  },
+  {
+    "id": 2071643,
+    "domain": "consulting.laravelcms.ir",
+    "first_seen": "2026-01-06 16:20:35.568389"
+  },
+  {
+    "id": 2071735,
+    "domain": "floratissue.boomsgroup.ir",
+    "first_seen": "2026-01-06 16:20:51.056189"
+  },
+  {
+    "id": 2071736,
+    "domain": "*.digitalagency.laravelcms.ir",
+    "first_seen": "2026-01-06 16:20:51.074217"
+  },
+  {
+    "id": 2071737,
+    "domain": "digitalagency.laravelcms.ir",
+    "first_seen": "2026-01-06 16:20:51.074386"
+  },
+  {
+    "id": 2071741,
+    "domain": "navidneko.mobailfarid8.ir",
+    "first_seen": "2026-01-06 16:20:51.666799"
+  },
+  {
+    "id": 2071823,
+    "domain": "*.fashion.laravelcms.ir",
+    "first_seen": "2026-01-06 16:21:03.797048"
+  },
+  {
+    "id": 2071824,
+    "domain": "fashion.laravelcms.ir",
+    "first_seen": "2026-01-06 16:21:03.797283"
+  },
+  {
+    "id": 2071834,
+    "domain": "*.estate2.laravelcms.ir",
+    "first_seen": "2026-01-06 16:21:04.034234"
+  },
+  {
+    "id": 2071835,
+    "domain": "estate2.laravelcms.ir",
+    "first_seen": "2026-01-06 16:21:04.034447"
+  },
+  {
+    "id": 2071861,
+    "domain": "edontools.ir",
+    "first_seen": "2026-01-06 16:21:06.038426"
+  },
+  {
+    "id": 2071862,
+    "domain": "fotontunlandclub.ir",
+    "first_seen": "2026-01-06 16:21:06.038660"
+  },
+  {
+    "id": 2071863,
+    "domain": "offroadcruiser.ir",
+    "first_seen": "2026-01-06 16:21:06.038694"
+  },
+  {
+    "id": 2071864,
+    "domain": "www.edontools.ir",
+    "first_seen": "2026-01-06 16:21:06.038719"
+  },
+  {
+    "id": 2071865,
+    "domain": "www.fotontunlandclub.ir",
+    "first_seen": "2026-01-06 16:21:06.038782"
+  },
+  {
+    "id": 2071866,
+    "domain": "www.offroadcruiser.ir",
+    "first_seen": "2026-01-06 16:21:06.038841"
+  },
+  {
+    "id": 2071891,
+    "domain": "*.estate3.laravelcms.ir",
+    "first_seen": "2026-01-06 16:21:15.104440"
+  },
+  {
+    "id": 2071892,
+    "domain": "estate3.laravelcms.ir",
+    "first_seen": "2026-01-06 16:21:15.104925"
+  },
+  {
+    "id": 2071912,
+    "domain": "*.financesolutions.laravelcms.ir",
+    "first_seen": "2026-01-06 16:21:22.752428"
+  },
+  {
+    "id": 2071913,
+    "domain": "financesolutions.laravelcms.ir",
+    "first_seen": "2026-01-06 16:21:22.752734"
+  },
+  {
+    "id": 2071942,
+    "domain": "geolims.app.ocshen.ir",
+    "first_seen": "2026-01-06 16:21:28.329250"
+  },
+  {
+    "id": 2071980,
+    "domain": "dl.amoozesh3.ir",
+    "first_seen": "2026-01-06 16:21:36.758391"
+  },
+  {
+    "id": 2071986,
+    "domain": "*.food.laravelcms.ir",
+    "first_seen": "2026-01-06 16:21:39.821887"
+  },
+  {
+    "id": 2071987,
+    "domain": "food.laravelcms.ir",
+    "first_seen": "2026-01-06 16:21:39.822154"
+  },
+  {
+    "id": 2071996,
+    "domain": "*.standrezvan.ir",
+    "first_seen": "2026-01-06 16:21:43.966551"
+  },
+  {
+    "id": 2071997,
+    "domain": "standrezvan.ir",
+    "first_seen": "2026-01-06 16:21:43.966904"
+  },
+  {
+    "id": 2072007,
+    "domain": "*.estate1.laravelcms.ir",
+    "first_seen": "2026-01-06 16:21:49.396302"
+  },
+  {
+    "id": 2072008,
+    "domain": "estate1.laravelcms.ir",
+    "first_seen": "2026-01-06 16:21:49.396520"
+  },
+  {
+    "id": 2072028,
+    "domain": "*.gaming.laravelcms.ir",
+    "first_seen": "2026-01-06 16:21:59.671028"
+  },
+  {
+    "id": 2072029,
+    "domain": "gaming.laravelcms.ir",
+    "first_seen": "2026-01-06 16:21:59.671350"
+  },
+  {
+    "id": 2072036,
+    "domain": "rehaner-gafe.ir",
+    "first_seen": "2026-01-06 16:22:02.611293"
+  },
+  {
+    "id": 2072037,
+    "domain": "*.rehaner-gafe.ir",
+    "first_seen": "2026-01-06 16:22:02.611525"
+  },
+  {
+    "id": 2072099,
+    "domain": "*.insurance.laravelcms.ir",
+    "first_seen": "2026-01-06 16:22:13.321621"
+  },
+  {
+    "id": 2072100,
+    "domain": "insurance.laravelcms.ir",
+    "first_seen": "2026-01-06 16:22:13.321890"
+  },
+  {
+    "id": 2072117,
+    "domain": "m-a-c.ir",
+    "first_seen": "2026-01-06 16:22:16.719414"
+  },
+  {
+    "id": 2072118,
+    "domain": "www.m-a-c.ir",
+    "first_seen": "2026-01-06 16:22:16.719670"
+  },
+  {
+    "id": 2072123,
+    "domain": "*.niksaj.ir",
+    "first_seen": "2026-01-06 16:22:16.793739"
+  },
+  {
+    "id": 2072158,
+    "domain": "*.itsolutions.laravelcms.ir",
+    "first_seen": "2026-01-06 16:22:27.047384"
+  },
+  {
+    "id": 2072159,
+    "domain": "itsolutions.laravelcms.ir",
+    "first_seen": "2026-01-06 16:22:27.047738"
+  },
+  {
+    "id": 2072191,
+    "domain": "cstco.ir",
+    "first_seen": "2026-01-06 16:22:29.622518"
+  },
+  {
+    "id": 2072192,
+    "domain": "*.cstco.ir",
+    "first_seen": "2026-01-06 16:22:29.622764"
+  },
+  {
+    "id": 2072193,
+    "domain": "*.uptriptour.ir",
+    "first_seen": "2026-01-06 16:22:30.849958"
+  },
+  {
+    "id": 2072194,
+    "domain": "uptriptour.ir",
+    "first_seen": "2026-01-06 16:22:30.850234"
+  },
+  {
+    "id": 2072209,
+    "domain": "bijhak.ir",
+    "first_seen": "2026-01-06 16:22:38.890922"
+  },
+  {
+    "id": 2072210,
+    "domain": "ftp.bijhak.ir",
+    "first_seen": "2026-01-06 16:22:38.891717"
+  },
+  {
+    "id": 2072211,
+    "domain": "mail.bijhak.ir",
+    "first_seen": "2026-01-06 16:22:38.891758"
+  },
+  {
+    "id": 2072212,
+    "domain": "pop.bijhak.ir",
+    "first_seen": "2026-01-06 16:22:38.891782"
+  },
+  {
+    "id": 2072213,
+    "domain": "smtp.bijhak.ir",
+    "first_seen": "2026-01-06 16:22:38.891818"
+  },
+  {
+    "id": 2072214,
+    "domain": "www.bijhak.ir",
+    "first_seen": "2026-01-06 16:22:38.891874"
+  },
+  {
+    "id": 2072228,
+    "domain": "*.luxe1.laravelcms.ir",
+    "first_seen": "2026-01-06 16:22:41.946099"
+  },
+  {
+    "id": 2072229,
+    "domain": "luxe1.laravelcms.ir",
+    "first_seen": "2026-01-06 16:22:41.946315"
+  },
+  {
+    "id": 2072237,
+    "domain": "autodiscover.wigwig.ir",
+    "first_seen": "2026-01-06 16:22:44.742668"
+  },
+  {
+    "id": 2072238,
+    "domain": "cpanel.wigwig.ir",
+    "first_seen": "2026-01-06 16:22:44.743083"
+  },
+  {
+    "id": 2072239,
+    "domain": "cpcalendars.wigwig.ir",
+    "first_seen": "2026-01-06 16:22:44.743161"
+  },
+  {
+    "id": 2072240,
+    "domain": "cpcontacts.wigwig.ir",
+    "first_seen": "2026-01-06 16:22:44.743197"
+  },
+  {
+    "id": 2072241,
+    "domain": "webdisk.wigwig.ir",
+    "first_seen": "2026-01-06 16:22:44.743234"
+  },
+  {
+    "id": 2072242,
+    "domain": "webmail.wigwig.ir",
+    "first_seen": "2026-01-06 16:22:44.743272"
+  },
+  {
+    "id": 2072243,
+    "domain": "wigwig.ir",
+    "first_seen": "2026-01-06 16:22:44.743319"
+  },
+  {
+    "id": 2072244,
+    "domain": "www.wigwig.ir",
+    "first_seen": "2026-01-06 16:22:44.743367"
+  },
+  {
+    "id": 2072258,
+    "domain": "*.rabito.ir",
+    "first_seen": "2026-01-06 16:22:47.417539"
+  },
+  {
+    "id": 2072259,
+    "domain": "rabito.ir",
+    "first_seen": "2026-01-06 16:22:47.417787"
+  },
+  {
+    "id": 2072262,
+    "domain": "*.nazilasepehrkiya.ir",
+    "first_seen": "2026-01-06 16:22:50.039576"
+  },
+  {
+    "id": 2072263,
+    "domain": "nazilasepehrkiya.ir",
+    "first_seen": "2026-01-06 16:22:50.039777"
+  },
+  {
+    "id": 2072290,
+    "domain": "panel.ip12.ir",
+    "first_seen": "2026-01-06 16:23:00.458311"
+  },
+  {
+    "id": 2072311,
+    "domain": "www.www.random.muhami.ir",
+    "first_seen": "2026-01-06 16:23:07.352115"
+  },
+  {
+    "id": 2072364,
+    "domain": "*.luxe3.laravelcms.ir",
+    "first_seen": "2026-01-06 16:23:11.966208"
+  },
+  {
+    "id": 2072365,
+    "domain": "luxe3.laravelcms.ir",
+    "first_seen": "2026-01-06 16:23:11.966392"
+  },
+  {
+    "id": 2072441,
+    "domain": "*.yaccc.ir",
+    "first_seen": "2026-01-06 16:23:28.040241"
+  },
+  {
+    "id": 2072442,
+    "domain": "yaccc.ir",
+    "first_seen": "2026-01-06 16:23:28.040456"
+  },
+  {
+    "id": 2072510,
+    "domain": "data.amirsanati.ir",
+    "first_seen": "2026-01-06 16:23:38.027748"
+  },
+  {
+    "id": 2072542,
+    "domain": "nf.carsoundbar.ir",
+    "first_seen": "2026-01-06 16:23:40.215787"
+  },
+  {
+    "id": 2072590,
+    "domain": "*.luxe2.laravelcms.ir",
+    "first_seen": "2026-01-06 16:23:53.035454"
+  },
+  {
+    "id": 2072591,
+    "domain": "luxe2.laravelcms.ir",
+    "first_seen": "2026-01-06 16:23:53.035600"
+  },
+  {
+    "id": 2072598,
+    "domain": "www.aicibadmin.sherkatee.ir",
+    "first_seen": "2026-01-06 16:23:56.816192"
+  },
+  {
+    "id": 2072599,
+    "domain": "kerkerehoshmand.ir",
+    "first_seen": "2026-01-06 16:23:57.630902"
+  },
+  {
+    "id": 2072600,
+    "domain": "www.kerkerehoshmand.ir",
+    "first_seen": "2026-01-06 16:23:57.631111"
+  },
+  {
+    "id": 2072605,
+    "domain": "*.minimal.laravelcms.ir",
+    "first_seen": "2026-01-06 16:23:59.301771"
+  },
+  {
+    "id": 2072606,
+    "domain": "minimal.laravelcms.ir",
+    "first_seen": "2026-01-06 16:23:59.302136"
+  },
+  {
+    "id": 2072717,
+    "domain": "autodiscover.sehgam.ir",
+    "first_seen": "2026-01-06 16:24:18.807703"
+  },
+  {
+    "id": 2072718,
+    "domain": "cpanel.sehgam.ir",
+    "first_seen": "2026-01-06 16:24:18.807913"
+  },
+  {
+    "id": 2072719,
+    "domain": "cpcalendars.sehgam.ir",
+    "first_seen": "2026-01-06 16:24:18.808040"
+  },
+  {
+    "id": 2072720,
+    "domain": "cpcontacts.sehgam.ir",
+    "first_seen": "2026-01-06 16:24:18.808090"
+  },
+  {
+    "id": 2072721,
+    "domain": "mail.sehgam.ir",
+    "first_seen": "2026-01-06 16:24:18.808116"
+  },
+  {
+    "id": 2072722,
+    "domain": "sehgam.ir",
+    "first_seen": "2026-01-06 16:24:18.808166"
+  },
+  {
+    "id": 2072723,
+    "domain": "webdisk.sehgam.ir",
+    "first_seen": "2026-01-06 16:24:18.808212"
+  },
+  {
+    "id": 2072724,
+    "domain": "webmail.sehgam.ir",
+    "first_seen": "2026-01-06 16:24:18.808248"
+  },
+  {
+    "id": 2072725,
+    "domain": "www.sehgam.ir",
+    "first_seen": "2026-01-06 16:24:18.808370"
+  },
+  {
+    "id": 2072761,
+    "domain": "*.photography.laravelcms.ir",
+    "first_seen": "2026-01-06 16:24:23.997544"
+  },
+  {
+    "id": 2072762,
+    "domain": "photography.laravelcms.ir",
+    "first_seen": "2026-01-06 16:24:23.997721"
+  },
+  {
+    "id": 2072766,
+    "domain": "admin.security-tap.ir",
+    "first_seen": "2026-01-06 16:24:28.302708"
+  },
+  {
+    "id": 2072767,
+    "domain": "www.admin.security-tap.ir",
+    "first_seen": "2026-01-06 16:24:28.302931"
+  },
+  {
+    "id": 2072794,
+    "domain": "ziaratasan.ir",
+    "first_seen": "2026-01-06 16:24:37.073558"
+  },
+  {
+    "id": 2072798,
+    "domain": "*.goodshoes.ir",
+    "first_seen": "2026-01-06 16:24:38.507518"
+  },
+  {
+    "id": 2072799,
+    "domain": "goodshoes.ir",
+    "first_seen": "2026-01-06 16:24:38.507805"
+  },
+  {
+    "id": 2072802,
+    "domain": "*.politics.laravelcms.ir",
+    "first_seen": "2026-01-06 16:24:41.053120"
+  },
+  {
+    "id": 2072803,
+    "domain": "politics.laravelcms.ir",
+    "first_seen": "2026-01-06 16:24:41.053366"
+  },
+  {
+    "id": 2072808,
+    "domain": "homgroup.ir",
+    "first_seen": "2026-01-06 16:24:43.186606"
+  },
+  {
+    "id": 2072809,
+    "domain": "www.homgroup.ir",
+    "first_seen": "2026-01-06 16:24:43.186851"
+  },
+  {
+    "id": 2072814,
+    "domain": "support.nornazin.ir",
+    "first_seen": "2026-01-06 16:24:44.295865"
+  },
+  {
+    "id": 2072824,
+    "domain": "panel.btid-api.ir",
+    "first_seen": "2026-01-06 16:24:46.219513"
+  },
+  {
+    "id": 2072827,
+    "domain": "*.luxe4.laravelcms.ir",
+    "first_seen": "2026-01-06 16:24:46.390655"
+  },
+  {
+    "id": 2072828,
+    "domain": "luxe4.laravelcms.ir",
+    "first_seen": "2026-01-06 16:24:46.390843"
+  },
+  {
+    "id": 2072830,
+    "domain": "*.kafdemo.ir",
+    "first_seen": "2026-01-06 16:24:46.603112"
+  },
+  {
+    "id": 2072831,
+    "domain": "kafdemo.ir",
+    "first_seen": "2026-01-06 16:24:46.603341"
+  },
+  {
+    "id": 2072836,
+    "domain": "*.magazine.laravelcms.ir",
+    "first_seen": "2026-01-06 16:24:48.154901"
+  },
+  {
+    "id": 2072837,
+    "domain": "magazine.laravelcms.ir",
+    "first_seen": "2026-01-06 16:24:48.155105"
+  },
+  {
+    "id": 2072840,
+    "domain": "support.wordpress-seo-project.ir",
+    "first_seen": "2026-01-06 16:24:48.398139"
+  },
+  {
+    "id": 2072842,
+    "domain": "www.omidkids.ir",
+    "first_seen": "2026-01-06 16:24:49.004609"
+  },
+  {
+    "id": 2072856,
+    "domain": "*.electroafroozsepahan.ir",
+    "first_seen": "2026-01-06 16:24:52.946771"
+  },
+  {
+    "id": 2072857,
+    "domain": "electroafroozsepahan.ir",
+    "first_seen": "2026-01-06 16:24:52.946959"
+  },
+  {
+    "id": 2072872,
+    "domain": "cpanel.techbiar.ir",
+    "first_seen": "2026-01-06 16:24:56.173813"
+  },
+  {
+    "id": 2072873,
+    "domain": "cpcalendars.techbiar.ir",
+    "first_seen": "2026-01-06 16:24:56.173997"
+  },
+  {
+    "id": 2072874,
+    "domain": "cpcontacts.techbiar.ir",
+    "first_seen": "2026-01-06 16:24:56.174056"
+  },
+  {
+    "id": 2072875,
+    "domain": "mail.techbiar.ir",
+    "first_seen": "2026-01-06 16:24:56.174081"
+  },
+  {
+    "id": 2072876,
+    "domain": "techbiar.ir",
+    "first_seen": "2026-01-06 16:24:56.174103"
+  },
+  {
+    "id": 2072877,
+    "domain": "webdisk.techbiar.ir",
+    "first_seen": "2026-01-06 16:24:56.174133"
+  },
+  {
+    "id": 2072878,
+    "domain": "webmail.techbiar.ir",
+    "first_seen": "2026-01-06 16:24:56.174157"
+  },
+  {
+    "id": 2072879,
+    "domain": "www.techbiar.ir",
+    "first_seen": "2026-01-06 16:24:56.174187"
+  },
+  {
+    "id": 2072892,
+    "domain": "*.sports.laravelcms.ir",
+    "first_seen": "2026-01-06 16:24:58.091960"
+  },
+  {
+    "id": 2072893,
+    "domain": "sports.laravelcms.ir",
+    "first_seen": "2026-01-06 16:24:58.092276"
+  },
+  {
+    "id": 2072904,
+    "domain": "panel.mustang-ger.ir",
+    "first_seen": "2026-01-06 16:25:02.696583"
+  },
+  {
+    "id": 2072905,
+    "domain": "*.dlhas.ir",
+    "first_seen": "2026-01-06 16:25:06.564968"
+  },
+  {
+    "id": 2072907,
+    "domain": "gd.tivastore.ir",
+    "first_seen": "2026-01-06 16:25:06.593656"
+  },
+  {
+    "id": 2072909,
+    "domain": "*.personalalt.laravelcms.ir",
+    "first_seen": "2026-01-06 16:25:06.897002"
+  },
+  {
+    "id": 2072910,
+    "domain": "personalalt.laravelcms.ir",
+    "first_seen": "2026-01-06 16:25:06.897270"
+  },
+  {
+    "id": 2072911,
+    "domain": "*.technology.laravelcms.ir",
+    "first_seen": "2026-01-06 16:25:09.173204"
+  },
+  {
+    "id": 2072912,
+    "domain": "technology.laravelcms.ir",
+    "first_seen": "2026-01-06 16:25:09.173580"
+  },
+  {
+    "id": 2072923,
+    "domain": "autodiscover.mohsen-bozorgi.ir",
+    "first_seen": "2026-01-06 16:25:12.270343"
+  },
+  {
+    "id": 2072924,
+    "domain": "cpanel.mohsen-bozorgi.ir",
+    "first_seen": "2026-01-06 16:25:12.270599"
+  },
+  {
+    "id": 2072925,
+    "domain": "cpcalendars.mohsen-bozorgi.ir",
+    "first_seen": "2026-01-06 16:25:12.270633"
+  },
+  {
+    "id": 2072926,
+    "domain": "cpcontacts.mohsen-bozorgi.ir",
+    "first_seen": "2026-01-06 16:25:12.270658"
+  },
+  {
+    "id": 2072927,
+    "domain": "mail.mohsen-bozorgi.ir",
+    "first_seen": "2026-01-06 16:25:12.270707"
+  },
+  {
+    "id": 2072928,
+    "domain": "mohsen-bozorgi.ir",
+    "first_seen": "2026-01-06 16:25:12.270741"
+  },
+  {
+    "id": 2072929,
+    "domain": "webmail.mohsen-bozorgi.ir",
+    "first_seen": "2026-01-06 16:25:12.270774"
+  },
+  {
+    "id": 2072930,
+    "domain": "www.mohsen-bozorgi.ir",
+    "first_seen": "2026-01-06 16:25:12.270799"
+  },
+  {
+    "id": 2072963,
+    "domain": "plasta.ir",
+    "first_seen": "2026-01-06 16:25:19.605360"
+  },
+  {
+    "id": 2072964,
+    "domain": "*.plasta.ir",
+    "first_seen": "2026-01-06 16:25:19.605590"
+  },
+  {
+    "id": 2072972,
+    "domain": "eliterpg.ir",
+    "first_seen": "2026-01-06 16:25:21.391274"
+  },
+  {
+    "id": 2072973,
+    "domain": "*.eliterpg.ir",
+    "first_seen": "2026-01-06 16:25:21.391515"
+  },
+  {
+    "id": 2073009,
+    "domain": "*.travel.laravelcms.ir",
+    "first_seen": "2026-01-06 16:25:24.277356"
+  },
+  {
+    "id": 2073010,
+    "domain": "travel.laravelcms.ir",
+    "first_seen": "2026-01-06 16:25:24.277587"
+  },
+  {
+    "id": 2073018,
+    "domain": "*.kayotest.ir",
+    "first_seen": "2026-01-06 16:25:25.263373"
+  },
+  {
+    "id": 2073019,
+    "domain": "kayotest.ir",
+    "first_seen": "2026-01-06 16:25:25.263649"
+  },
+  {
+    "id": 2073097,
+    "domain": "autodiscover.maahinnews.ir",
+    "first_seen": "2026-01-06 16:25:35.163567"
+  },
+  {
+    "id": 2073098,
+    "domain": "cpanel.maahinnews.ir",
+    "first_seen": "2026-01-06 16:25:35.163921"
+  },
+  {
+    "id": 2073099,
+    "domain": "cpcalendars.maahinnews.ir",
+    "first_seen": "2026-01-06 16:25:35.164017"
+  },
+  {
+    "id": 2073100,
+    "domain": "cpcontacts.maahinnews.ir",
+    "first_seen": "2026-01-06 16:25:35.164089"
+  },
+  {
+    "id": 2073102,
+    "domain": "mail.maahinnews.ir",
+    "first_seen": "2026-01-06 16:25:35.164169"
+  },
+  {
+    "id": 2073103,
+    "domain": "webdisk.maahinnews.ir",
+    "first_seen": "2026-01-06 16:25:35.164213"
+  },
+  {
+    "id": 2073104,
+    "domain": "webmail.maahinnews.ir",
+    "first_seen": "2026-01-06 16:25:35.164273"
+  },
+  {
+    "id": 2073106,
+    "domain": "ww25.ftp.gameyaar.ir",
+    "first_seen": "2026-01-06 16:25:35.244020"
+  },
+  {
+    "id": 2073223,
+    "domain": "*.nakhleman.ir",
+    "first_seen": "2026-01-06 16:25:59.111404"
+  },
+  {
+    "id": 2073224,
+    "domain": "nakhleman.ir",
+    "first_seen": "2026-01-06 16:25:59.111682"
+  },
+  {
+    "id": 2073266,
+    "domain": "ftp.taromfood.ir",
+    "first_seen": "2026-01-06 16:26:15.354857"
+  },
+  {
+    "id": 2073267,
+    "domain": "mail.taromfood.ir",
+    "first_seen": "2026-01-06 16:26:15.355039"
+  },
+  {
+    "id": 2073268,
+    "domain": "new.taromfood.ir",
+    "first_seen": "2026-01-06 16:26:15.355101"
+  },
+  {
+    "id": 2073269,
+    "domain": "pop.taromfood.ir",
+    "first_seen": "2026-01-06 16:26:15.355136"
+  },
+  {
+    "id": 2073270,
+    "domain": "smtp.taromfood.ir",
+    "first_seen": "2026-01-06 16:26:15.355157"
+  },
+  {
+    "id": 2073271,
+    "domain": "taromfood.ir",
+    "first_seen": "2026-01-06 16:26:15.355181"
+  },
+  {
+    "id": 2073272,
+    "domain": "www.new.taromfood.ir",
+    "first_seen": "2026-01-06 16:26:15.355213"
+  },
+  {
+    "id": 2073273,
+    "domain": "www.taromfood.ir",
+    "first_seen": "2026-01-06 16:26:15.355240"
+  },
+  {
+    "id": 2073345,
+    "domain": "*.chaptaco.ir",
+    "first_seen": "2026-01-06 16:26:25.259964"
+  },
+  {
+    "id": 2073346,
+    "domain": "chaptaco.ir",
+    "first_seen": "2026-01-06 16:26:25.260176"
+  },
+  {
+    "id": 2073377,
+    "domain": "sub2.ashkan1377.ir",
+    "first_seen": "2026-01-06 16:26:37.249102"
+  },
+  {
+    "id": 2073395,
+    "domain": "autodiscover.mokebhzes.ir",
+    "first_seen": "2026-01-06 16:26:47.345176"
+  },
+  {
+    "id": 2073396,
+    "domain": "cpanel.mokebhzes.ir",
+    "first_seen": "2026-01-06 16:26:47.345363"
+  },
+  {
+    "id": 2073397,
+    "domain": "cpcalendars.mokebhzes.ir",
+    "first_seen": "2026-01-06 16:26:47.345430"
+  },
+  {
+    "id": 2073398,
+    "domain": "cpcontacts.mokebhzes.ir",
+    "first_seen": "2026-01-06 16:26:47.345459"
+  },
+  {
+    "id": 2073399,
+    "domain": "mokebhzes.ir",
+    "first_seen": "2026-01-06 16:26:47.345478"
+  },
+  {
+    "id": 2073400,
+    "domain": "webdisk.mokebhzes.ir",
+    "first_seen": "2026-01-06 16:26:47.345530"
+  },
+  {
+    "id": 2073401,
+    "domain": "webmail.mokebhzes.ir",
+    "first_seen": "2026-01-06 16:26:47.345563"
+  },
+  {
+    "id": 2073402,
+    "domain": "www.mokebhzes.ir",
+    "first_seen": "2026-01-06 16:26:47.345583"
+  },
+  {
+    "id": 2073457,
+    "domain": "*.master-coach.ir",
+    "first_seen": "2026-01-06 16:27:10.844632"
+  },
+  {
+    "id": 2073458,
+    "domain": "master-coach.ir",
+    "first_seen": "2026-01-06 16:27:10.845310"
+  },
+  {
+    "id": 2073488,
+    "domain": "morynik.ir",
+    "first_seen": "2026-01-06 16:27:22.292778"
+  },
+  {
+    "id": 2073489,
+    "domain": "*.morynik.ir",
+    "first_seen": "2026-01-06 16:27:22.293387"
+  },
+  {
+    "id": 2073493,
+    "domain": "*.banehmakeup.ir",
+    "first_seen": "2026-01-06 16:27:25.008287"
+  },
+  {
+    "id": 2073508,
+    "domain": "ahill.ir",
+    "first_seen": "2026-01-06 16:27:36.033383"
+  },
+  {
+    "id": 2073509,
+    "domain": "bahar.ahill.ir",
+    "first_seen": "2026-01-06 16:27:36.033600"
+  },
+  {
+    "id": 2073510,
+    "domain": "rah-elm.ir",
+    "first_seen": "2026-01-06 16:27:36.051779"
+  },
+  {
+    "id": 2073511,
+    "domain": "www.rah-elm.ir",
+    "first_seen": "2026-01-06 16:27:36.052024"
+  },
+  {
+    "id": 2073516,
+    "domain": "*.aloevera-sabrina.ir",
+    "first_seen": "2026-01-06 16:27:38.200371"
+  },
+  {
+    "id": 2073517,
+    "domain": "aloevera-sabrina.ir",
+    "first_seen": "2026-01-06 16:27:38.200632"
+  },
+  {
+    "id": 2073537,
+    "domain": "mail.ooffgallery.ir",
+    "first_seen": "2026-01-06 16:27:47.344693"
+  },
+  {
+    "id": 2073538,
+    "domain": "ooffgallery.ir",
+    "first_seen": "2026-01-06 16:27:47.344978"
+  },
+  {
+    "id": 2073539,
+    "domain": "www.ooffgallery.ir",
+    "first_seen": "2026-01-06 16:27:47.345034"
+  },
+  {
+    "id": 2073555,
+    "domain": "*.1demo.50g.ir",
+    "first_seen": "2026-01-06 16:27:51.444249"
+  },
+  {
+    "id": 2073556,
+    "domain": "1demo.50g.ir",
+    "first_seen": "2026-01-06 16:27:51.444598"
+  },
+  {
+    "id": 2073569,
+    "domain": "azmoonjame.ir",
+    "first_seen": "2026-01-06 16:27:52.365117"
+  },
+  {
+    "id": 2073570,
+    "domain": "www.azmoonjame.ir",
+    "first_seen": "2026-01-06 16:27:52.365304"
+  },
+  {
+    "id": 2073816,
+    "domain": "*.amn-afarin.ir",
+    "first_seen": "2026-01-06 16:28:26.022736"
+  },
+  {
+    "id": 2073817,
+    "domain": "amn-afarin.ir",
+    "first_seen": "2026-01-06 16:28:26.022949"
+  },
+  {
+    "id": 2073858,
+    "domain": "*.tpal.ir",
+    "first_seen": "2026-01-06 16:28:34.525913"
+  },
+  {
+    "id": 2073859,
+    "domain": "tpal.ir",
+    "first_seen": "2026-01-06 16:28:34.526118"
+  },
+  {
+    "id": 2073866,
+    "domain": "cpanel.kiyanoil.ir",
+    "first_seen": "2026-01-06 16:28:36.372050"
+  },
+  {
+    "id": 2073867,
+    "domain": "cpcalendars.kiyanoil.ir",
+    "first_seen": "2026-01-06 16:28:36.372268"
+  },
+  {
+    "id": 2073868,
+    "domain": "cpcontacts.kiyanoil.ir",
+    "first_seen": "2026-01-06 16:28:36.372304"
+  },
+  {
+    "id": 2073869,
+    "domain": "kiyanoil.ir",
+    "first_seen": "2026-01-06 16:28:36.372337"
+  },
+  {
+    "id": 2073870,
+    "domain": "mail.kiyanoil.ir",
+    "first_seen": "2026-01-06 16:28:36.372369"
+  },
+  {
+    "id": 2073871,
+    "domain": "webdisk.kiyanoil.ir",
+    "first_seen": "2026-01-06 16:28:36.372407"
+  },
+  {
+    "id": 2073872,
+    "domain": "webmail.kiyanoil.ir",
+    "first_seen": "2026-01-06 16:28:36.372437"
+  },
+  {
+    "id": 2073873,
+    "domain": "www.kiyanoil.ir",
+    "first_seen": "2026-01-06 16:28:36.372472"
+  },
+  {
+    "id": 2073874,
+    "domain": "dr-khoshkhui.ir",
+    "first_seen": "2026-01-06 16:28:36.387883"
+  },
+  {
+    "id": 2073875,
+    "domain": "mail.dr-khoshkhui.ir",
+    "first_seen": "2026-01-06 16:28:36.388065"
+  },
+  {
+    "id": 2073876,
+    "domain": "www.dr-khoshkhui.ir",
+    "first_seen": "2026-01-06 16:28:36.388117"
+  },
+  {
+    "id": 2073911,
+    "domain": "cpanel.floramezon.ir",
+    "first_seen": "2026-01-06 16:29:05.631811"
+  },
+  {
+    "id": 2073912,
+    "domain": "cpcalendars.floramezon.ir",
+    "first_seen": "2026-01-06 16:29:05.632114"
+  },
+  {
+    "id": 2073913,
+    "domain": "cpcontacts.floramezon.ir",
+    "first_seen": "2026-01-06 16:29:05.632361"
+  },
+  {
+    "id": 2073914,
+    "domain": "floramezon.ir",
+    "first_seen": "2026-01-06 16:29:05.632550"
+  },
+  {
+    "id": 2073915,
+    "domain": "mail.floramezon.ir",
+    "first_seen": "2026-01-06 16:29:05.632625"
+  },
+  {
+    "id": 2073916,
+    "domain": "webdisk.floramezon.ir",
+    "first_seen": "2026-01-06 16:29:05.632666"
+  },
+  {
+    "id": 2073917,
+    "domain": "webmail.floramezon.ir",
+    "first_seen": "2026-01-06 16:29:05.632697"
+  },
+  {
+    "id": 2073918,
+    "domain": "www.floramezon.ir",
+    "first_seen": "2026-01-06 16:29:05.632744"
+  },
+  {
+    "id": 2073951,
+    "domain": "avidai.ir",
+    "first_seen": "2026-01-06 16:29:29.799332"
+  },
+  {
+    "id": 2073952,
+    "domain": "avidio.ir",
+    "first_seen": "2026-01-06 16:29:29.799558"
+  },
+  {
+    "id": 2073953,
+    "domain": "avids.ir",
+    "first_seen": "2026-01-06 16:29:29.799574"
+  },
+  {
+    "id": 2073954,
+    "domain": "avidserve.ir",
+    "first_seen": "2026-01-06 16:29:29.799583"
+  },
+  {
+    "id": 2073955,
+    "domain": "avidsmart.ir",
+    "first_seen": "2026-01-06 16:29:29.799591"
+  },
+  {
+    "id": 2073956,
+    "domain": "avidsmartsolution.ir",
+    "first_seen": "2026-01-06 16:29:29.799599"
+  },
+  {
+    "id": 2073957,
+    "domain": "avidsmartway.ir",
+    "first_seen": "2026-01-06 16:29:29.799608"
+  },
+  {
+    "id": 2073958,
+    "domain": "avidsolution.ir",
+    "first_seen": "2026-01-06 16:29:29.799615"
+  },
+  {
+    "id": 2073959,
+    "domain": "avidsw.ir",
+    "first_seen": "2026-01-06 16:29:29.799623"
+  },
+  {
+    "id": 2073960,
+    "domain": "avidw.ir",
+    "first_seen": "2026-01-06 16:29:29.799630"
+  },
+  {
+    "id": 2073961,
+    "domain": "avidway.ir",
+    "first_seen": "2026-01-06 16:29:29.799637"
+  },
+  {
+    "id": 2073962,
+    "domain": "ftp.avidsw.ir",
+    "first_seen": "2026-01-06 16:29:29.799645"
+  },
+  {
+    "id": 2073963,
+    "domain": "mail.avidsw.ir",
+    "first_seen": "2026-01-06 16:29:29.799718"
+  },
+  {
+    "id": 2073964,
+    "domain": "pop.avidsw.ir",
+    "first_seen": "2026-01-06 16:29:29.799762"
+  },
+  {
+    "id": 2073965,
+    "domain": "smtp.avidsw.ir",
+    "first_seen": "2026-01-06 16:29:29.799808"
+  },
+  {
+    "id": 2073966,
+    "domain": "www.avidsw.ir",
+    "first_seen": "2026-01-06 16:29:29.799845"
+  },
+  {
+    "id": 2073978,
+    "domain": "appchemistry.dabirmodern.ir",
+    "first_seen": "2026-01-06 16:29:38.962088"
+  },
+  {
+    "id": 2073979,
+    "domain": "dabirmodern.ir",
+    "first_seen": "2026-01-06 16:29:38.962302"
+  },
+  {
+    "id": 2073980,
+    "domain": "ftp.dabirmodern.ir",
+    "first_seen": "2026-01-06 16:29:38.962330"
+  },
+  {
+    "id": 2073981,
+    "domain": "mail.dabirmodern.ir",
+    "first_seen": "2026-01-06 16:29:38.962351"
+  },
+  {
+    "id": 2073982,
+    "domain": "pop.dabirmodern.ir",
+    "first_seen": "2026-01-06 16:29:38.962381"
+  },
+  {
+    "id": 2073983,
+    "domain": "smtp.dabirmodern.ir",
+    "first_seen": "2026-01-06 16:29:38.962402"
+  },
+  {
+    "id": 2073984,
+    "domain": "www.appchemistry.dabirmodern.ir",
+    "first_seen": "2026-01-06 16:29:38.962422"
+  },
+  {
+    "id": 2073985,
+    "domain": "www.dabirmodern.ir",
+    "first_seen": "2026-01-06 16:29:38.962449"
+  },
+  {
+    "id": 2073996,
+    "domain": "cpanel.maxware.ir",
+    "first_seen": "2026-01-06 16:29:43.363512"
+  },
+  {
+    "id": 2074001,
+    "domain": "webdisk.maxware.ir",
+    "first_seen": "2026-01-06 16:29:43.363664"
+  },
+  {
+    "id": 2074037,
+    "domain": "webmail.katawood.ir",
+    "first_seen": "2026-01-06 16:29:50.818187"
+  },
+  {
+    "id": 2074042,
+    "domain": "mmdta.ir",
+    "first_seen": "2026-01-06 16:29:51.473077"
+  },
+  {
+    "id": 2074053,
+    "domain": "*.mehdidelijani.ir",
+    "first_seen": "2026-01-06 16:29:52.488469"
+  },
+  {
+    "id": 2074054,
+    "domain": "mehdidelijani.ir",
+    "first_seen": "2026-01-06 16:29:52.488709"
+  },
+  {
+    "id": 2074079,
+    "domain": "*.asadzade.parsipage.ir",
+    "first_seen": "2026-01-06 16:30:05.016766"
+  },
+  {
+    "id": 2074080,
+    "domain": "asadzade.parsipage.ir",
+    "first_seen": "2026-01-06 16:30:05.017120"
+  },
+  {
+    "id": 2074095,
+    "domain": "saba.systemapi.ir",
+    "first_seen": "2026-01-06 16:30:07.061260"
+  },
+  {
+    "id": 2074119,
+    "domain": "itksolar.com.khalig.ir",
+    "first_seen": "2026-01-06 16:30:13.128691"
+  },
+  {
+    "id": 2074120,
+    "domain": "www.itksolar.com.khalig.ir",
+    "first_seen": "2026-01-06 16:30:13.128953"
+  },
+  {
+    "id": 2074153,
+    "domain": "*.engg.ir",
+    "first_seen": "2026-01-06 16:30:17.940620"
+  },
+  {
+    "id": 2074154,
+    "domain": "engg.ir",
+    "first_seen": "2026-01-06 16:30:17.941069"
+  },
+  {
+    "id": 2074156,
+    "domain": "www.hamava.otaria.ac.ir",
+    "first_seen": "2026-01-06 16:30:17.972319"
+  },
+  {
+    "id": 2074157,
+    "domain": "www.samaservice.otaria.ac.ir",
+    "first_seen": "2026-01-06 16:30:17.972383"
+  },
+  {
+    "id": 2074158,
+    "domain": "www.sanjesh.otaria.ac.ir",
+    "first_seen": "2026-01-06 16:30:17.972419"
+  },
+  {
+    "id": 2074160,
+    "domain": "*.nejla.ir",
+    "first_seen": "2026-01-06 16:30:18.236454"
+  },
+  {
+    "id": 2074222,
+    "domain": "*.saeiditejarat.ir",
+    "first_seen": "2026-01-06 16:30:31.039784"
+  },
+  {
+    "id": 2074223,
+    "domain": "saeiditejarat.ir",
+    "first_seen": "2026-01-06 16:30:31.040142"
+  },
+  {
+    "id": 2074224,
+    "domain": "saeiditejarat.ir.warcraft-fans.ir",
+    "first_seen": "2026-01-06 16:30:31.040207"
+  },
+  {
+    "id": 2074225,
+    "domain": "www.saeiditejarat.ir.warcraft-fans.ir",
+    "first_seen": "2026-01-06 16:30:31.040223"
+  },
+  {
+    "id": 2074306,
+    "domain": "dl.ertash.ir",
+    "first_seen": "2026-01-06 16:30:56.923091"
+  },
+  {
+    "id": 2074328,
+    "domain": "nashretorfeh.ir",
+    "first_seen": "2026-01-06 16:31:00.489644"
+  },
+  {
+    "id": 2074329,
+    "domain": "*.nashretorfeh.ir",
+    "first_seen": "2026-01-06 16:31:00.489860"
+  },
+  {
+    "id": 2074330,
+    "domain": "technoprinter.ir",
+    "first_seen": "2026-01-06 16:31:01.218833"
+  },
+  {
+    "id": 2074331,
+    "domain": "*.technoprinter.ir",
+    "first_seen": "2026-01-06 16:31:01.219065"
+  },
+  {
+    "id": 2074334,
+    "domain": "menu.oliva.4rx.ir",
+    "first_seen": "2026-01-06 16:31:01.961836"
+  },
+  {
+    "id": 2074335,
+    "domain": "www.menu.oliva.4rx.ir",
+    "first_seen": "2026-01-06 16:31:01.962064"
+  },
+  {
+    "id": 2074336,
+    "domain": "artinapp.ir",
+    "first_seen": "2026-01-06 16:31:02.131969"
+  },
+  {
+    "id": 2074337,
+    "domain": "*.artinapp.ir",
+    "first_seen": "2026-01-06 16:31:02.132187"
+  },
+  {
+    "id": 2074387,
+    "domain": "arrowwatch.ir",
+    "first_seen": "2026-01-06 16:31:13.836101"
+  },
+  {
+    "id": 2074388,
+    "domain": "www.arrowwatch.ir",
+    "first_seen": "2026-01-06 16:31:13.836362"
+  },
+  {
+    "id": 2074420,
+    "domain": "hadi63.ir",
+    "first_seen": "2026-01-06 16:31:21.023437"
+  },
+  {
+    "id": 2074421,
+    "domain": "*.hadi63.ir",
+    "first_seen": "2026-01-06 16:31:21.023881"
+  },
+  {
+    "id": 2074437,
+    "domain": "newdokan.daramino.ir",
+    "first_seen": "2026-01-06 16:31:25.859790"
+  },
+  {
+    "id": 2074438,
+    "domain": "www.newdokan.daramino.ir",
+    "first_seen": "2026-01-06 16:31:25.859979"
+  },
+  {
+    "id": 2074439,
+    "domain": "dpnilgoun.ir",
+    "first_seen": "2026-01-06 16:31:25.890873"
+  },
+  {
+    "id": 2074440,
+    "domain": "www.dpnilgoun.ir",
+    "first_seen": "2026-01-06 16:31:25.891239"
+  },
+  {
+    "id": 2074441,
+    "domain": "arkaio.ir",
+    "first_seen": "2026-01-06 16:31:25.904893"
+  },
+  {
+    "id": 2074442,
+    "domain": "cpanel.arkaio.ir",
+    "first_seen": "2026-01-06 16:31:25.905086"
+  },
+  {
+    "id": 2074443,
+    "domain": "cpcalendars.arkaio.ir",
+    "first_seen": "2026-01-06 16:31:25.905129"
+  },
+  {
+    "id": 2074444,
+    "domain": "cpcontacts.arkaio.ir",
+    "first_seen": "2026-01-06 16:31:25.905154"
+  },
+  {
+    "id": 2074445,
+    "domain": "mail.arkaio.ir",
+    "first_seen": "2026-01-06 16:31:25.905176"
+  },
+  {
+    "id": 2074446,
+    "domain": "webdisk.arkaio.ir",
+    "first_seen": "2026-01-06 16:31:25.905210"
+  },
+  {
+    "id": 2074447,
+    "domain": "webmail.arkaio.ir",
+    "first_seen": "2026-01-06 16:31:25.905233"
+  },
+  {
+    "id": 2074448,
+    "domain": "www.arkaio.ir",
+    "first_seen": "2026-01-06 16:31:25.905254"
+  },
+  {
+    "id": 2074456,
+    "domain": "cd.veket.ir",
+    "first_seen": "2026-01-06 16:31:34.039900"
+  },
+  {
+    "id": 2074484,
+    "domain": "lms.k-kj.ir",
+    "first_seen": "2026-01-06 16:31:39.359787"
+  },
+  {
+    "id": 2074485,
+    "domain": "www.lms.k-kj.ir",
+    "first_seen": "2026-01-06 16:31:39.359975"
+  },
+  {
+    "id": 2074486,
+    "domain": "cpanel.epgnl.ir",
+    "first_seen": "2026-01-06 16:31:39.437721"
+  },
+  {
+    "id": 2074487,
+    "domain": "cpcalendars.epgnl.ir",
+    "first_seen": "2026-01-06 16:31:39.437916"
+  },
+  {
+    "id": 2074488,
+    "domain": "cpcontacts.epgnl.ir",
+    "first_seen": "2026-01-06 16:31:39.437977"
+  },
+  {
+    "id": 2074489,
+    "domain": "epgnl.ir",
+    "first_seen": "2026-01-06 16:31:39.438003"
+  },
+  {
+    "id": 2074490,
+    "domain": "mail.epgnl.ir",
+    "first_seen": "2026-01-06 16:31:39.438026"
+  },
+  {
+    "id": 2074491,
+    "domain": "webdisk.epgnl.ir",
+    "first_seen": "2026-01-06 16:31:39.438065"
+  },
+  {
+    "id": 2074492,
+    "domain": "webmail.epgnl.ir",
+    "first_seen": "2026-01-06 16:31:39.438089"
+  },
+  {
+    "id": 2074493,
+    "domain": "www.epgnl.ir",
+    "first_seen": "2026-01-06 16:31:39.438119"
+  },
+  {
+    "id": 2074527,
+    "domain": "www.xuwztu.sidepath.ir",
+    "first_seen": "2026-01-06 16:31:47.787715"
+  },
+  {
+    "id": 2074528,
+    "domain": "xuwztu.sidepath.ir",
+    "first_seen": "2026-01-06 16:31:47.787919"
+  },
+  {
+    "id": 2074564,
+    "domain": "cdn.easort.ir",
+    "first_seen": "2026-01-06 16:31:57.538946"
+  },
+  {
+    "id": 2074572,
+    "domain": "www.toshakbarghi.ir",
+    "first_seen": "2026-01-06 16:31:59.945096"
+  },
+  {
+    "id": 2074705,
+    "domain": "jira.bernetco.ir",
+    "first_seen": "2026-01-06 16:32:16.928117"
+  },
+  {
+    "id": 2074712,
+    "domain": "*.iran-cctv.ir",
+    "first_seen": "2026-01-06 16:32:20.511191"
+  },
+  {
+    "id": 2074713,
+    "domain": "iran-cctv.ir",
+    "first_seen": "2026-01-06 16:32:20.511622"
+  },
+  {
+    "id": 2074754,
+    "domain": "darjaset.ir",
+    "first_seen": "2026-01-06 16:32:35.138175"
+  },
+  {
+    "id": 2074755,
+    "domain": "mail.darjaset.ir",
+    "first_seen": "2026-01-06 16:32:35.138429"
+  },
+  {
+    "id": 2074756,
+    "domain": "www.darjaset.ir",
+    "first_seen": "2026-01-06 16:32:35.138477"
+  },
+  {
+    "id": 2074774,
+    "domain": "dentistcommunity.ir",
+    "first_seen": "2026-01-06 16:32:38.727506"
+  },
+  {
+    "id": 2074775,
+    "domain": "*.dentistcommunity.ir",
+    "first_seen": "2026-01-06 16:32:38.727705"
+  },
+  {
+    "id": 2074799,
+    "domain": "toolsnetwork.ir",
+    "first_seen": "2026-01-06 16:32:43.406020"
+  },
+  {
+    "id": 2074800,
+    "domain": "*.toolsnetwork.ir",
+    "first_seen": "2026-01-06 16:32:43.406254"
+  },
+  {
+    "id": 2074834,
+    "domain": "panel.arhai.ir",
+    "first_seen": "2026-01-06 16:33:01.036569"
+  },
+  {
+    "id": 2074858,
+    "domain": "khorasanelectricco.ir",
+    "first_seen": "2026-01-06 16:33:24.968731"
+  },
+  {
+    "id": 2074859,
+    "domain": "www.khorasanelectricco.ir",
+    "first_seen": "2026-01-06 16:33:24.969404"
+  },
+  {
+    "id": 2074878,
+    "domain": "*.mobilepaladium.ir",
+    "first_seen": "2026-01-06 16:33:29.380136"
+  },
+  {
+    "id": 2074879,
+    "domain": "mobilepaladium.ir",
+    "first_seen": "2026-01-06 16:33:29.380404"
+  },
+  {
+    "id": 2074894,
+    "domain": "t.onlinebazikon.ir",
+    "first_seen": "2026-01-06 16:33:32.590613"
+  },
+  {
+    "id": 2074941,
+    "domain": "aradsoupu.ir",
+    "first_seen": "2026-01-06 16:33:38.623067"
+  },
+  {
+    "id": 2074942,
+    "domain": "www.aradsoupu.ir",
+    "first_seen": "2026-01-06 16:33:38.623290"
+  },
+  {
+    "id": 2074967,
+    "domain": "*.dl.sevennot.ir",
+    "first_seen": "2026-01-06 16:33:44.487390"
+  },
+  {
+    "id": 2074968,
+    "domain": "dl.sevennot.ir",
+    "first_seen": "2026-01-06 16:33:44.487562"
+  },
+  {
+    "id": 2074971,
+    "domain": "subcdn.taktechnology.ir",
+    "first_seen": "2026-01-06 16:33:45.111176"
+  },
+  {
+    "id": 2075026,
+    "domain": "adamfazayi.ir",
+    "first_seen": "2026-01-06 16:34:07.398657"
+  },
+  {
+    "id": 2075027,
+    "domain": "ftp.adamfazayi.ir",
+    "first_seen": "2026-01-06 16:34:07.398928"
+  },
+  {
+    "id": 2075028,
+    "domain": "mail.adamfazayi.ir",
+    "first_seen": "2026-01-06 16:34:07.398975"
+  },
+  {
+    "id": 2075029,
+    "domain": "pop.adamfazayi.ir",
+    "first_seen": "2026-01-06 16:34:07.399000"
+  },
+  {
+    "id": 2075030,
+    "domain": "smtp.adamfazayi.ir",
+    "first_seen": "2026-01-06 16:34:07.399044"
+  },
+  {
+    "id": 2075031,
+    "domain": "www.adamfazayi.ir",
+    "first_seen": "2026-01-06 16:34:07.399075"
+  },
+  {
+    "id": 2075034,
+    "domain": "hessabb.ir",
+    "first_seen": "2026-01-06 16:34:12.173281"
+  },
+  {
+    "id": 2075035,
+    "domain": "*.hessabb.ir",
+    "first_seen": "2026-01-06 16:34:12.173491"
+  },
+  {
+    "id": 2075036,
+    "domain": "*.yousefmobile.ir",
+    "first_seen": "2026-01-06 16:34:13.340234"
+  },
+  {
+    "id": 2075069,
+    "domain": "*.kayadoc.ir",
+    "first_seen": "2026-01-06 16:34:21.748634"
+  },
+  {
+    "id": 2075070,
+    "domain": "kayadoc.ir",
+    "first_seen": "2026-01-06 16:34:21.748824"
+  },
+  {
+    "id": 2075093,
+    "domain": "new.panikplast.ir",
+    "first_seen": "2026-01-06 16:34:24.377797"
+  },
+  {
+    "id": 2075094,
+    "domain": "www.new.panikplast.ir",
+    "first_seen": "2026-01-06 16:34:24.378031"
+  },
+  {
+    "id": 2075102,
+    "domain": "www.aghdasiyeeha.ir",
+    "first_seen": "2026-01-06 16:34:27.439525"
+  },
+  {
+    "id": 2075129,
+    "domain": "*.donyayeghab.ir",
+    "first_seen": "2026-01-06 16:34:34.879645"
+  },
+  {
+    "id": 2075130,
+    "domain": "donyayeghab.ir",
+    "first_seen": "2026-01-06 16:34:34.879868"
+  },
+  {
+    "id": 2075140,
+    "domain": "y20570.ir",
+    "first_seen": "2026-01-06 16:34:37.242688"
+  },
+  {
+    "id": 2075141,
+    "domain": "*.y20570.ir",
+    "first_seen": "2026-01-06 16:34:37.242894"
+  },
+  {
+    "id": 2075151,
+    "domain": "ftp.migplay.ir",
+    "first_seen": "2026-01-06 16:34:43.220577"
+  },
+  {
+    "id": 2075152,
+    "domain": "mail.migplay.ir",
+    "first_seen": "2026-01-06 16:34:43.220797"
+  },
+  {
+    "id": 2075153,
+    "domain": "migplay.ir",
+    "first_seen": "2026-01-06 16:34:43.220851"
+  },
+  {
+    "id": 2075154,
+    "domain": "pop.migplay.ir",
+    "first_seen": "2026-01-06 16:34:43.220893"
+  },
+  {
+    "id": 2075155,
+    "domain": "smtp.migplay.ir",
+    "first_seen": "2026-01-06 16:34:43.220931"
+  },
+  {
+    "id": 2075156,
+    "domain": "www.migplay.ir",
+    "first_seen": "2026-01-06 16:34:43.221013"
+  },
+  {
+    "id": 2075183,
+    "domain": "rocket.tidodani.ir",
+    "first_seen": "2026-01-06 16:34:46.919128"
+  },
+  {
+    "id": 2075206,
+    "domain": "mobile.ictel.ir",
+    "first_seen": "2026-01-06 16:35:13.947504"
+  },
+  {
+    "id": 2075214,
+    "domain": "seven.comic-home.ir",
+    "first_seen": "2026-01-06 16:35:18.929928"
+  },
+  {
+    "id": 2075215,
+    "domain": "www.seven.comic-home.ir",
+    "first_seen": "2026-01-06 16:35:18.930212"
+  },
+  {
+    "id": 2075242,
+    "domain": "amozeshonlineweb.ir",
+    "first_seen": "2026-01-06 16:35:23.263419"
+  },
+  {
+    "id": 2075243,
+    "domain": "www.amozeshonlineweb.ir",
+    "first_seen": "2026-01-06 16:35:23.263648"
+  },
+  {
+    "id": 2075244,
+    "domain": "admin.sepehrauto.ir",
+    "first_seen": "2026-01-06 16:35:24.007465"
+  },
+  {
+    "id": 2075245,
+    "domain": "api.sepehrauto.ir",
+    "first_seen": "2026-01-06 16:35:24.007699"
+  },
+  {
+    "id": 2075246,
+    "domain": "sepehrauto.ir",
+    "first_seen": "2026-01-06 16:35:24.007794"
+  },
+  {
+    "id": 2075293,
+    "domain": "*.pichak2.ir",
+    "first_seen": "2026-01-06 16:35:41.476169"
+  },
+  {
+    "id": 2075294,
+    "domain": "pichak2.ir",
+    "first_seen": "2026-01-06 16:35:41.476441"
+  },
+  {
+    "id": 2075295,
+    "domain": "www.nightselect.pichak2.ir",
+    "first_seen": "2026-01-06 16:35:41.476470"
+  },
+  {
+    "id": 2075296,
+    "domain": "www.theme98.pichak2.ir",
+    "first_seen": "2026-01-06 16:35:41.476526"
+  },
+  {
+    "id": 2075309,
+    "domain": "nedaealborz.ir",
+    "first_seen": "2026-01-06 16:35:47.259469"
+  },
+  {
+    "id": 2075310,
+    "domain": "nedayalborz.ir",
+    "first_seen": "2026-01-06 16:35:47.259848"
+  },
+  {
+    "id": 2075311,
+    "domain": "www.nedaealborz.ir",
+    "first_seen": "2026-01-06 16:35:47.259871"
+  },
+  {
+    "id": 2075312,
+    "domain": "www.nedayalborz.ir",
+    "first_seen": "2026-01-06 16:35:47.259939"
+  },
+  {
+    "id": 2075343,
+    "domain": "azinsab.ir",
+    "first_seen": "2026-01-06 16:35:53.804813"
+  },
+  {
+    "id": 2075344,
+    "domain": "ftp.azinsab.ir",
+    "first_seen": "2026-01-06 16:35:53.805083"
+  },
+  {
+    "id": 2075345,
+    "domain": "mail.azinsab.ir",
+    "first_seen": "2026-01-06 16:35:53.805371"
+  },
+  {
+    "id": 2075346,
+    "domain": "pop.azinsab.ir",
+    "first_seen": "2026-01-06 16:35:53.805470"
+  },
+  {
+    "id": 2075347,
+    "domain": "smtp.azinsab.ir",
+    "first_seen": "2026-01-06 16:35:53.805498"
+  },
+  {
+    "id": 2075348,
+    "domain": "www.azinsab.ir",
+    "first_seen": "2026-01-06 16:35:53.805521"
+  },
+  {
+    "id": 2075372,
+    "domain": "*.ioban.ir",
+    "first_seen": "2026-01-06 16:36:00.680545"
+  },
+  {
+    "id": 2075373,
+    "domain": "ioban.ir",
+    "first_seen": "2026-01-06 16:36:00.680740"
+  },
+  {
+    "id": 2075380,
+    "domain": "mail.abnooc.ir",
+    "first_seen": "2026-01-06 16:36:01.716267"
+  },
+  {
+    "id": 2075381,
+    "domain": "www.abnooc.ir",
+    "first_seen": "2026-01-06 16:36:01.716551"
+  },
+  {
+    "id": 2075409,
+    "domain": "www.yashilhayat.ir",
+    "first_seen": "2026-01-06 16:36:03.890345"
+  },
+  {
+    "id": 2075410,
+    "domain": "yashilhayat.ir",
+    "first_seen": "2026-01-06 16:36:03.890536"
+  },
+  {
+    "id": 2075463,
+    "domain": "*.little-shop.ir",
+    "first_seen": "2026-01-06 16:36:18.449542"
+  }
+]
